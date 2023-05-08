@@ -145,7 +145,7 @@
     [MSACAppCenter start:@"8d84c263-c565-444b-95e3-34c603ca329b" withServices:@[
       [MSACAnalytics class],
       [MSACCrashes class]
-    ]];
+    ]]; 
      
     return YES;
 }
