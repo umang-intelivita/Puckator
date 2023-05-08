@@ -467,6 +467,8 @@ typedef enum : NSUInteger {
         NSLog(@"Matched! %@", [[self product] midQuantity]);
         NSLog(@"Matched! %@", [[self product] carton]);
         NSLog(@"Matched! %@", [[self product] minOrderQuantity]);
+        NSLog(@"Matched! do_Not_Bulk_Discount %@", [[self product] do_Not_Bulk_Discount]);
+
         NSLog(@"totalproductInCard %@", [self quantity]);
         NSNumber *minprice = [[self product] minOrderQuantity];
         PKProductPrice *pricessss = [[self product] priceForQuantity:minprice];
@@ -490,7 +492,6 @@ typedef enum : NSUInteger {
             if ([self delegate] && [[self delegate] respondsToSelector:@selector(pkQuantityView:addedBasketItem:)]) {
                 [[self delegate] pkQuantityView:self addedBasketItem:basketItem];
             }
-            
         }
         
         if ([self quantity] >= [[self product] midQuantity] && [self quantity] < [[self product] carton] ) {

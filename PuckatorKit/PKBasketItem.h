@@ -14,6 +14,8 @@
 @interface PKBasketItem : NSManagedObject
 
 @property (nonatomic, retain) NSString * productUuid;
+//Dhaval
+
 @property (nonatomic, retain) NSString * productModel;
 @property (nonatomic, retain) NSString * productTitle;
 @property (nonatomic, retain) NSDate * createdAt;

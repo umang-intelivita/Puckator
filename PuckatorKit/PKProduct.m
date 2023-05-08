@@ -68,6 +68,7 @@
 @dynamic lock_to_carton_qty;
 @dynamic lock_to_carton_price;
 @dynamic MAXIMUM_DISCOUNT;
+@dynamic do_Not_Bulk_Discount;
 @dynamic orderedEDC;
 @dynamic fobPriceEDC;
 @dynamic backOrdersEDC;

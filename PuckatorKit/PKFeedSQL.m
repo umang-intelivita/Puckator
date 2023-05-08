@@ -362,6 +362,10 @@
                 [product setIsNewEDC:@([resultSet intForColumnIfExists:@"NEW_EDC"])];
                 [product setToBeDiscontinued:@([resultSet intForColumnIfExists:@"TBD"])];
                 [product setLock_to_carton_qty:@([resultSet intForColumnIfExists:@"lock_to_carton_qty"])];
+                
+                //Dhaval
+                [product setDo_Not_Bulk_Discount:@([resultSet intForColumnIfExists:@"DO_NOT_BULK_DISCOUNT"])];
+                
                 [product setLock_to_carton_price:@([resultSet intForColumnIfExists:@"lock_to_carton_price"])];
 //                [product setMAXIMUM_DISCOUNT:@([resultSet intForColumnIfExists:@"MAXIMUM_DISCOUNT"])];
                 [product setBuyer:[resultSet stringForColumnIfExists:@"BUYER"]];

@@ -342,6 +342,7 @@
     }
     
     [item setProductUuid:[product productId]];
+//    [item setDo_Not_Bulk_Discount:[product do_Not_Bulk_Discount]];
     [item setProductModel:[[product model] sanitize]];
     [item setProductTitle:[[product title] sanitize]];
     [item setFxRate:@(1.0)];

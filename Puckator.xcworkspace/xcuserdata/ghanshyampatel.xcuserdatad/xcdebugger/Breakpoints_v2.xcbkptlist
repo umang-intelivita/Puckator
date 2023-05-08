@@ -49,6 +49,21 @@
                   endingLineNumber = "122"
                   offsetFromSymbolStart = "160">
                </Location>
+               <Location
+                  uuid = "E7D59016-4337-4E67-8E35-C4B2943BE3B4 - 510aa0c5c33d1869"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PKBasketItem(Operations) applyWholeDiscount]"
+                  moduleName = "Puckator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ghanshyampatel/Desktop/Ghanshyam/Puckator-iOS/PuckatorKit/PKBasketItem+Operations.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "212">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -561,6 +576,21 @@
                   endingLineNumber = "497"
                   offsetFromSymbolStart = "208">
                </Location>
+               <Location
+                  uuid = "78AF62E9-0D7C-4955-9EAA-974F072E0EF0 - cb3b4c8cab8bbf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[PKFeedConfig currencyWithCurrencyId:]_block_invoke"
+                  moduleName = "Puckator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ghanshyampatel/Desktop/Ghanshyam/Puckator-iOS/PuckatorKit/PKFeedConfig.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "497"
+                  endingLineNumber = "497"
+                  offsetFromSymbolStart = "208">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -603,6 +633,21 @@
                   moduleName = "Puckator"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/ghanshyampatel/Downloads/Pucktor_new/PuckatorKit/PKFeedConfig.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "496"
+                  endingLineNumber = "496"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "197AD5E5-07F9-41DC-A91F-E18CD5EF55E1 - cb3b4c8cab8bbd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[PKFeedConfig currencyWithCurrencyId:]_block_invoke"
+                  moduleName = "Puckator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ghanshyampatel/Desktop/Ghanshyam/Puckator-iOS/PuckatorKit/PKFeedConfig.m"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "496"
@@ -657,6 +702,21 @@
                   endingLineNumber = "502"
                   offsetFromSymbolStart = "200">
                </Location>
+               <Location
+                  uuid = "BA35A526-4E06-4B5B-B3A1-5FF41408AB76 - af8a096484dc7a3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PKFeedConfig currencyWithCurrencyId:]"
+                  moduleName = "Puckator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ghanshyampatel/Desktop/Ghanshyam/Puckator-iOS/PuckatorKit/PKFeedConfig.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "502"
+                  endingLineNumber = "502"
+                  offsetFromSymbolStart = "200">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -705,6 +765,21 @@
                   endingLineNumber = "506"
                   offsetFromSymbolStart = "28">
                </Location>
+               <Location
+                  uuid = "707B6E58-753D-4477-86D5-15C76FB1F980 - 894f34d95c2b801c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PKFeedConfig uniqueCurrencies]"
+                  moduleName = "Puckator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ghanshyampatel/Desktop/Ghanshyam/Puckator-iOS/PuckatorKit/PKFeedConfig.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "506"
+                  endingLineNumber = "506"
+                  offsetFromSymbolStart = "28">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -747,6 +822,21 @@
                   moduleName = "Puckator"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/ghanshyampatel/Downloads/Pucktor_new/PuckatorKit/PKFeedConfig.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "507"
+                  endingLineNumber = "507"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "04161384-4F67-4EB4-8DCF-A8C82629B228 - 894f34d95c2b807f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PKFeedConfig uniqueCurrencies]"
+                  moduleName = "Puckator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ghanshyampatel/Desktop/Ghanshyam/Puckator-iOS/PuckatorKit/PKFeedConfig.m"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "507"
@@ -817,6 +907,21 @@
                   endingLineNumber = "508"
                   offsetFromSymbolStart = "160">
                </Location>
+               <Location
+                  uuid = "E82689FB-A131-4C66-AF9F-5011C820DF84 - 894f34d95c2b805e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PKFeedConfig uniqueCurrencies]"
+                  moduleName = "Puckator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ghanshyampatel/Desktop/Ghanshyam/Puckator-iOS/PuckatorKit/PKFeedConfig.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "508"
+                  endingLineNumber = "508"
+                  offsetFromSymbolStart = "160">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -879,6 +984,36 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1193"
                   endingLineNumber = "1193"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "BDE55D82-8182-455C-B86B-296AA88AC9E8 - b5e53eb1fb8f7a2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PKBasketTableViewController pkBasketStandardHeaderViewController:didInteractWithElementName:]"
+                  moduleName = "Puckator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ghanshyampatel/Desktop/Ghanshyam/Puckator-iOS/PuckatorDev/PKBasketTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1190"
+                  endingLineNumber = "1190"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "BDE55D82-8182-455C-B86B-296AA88AC9E8 - c0b7bcd08954e952"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__95-[PKBasketTableViewController pkBasketStandardHeaderViewController:didInteractWithElementName:]_block_invoke_2"
+                  moduleName = "Puckator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ghanshyampatel/Desktop/Ghanshyam/Puckator-iOS/PuckatorDev/PKBasketTableViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1191"
+                  endingLineNumber = "1191"
                   offsetFromSymbolStart = "80">
                </Location>
             </Locations>

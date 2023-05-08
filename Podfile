@@ -50,7 +50,6 @@ pod 'OCMapView'
 pod 'ObjectivePGP'
 pod 'Firebase/Crashlytics'
 pod 'Firebase/Analytics', '~> 8.1.0'
-pod 'AppCenter'
 
 #pod 'UITableView-NXEmptyView', '~> 0.1'
 end

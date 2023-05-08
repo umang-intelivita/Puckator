@@ -22,6 +22,10 @@
 @property (nonatomic, retain) NSNumber * lock_to_carton_qty;
 @property (nonatomic, retain) NSNumber * lock_to_carton_price;
 @property (nonatomic, retain) NSNumber * MAXIMUM_DISCOUNT;
+
+@property (nonatomic, retain) NSNumber * do_Not_Bulk_Discount;
+
+
 @property (nonatomic, retain) NSNumber * backOrders;
 @property (nonatomic, retain) NSNumber * backOrdersEDC;
 @property (nonatomic, retain) NSString * barcode;

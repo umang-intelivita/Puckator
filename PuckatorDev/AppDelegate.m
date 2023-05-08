@@ -34,9 +34,6 @@
 #import "PKDeactivatedViewController.h"
 #import "PKNetworking.h"
 @import Firebase;
-@import AppCenter;
-@import AppCenterAnalytics;
-@import AppCenterCrashes;
 
 @interface AppDelegate ()
 
@@ -141,14 +138,6 @@
     // Perform a check to make sure at least one feed have been
     // configured and syncronised:
     [self checkForConfiguredAndSyncronisedFeeds];
-    
-    [MSACAppCenter start:@"8d84c263-c565-444b-95e3-34c603ca329b" withServices:@[
-      [MSACAnalytics class],
-      [MSACCrashes class]
-    ]]; 
-    
-    
-    
     return YES;
 }
 

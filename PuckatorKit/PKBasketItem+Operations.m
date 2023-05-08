@@ -12,6 +12,7 @@
 #import "PKSession.h"
 #import "PKConstant.h"
 #import <objc/runtime.h>
+#import "UIAlertView+Puckator.h"
 
 NSString const *pkBasketItemCacheProductKey = @"PKBasketItem.operations.key.product";
 
@@ -56,7 +57,6 @@ NSString const *pkBasketItemCacheProductKey = @"PKBasketItem.operations.key.prod
     if ([[self isCustomPriceSet] boolValue]) {
         price = [self unitPrice];
     }
-    
     return [PKProductPrice formattedPrice:price withIsoCode:[self fxIsoCode]];
 }
 
@@ -114,26 +114,29 @@ NSString const *pkBasketItemCacheProductKey = @"PKBasketItem.operations.key.prod
 
 - (void)applyWholeDiscount {
     PKProduct *product = [PKProduct findWithProductId:[self productUuid] forFeedConfig:nil inContext:nil];
-    
     NSLog(@"CateogryID %@ ", [product categoryIds]);
     
-//    if [product ]
-
+    //Dhaval
+    int intValue = [product.do_Not_Bulk_Discount intValue];
+    if (intValue == 0) {
         PKProductPrice *productPrice = [[product sortedPrices] firstObject];
-        
         if (productPrice) {
             [self setUnitPrice:[productPrice priceWithWholesaleDiscount]];
         }
-    
-    
+    }
 }
 
 - (void)applyDiscountRate:(NSNumber *)discount {
     PKProduct *product = [PKProduct findWithProductId:[self productUuid] forFeedConfig:nil inContext:nil];
     PKProductPrice *productPrice = [product price];
-    
+    //Dhaval
     if (productPrice) {
-        [self setUnitPrice:[productPrice priceWithDiscountRate:discount]];
+        int intValue = [product.do_Not_Bulk_Discount intValue];
+        if (intValue == 0) {
+            if (productPrice) {
+                [self setUnitPrice:[productPrice priceWithDiscountRate:discount]];
+            }
+        }
     }
 }
 

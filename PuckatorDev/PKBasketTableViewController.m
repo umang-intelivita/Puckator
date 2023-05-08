@@ -1188,8 +1188,6 @@
     } else if ([elementName isEqualToString:@"wholesale"]) {
         // Loop the basket items:
         [[self items] enumerateObjectsUsingBlock:^(PKBasketItem *basketItem, NSUInteger idx, BOOL *stop) {
-            
-            
             [basketItem applyWholeDiscount];
         }];
         [[self tableView] reloadData];

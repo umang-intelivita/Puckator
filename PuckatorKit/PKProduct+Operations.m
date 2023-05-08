@@ -642,6 +642,11 @@
     return [[self lock_to_carton_qty] boolValue];
 }
 
+- (BOOL)isDo_Not_Bulk_Discount {
+    
+    return [[self do_Not_Bulk_Discount] boolValue];
+}
+
 - (BOOL)isLOCK_TO_CARTON_PRICE {
     
     return [[self lock_to_carton_price] boolValue];
