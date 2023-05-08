@@ -146,7 +146,7 @@
       [MSACAnalytics class],
       [MSACCrashes class]
     ]];
-    
+     
     return YES;
 }
 
