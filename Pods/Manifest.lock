@@ -329,7 +329,7 @@ CHECKOUT OPTIONS:
     :git: https://github.com/lukedixon/GraphKit.git
 
 SPEC CHECKSUMS:
-  AFNetworking: 9d57de7506959955d82fb5274ee4bec86b930e52
+  AFNetworking: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
   AFSoundManager: 06d615614be4caeee03a23812db65d4a8075b47f
   AHEasing: a47b04e264eb5f3a058b248d9aac6978257b6c42
   AppCenter: 3fd04aa1b166e16fdb03ec81dabe488aece83fbd
