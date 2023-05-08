@@ -22,6 +22,14 @@ PODS:
     - AFNetworking/NSURLSession
   - AFSoundManager (1.2.5)
   - AHEasing (1.3.1)
+  - AppCenter (4.4.3):
+    - AppCenter/Analytics (= 4.4.3)
+    - AppCenter/Crashes (= 4.4.3)
+  - AppCenter/Analytics (4.4.3):
+    - AppCenter/Core
+  - AppCenter/Core (4.4.3)
+  - AppCenter/Crashes (4.4.3):
+    - AppCenter/Core
   - APProgressHUD (1.1.2)
   - Base64 (1.0.1)
   - CSStickyHeaderFlowLayout (0.2.11)
@@ -204,6 +212,7 @@ DEPENDENCIES:
   - AFNetworking (~> 2.4)
   - AFSoundManager (~> 1.2)
   - AHEasing (from `https://github.com/warrenm/AHEasing.git`)
+  - AppCenter
   - APProgressHUD (~> 1.1)
   - CSStickyHeaderFlowLayout
   - CTCustomTableViewCell (~> 2)
@@ -251,6 +260,7 @@ SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
     - AFNetworking
     - AFSoundManager
+    - AppCenter
     - APProgressHUD
     - Base64
     - CSStickyHeaderFlowLayout
@@ -322,6 +332,7 @@ SPEC CHECKSUMS:
   AFNetworking: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
   AFSoundManager: 06d615614be4caeee03a23812db65d4a8075b47f
   AHEasing: a47b04e264eb5f3a058b248d9aac6978257b6c42
+  AppCenter: 3fd04aa1b166e16fdb03ec81dabe488aece83fbd
   APProgressHUD: ff2139d0bb9255ca6a2a528811c438d82143751d
   Base64: 4924bf3ca6fa559a5161ef717291bd450eb7bd1a
   CSStickyHeaderFlowLayout: e9bcb1762413f49d7d09e5bd0ae5efd1100116b7
@@ -376,6 +387,6 @@ SPEC CHECKSUMS:
   ZipArchive: e25a4373192673e3229ac8d6e9f64a3e5713c966
   zipzap: 940162d9c9c60472c2eab341385e4214da0fdf1c
 
-PODFILE CHECKSUM: 143d288226da7c4d45e5245cf70b57d47170bc41
+PODFILE CHECKSUM: 43c4bae07319a1c3e0a2a3a881c015dd308d6f55
 
-COCOAPODS: 1.10.2
+COCOAPODS: 1.12.0

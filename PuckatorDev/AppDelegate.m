@@ -34,6 +34,9 @@
 #import "PKDeactivatedViewController.h"
 #import "PKNetworking.h"
 @import Firebase;
+@import AppCenter;
+@import AppCenterAnalytics;
+@import AppCenterCrashes;
 
 @interface AppDelegate ()
 
@@ -45,6 +48,11 @@
     // Catch any uncaught exceptions:
     NSSetUncaughtExceptionHandler(&HandleExceptions);
     [FIRApp configure];
+    
+    [MSACAppCenter start:@"8d84c263-c565-444b-95e3-34c603ca329b" withServices:@[
+      [MSACAnalytics class],
+      [MSACCrashes class]
+    ]];
     
     if (@available(iOS 15.0, *)) {
         UINavigationBarAppearance *navBarAppearance = [[UINavigationBarAppearance alloc] init];
