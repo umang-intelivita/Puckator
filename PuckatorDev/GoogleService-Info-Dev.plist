@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>952852784922-bkpgb9l89at7tfi97gt9rv6g6rtqlbdo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.952852784922-bkpgb9l89at7tfi97gt9rv6g6rtqlbdo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAu6c6bZu5VX5nDa8KCyL6-IyrUcv5I8cA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>952852784922</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.57digital.puckator</string>
+	<key>PROJECT_ID</key>
+	<string>puckator-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>puckator-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:952852784922:ios:a167677a6355bda02feea3</string>
+</dict>
+</plist>

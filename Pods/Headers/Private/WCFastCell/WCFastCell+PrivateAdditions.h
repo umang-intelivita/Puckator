@@ -1,0 +1,1 @@
+../../../WCFastCell/Classes/ios/WCFastCell+PrivateAdditions.h

@@ -1,0 +1,1773 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="PuckatorDev/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body/>
+  </file>
+  <file original="PuckatorDev/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="0NJ-sH-0A2.placeholder">
+        <source>Contact Name</source>
+        <note>Class = "UITextField"; placeholder = "Contact Name"; ObjectID = "0NJ-sH-0A2";</note>
+      </trans-unit>
+      <trans-unit id="3Bd-Wi-Kua.title">
+        <source>View Order</source>
+        <note>Class = "UITabBarItem"; title = "View Order"; ObjectID = "3Bd-Wi-Kua";</note>
+      </trans-unit>
+      <trans-unit id="5ON-6y-xGE.text">
+        <source>Postcode:</source>
+        <note>Class = "UILabel"; text = "Postcode:"; ObjectID = "5ON-6y-xGE";</note>
+      </trans-unit>
+      <trans-unit id="5SA-7P-z7Z.text">
+        <source>The app should not show this UI, the tab bar will override selection and show a popover instead.</source>
+        <note>Class = "UILabel"; text = "The app should not show this UI, the tab bar will override selection and show a popover instead."; ObjectID = "5SA-7P-z7Z";</note>
+      </trans-unit>
+      <trans-unit id="5fp-3t-A48.text">
+        <source>1 image(s)</source>
+        <note>Class = "UILabel"; text = "1 image(s)"; ObjectID = "5fp-3t-A48";</note>
+      </trans-unit>
+      <trans-unit id="06w-mS-nn0.text">
+        <source>Sending Orders...</source>
+        <note>Class = "UILabel"; text = "Sending Orders..."; ObjectID = "06w-mS-nn0";</note>
+      </trans-unit>
+      <trans-unit id="7KG-de-Rjj.text">
+        <source>GBP: 000000.00</source>
+        <note>Class = "UILabel"; text = "GBP: 000000.00"; ObjectID = "7KG-de-Rjj";</note>
+      </trans-unit>
+      <trans-unit id="7aJ-6n-CBb.normalTitle">
+        <source>£999.99</source>
+        <note>Class = "UIButton"; normalTitle = "£999.99"; ObjectID = "7aJ-6n-CBb";</note>
+      </trans-unit>
+      <trans-unit id="7h7-MB-xtX.text">
+        <source>Date: Jan 01 2015</source>
+        <note>Class = "UILabel"; text = "Date: Jan 01 2015"; ObjectID = "7h7-MB-xtX";</note>
+      </trans-unit>
+      <trans-unit id="7oZ-s2-G08.normalTitle">
+        <source>Clear</source>
+        <note>Class = "UIButton"; normalTitle = "Clear"; ObjectID = "7oZ-s2-G08";</note>
+      </trans-unit>
+      <trans-unit id="8Li-qf-GMT.text">
+        <source>=</source>
+        <note>Class = "UILabel"; text = "="; ObjectID = "8Li-qf-GMT";</note>
+      </trans-unit>
+      <trans-unit id="8rF-5g-LP8.text">
+        <source>Mobile</source>
+        <note>Class = "UILabel"; text = "Mobile"; ObjectID = "8rF-5g-LP8";</note>
+      </trans-unit>
+      <trans-unit id="9Va-L7-SkJ.normalTitle">
+        <source>£9,999.99</source>
+        <note>Class = "UIButton"; normalTitle = "£9,999.99"; ObjectID = "9Va-L7-SkJ";</note>
+      </trans-unit>
+      <trans-unit id="9yP-FW-9If.title">
+        <source>Search</source>
+        <note>Class = "UITabBarItem"; title = "Search"; ObjectID = "9yP-FW-9If";</note>
+      </trans-unit>
+      <trans-unit id="19J-XV-zMg.text">
+        <source>Detail</source>
+        <note>Class = "UILabel"; text = "Detail"; ObjectID = "19J-XV-zMg";</note>
+      </trans-unit>
+      <trans-unit id="A5f-P6-2Db.text">
+        <source>Fiscal Number (IT only):</source>
+        <note>Class = "UILabel"; text = "Fiscal Number (IT only):"; ObjectID = "A5f-P6-2Db";</note>
+      </trans-unit>
+      <trans-unit id="ACE-fU-rPH.text">
+        <source>Email Address</source>
+        <note>Class = "UILabel"; text = "Email Address"; ObjectID = "ACE-fU-rPH";</note>
+      </trans-unit>
+      <trans-unit id="AuU-P2-YrU.text">
+        <source>Country:</source>
+        <note>Class = "UILabel"; text = "Country:"; ObjectID = "AuU-P2-YrU";</note>
+      </trans-unit>
+      <trans-unit id="Ccd-3R-iVs.text">
+        <source>Notes text view</source>
+        <note>Class = "UITextView"; text = "Notes text view"; ObjectID = "Ccd-3R-iVs";</note>
+      </trans-unit>
+      <trans-unit id="D6g-dF-g19.text">
+        <source>State:</source>
+        <note>Class = "UILabel"; text = "State:"; ObjectID = "D6g-dF-g19";</note>
+      </trans-unit>
+      <trans-unit id="D98-cr-p7i.text">
+        <source>City:</source>
+        <note>Class = "UILabel"; text = "City:"; ObjectID = "D98-cr-p7i";</note>
+      </trans-unit>
+      <trans-unit id="DIK-JW-71F.text">
+        <source>Sent e-mail confirmation to:</source>
+        <note>Class = "UILabel"; text = "Sent e-mail confirmation to:"; ObjectID = "DIK-JW-71F";</note>
+      </trans-unit>
+      <trans-unit id="Dlg-CL-pLf.title">
+        <source>Root View Controller</source>
+        <note>Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "Dlg-CL-pLf";</note>
+      </trans-unit>
+      <trans-unit id="GaY-gX-GFb.text">
+        <source>Postcode:</source>
+        <note>Class = "UILabel"; text = "Postcode:"; ObjectID = "GaY-gX-GFb";</note>
+      </trans-unit>
+      <trans-unit id="Gww-DW-4VD.text">
+        <source>VAT Number:</source>
+        <note>Class = "UILabel"; text = "VAT Number:"; ObjectID = "Gww-DW-4VD";</note>
+      </trans-unit>
+      <trans-unit id="HqJ-cy-5yb.text">
+        <source>Product Title</source>
+        <note>Class = "UILabel"; text = "Product Title"; ObjectID = "HqJ-cy-5yb";</note>
+      </trans-unit>
+      <trans-unit id="IUN-D7-O8r.text">
+        <source>MALMAR  - Wolf Clock (CKP36)</source>
+        <note>Class = "UILabel"; text = "MALMAR  - Wolf Clock (CKP36)"; ObjectID = "IUN-D7-O8r";</note>
+      </trans-unit>
+      <trans-unit id="Knc-zo-o75.text">
+        <source>Telephone</source>
+        <note>Class = "UILabel"; text = "Telephone"; ObjectID = "Knc-zo-o75";</note>
+      </trans-unit>
+      <trans-unit id="L9V-fv-eK7.text">
+        <source>Solar Queen</source>
+        <note>Class = "UILabel"; text = "Solar Queen"; ObjectID = "L9V-fv-eK7";</note>
+      </trans-unit>
+      <trans-unit id="LNh-vr-w3M.text">
+        <source>State:</source>
+        <note>Class = "UILabel"; text = "State:"; ObjectID = "LNh-vr-w3M";</note>
+      </trans-unit>
+      <trans-unit id="LkK-Uh-pz7.text">
+        <source>Status: Order Complete</source>
+        <note>Class = "UILabel"; text = "Status: Order Complete"; ObjectID = "LkK-Uh-pz7";</note>
+      </trans-unit>
+      <trans-unit id="M6w-h2-etU.placeholder">
+        <source>Company Name</source>
+        <note>Class = "UITextField"; placeholder = "Company Name"; ObjectID = "M6w-h2-etU";</note>
+      </trans-unit>
+      <trans-unit id="MMG-mb-TA3.text">
+        <source>Company Name</source>
+        <note>Class = "UILabel"; text = "Company Name"; ObjectID = "MMG-mb-TA3";</note>
+      </trans-unit>
+      <trans-unit id="MgI-en-Hgu.title">
+        <source>Root View Controller</source>
+        <note>Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "MgI-en-Hgu";</note>
+      </trans-unit>
+      <trans-unit id="MvA-jB-ZjI.title">
+        <source>Quick Search</source>
+        <note>Class = "UITableViewController"; title = "Quick Search"; ObjectID = "MvA-jB-ZjI";</note>
+      </trans-unit>
+      <trans-unit id="Obg-20-muw.normalTitle">
+        <source>12345</source>
+        <note>Class = "UIButton"; normalTitle = "12345"; ObjectID = "Obg-20-muw";</note>
+      </trans-unit>
+      <trans-unit id="Olr-jq-vAy.text">
+        <source>Create a new order</source>
+        <note>Class = "UILabel"; text = "Create a new order"; ObjectID = "Olr-jq-vAy";</note>
+      </trans-unit>
+      <trans-unit id="Oq8-fD-TLT.text">
+        <source>£9,999.99</source>
+        <note>Class = "UILabel"; text = "£9,999.99"; ObjectID = "Oq8-fD-TLT";</note>
+      </trans-unit>
+      <trans-unit id="Pal-gc-wBw.normalTitle">
+        <source>Find</source>
+        <note>Class = "UIButton"; normalTitle = "Find"; ObjectID = "Pal-gc-wBw";</note>
+      </trans-unit>
+      <trans-unit id="PtW-hs-4V5.text">
+        <source>Further Information</source>
+        <note>Class = "UILabel"; text = "Further Information"; ObjectID = "PtW-hs-4V5";</note>
+      </trans-unit>
+      <trans-unit id="Rbu-dA-UfV.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Rbu-dA-UfV";</note>
+      </trans-unit>
+      <trans-unit id="UNb-1e-xjc.text">
+        <source>There are 1,000 units in stock</source>
+        <note>Class = "UILabel"; text = "There are 1,000 units in stock"; ObjectID = "UNb-1e-xjc";</note>
+      </trans-unit>
+      <trans-unit id="Ux3-Vy-Lc6.text">
+        <source>Date Required:</source>
+        <note>Class = "UILabel"; text = "Date Required:"; ObjectID = "Ux3-Vy-Lc6";</note>
+      </trans-unit>
+      <trans-unit id="W8q-N7-wvx.text">
+        <source>Delivery Address</source>
+        <note>Class = "UILabel"; text = "Delivery Address"; ObjectID = "W8q-N7-wvx";</note>
+      </trans-unit>
+      <trans-unit id="YZe-LC-aJk.text">
+        <source>Address:</source>
+        <note>Class = "UILabel"; text = "Address:"; ObjectID = "YZe-LC-aJk";</note>
+      </trans-unit>
+      <trans-unit id="Z1T-qv-jOj.text">
+        <source>Contact Name:</source>
+        <note>Class = "UILabel"; text = "Contact Name:"; ObjectID = "Z1T-qv-jOj";</note>
+      </trans-unit>
+      <trans-unit id="ZKF-7C-mCD.text">
+        <source>Product Code | Stock 123</source>
+        <note>Class = "UILabel"; text = "Product Code | Stock 123"; ObjectID = "ZKF-7C-mCD";</note>
+      </trans-unit>
+      <trans-unit id="a4q-At-LgY.normalTitle">
+        <source>Find</source>
+        <note>Class = "UIButton"; normalTitle = "Find"; ObjectID = "a4q-At-LgY";</note>
+      </trans-unit>
+      <trans-unit id="a5P-iT-YrY.placeholder">
+        <source>Email Address</source>
+        <note>Class = "UITextField"; placeholder = "Email Address"; ObjectID = "a5P-iT-YrY";</note>
+      </trans-unit>
+      <trans-unit id="a6T-3O-BiG.normalTitle">
+        <source>Close</source>
+        <note>Class = "UIButton"; normalTitle = "Close"; ObjectID = "a6T-3O-BiG";</note>
+      </trans-unit>
+      <trans-unit id="akU-4Y-cLG.placeholder">
+        <source>Enter name/product code then press Search</source>
+        <note>Class = "UISearchBar"; placeholder = "Enter name/product code then press Search"; ObjectID = "akU-4Y-cLG";</note>
+      </trans-unit>
+      <trans-unit id="bdT-cE-UrE.text">
+        <source>#100</source>
+        <note>Class = "UILabel"; text = "#100"; ObjectID = "bdT-cE-UrE";</note>
+      </trans-unit>
+      <trans-unit id="c3G-CT-bEE.text">
+        <source>Method of Payment:</source>
+        <note>Class = "UILabel"; text = "Method of Payment:"; ObjectID = "c3G-CT-bEE";</note>
+      </trans-unit>
+      <trans-unit id="cVj-Aa-Q7O.title">
+        <source>Save</source>
+        <note>Class = "UIBarButtonItem"; title = "Save"; ObjectID = "cVj-Aa-Q7O";</note>
+      </trans-unit>
+      <trans-unit id="clV-uD-TiO.title">
+        <source>Customers</source>
+        <note>Class = "UITabBarItem"; title = "Customers"; ObjectID = "clV-uD-TiO";</note>
+      </trans-unit>
+      <trans-unit id="ewm-fG-jOl.text">
+        <source>Code: CBAG1234   Ref: (288) 09/03/2015   Stock: 100</source>
+        <note>Class = "UILabel"; text = "Code: CBAG1234   Ref: (288) 09/03/2015   Stock: 100"; ObjectID = "ewm-fG-jOl";</note>
+      </trans-unit>
+      <trans-unit id="fYj-gc-uOr.text">
+        <source>Title</source>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "fYj-gc-uOr";</note>
+      </trans-unit>
+      <trans-unit id="hiJ-fZ-bA2.text">
+        <source>Country:</source>
+        <note>Class = "UILabel"; text = "Country:"; ObjectID = "hiJ-fZ-bA2";</note>
+      </trans-unit>
+      <trans-unit id="i3R-pY-sAc.text">
+        <source>1 of 1</source>
+        <note>Class = "UILabel"; text = "1 of 1"; ObjectID = "i3R-pY-sAc";</note>
+      </trans-unit>
+      <trans-unit id="jDA-dA-RLf.text">
+        <source>Contact Name:</source>
+        <note>Class = "UILabel"; text = "Contact Name:"; ObjectID = "jDA-dA-RLf";</note>
+      </trans-unit>
+      <trans-unit id="jvE-fE-b2J.text">
+        <source>Billing Address</source>
+        <note>Class = "UILabel"; text = "Billing Address"; ObjectID = "jvE-fE-b2J";</note>
+      </trans-unit>
+      <trans-unit id="kEi-Na-X25.text">
+        <source>Notes:</source>
+        <note>Class = "UILabel"; text = "Notes:"; ObjectID = "kEi-Na-X25";</note>
+      </trans-unit>
+      <trans-unit id="kap-SH-YuO.placeholder">
+        <source>Mobile</source>
+        <note>Class = "UITextField"; placeholder = "Mobile"; ObjectID = "kap-SH-YuO";</note>
+      </trans-unit>
+      <trans-unit id="kfG-Q7-Bwq.text">
+        <source>Label</source>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "kfG-Q7-Bwq";</note>
+      </trans-unit>
+      <trans-unit id="mqV-UC-5uS.text">
+        <source>Order #000000</source>
+        <note>Class = "UILabel"; text = "Order #000000"; ObjectID = "mqV-UC-5uS";</note>
+      </trans-unit>
+      <trans-unit id="nmi-km-HmU.title">
+        <source>Categories</source>
+        <note>Class = "UITabBarItem"; title = "Categories"; ObjectID = "nmi-km-HmU";</note>
+      </trans-unit>
+      <trans-unit id="o3Q-yK-Isk.text">
+        <source>Detail</source>
+        <note>Class = "UILabel"; text = "Detail"; ObjectID = "o3Q-yK-Isk";</note>
+      </trans-unit>
+      <trans-unit id="oVq-lt-9xD.normalTitle">
+        <source>Clear</source>
+        <note>Class = "UIButton"; normalTitle = "Clear"; ObjectID = "oVq-lt-9xD";</note>
+      </trans-unit>
+      <trans-unit id="pED-Fm-9vz.text">
+        <source>Company Name:</source>
+        <note>Class = "UILabel"; text = "Company Name:"; ObjectID = "pED-Fm-9vz";</note>
+      </trans-unit>
+      <trans-unit id="pYF-21-rlD.text">
+        <source>You can edit the unit price after adding to order.</source>
+        <note>Class = "UILabel"; text = "You can edit the unit price after adding to order."; ObjectID = "pYF-21-rlD";</note>
+      </trans-unit>
+      <trans-unit id="pl6-jz-RF7.title">
+        <source>Root View Controller</source>
+        <note>Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "pl6-jz-RF7";</note>
+      </trans-unit>
+      <trans-unit id="poN-oq-I8g.text">
+        <source>City:</source>
+        <note>Class = "UILabel"; text = "City:"; ObjectID = "poN-oq-I8g";</note>
+      </trans-unit>
+      <trans-unit id="qab-Zr-LHa.title">
+        <source>Active Feed</source>
+        <note>Class = "UITabBarItem"; title = "Active Feed"; ObjectID = "qab-Zr-LHa";</note>
+      </trans-unit>
+      <trans-unit id="tMc-b2-vbY.text">
+        <source>Company Name</source>
+        <note>Class = "UILabel"; text = "Company Name"; ObjectID = "tMc-b2-vbY";</note>
+      </trans-unit>
+      <trans-unit id="uq0-pk-tPW.text">
+        <source>x</source>
+        <note>Class = "UILabel"; text = "x"; ObjectID = "uq0-pk-tPW";</note>
+      </trans-unit>
+      <trans-unit id="us1-4P-CRi.text">
+        <source>Dummy Controller
+</source>
+        <note>Class = "UILabel"; text = "Dummy Controller\n"; ObjectID = "us1-4P-CRi";</note>
+      </trans-unit>
+      <trans-unit id="v8I-Yv-PFo.text">
+        <source>Title</source>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "v8I-Yv-PFo";</note>
+      </trans-unit>
+      <trans-unit id="vGd-iN-F9Q.text">
+        <source>Sub Total:</source>
+        <note>Class = "UILabel"; text = "Sub Total:"; ObjectID = "vGd-iN-F9Q";</note>
+      </trans-unit>
+      <trans-unit id="vRK-1E-yzV.title">
+        <source>Root View Controller</source>
+        <note>Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "vRK-1E-yzV";</note>
+      </trans-unit>
+      <trans-unit id="vW9-Hd-uZX.text">
+        <source>Address:</source>
+        <note>Class = "UILabel"; text = "Address:"; ObjectID = "vW9-Hd-uZX";</note>
+      </trans-unit>
+      <trans-unit id="xKi-JP-J9i.text">
+        <source>Company Name:</source>
+        <note>Class = "UILabel"; text = "Company Name:"; ObjectID = "xKi-JP-J9i";</note>
+      </trans-unit>
+      <trans-unit id="zFG-7Z-FDh.placeholder">
+        <source>Telephone</source>
+        <note>Class = "UITextField"; placeholder = "Telephone"; ObjectID = "zFG-7Z-FDh";</note>
+      </trans-unit>
+      <trans-unit id="zMq-h4-3OV.text">
+        <source>Contact Name</source>
+        <note>Class = "UILabel"; text = "Contact Name"; ObjectID = "zMq-h4-3OV";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PuckatorDev/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0.8</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PuckatorDev/Localizable.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="%@ remaining %d">
+        <source>%1$@ remaining %2$d</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d failed">
+        <source>%d failed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d image(s)">
+        <source>%d image(s)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d image(s) were purged.">
+        <source>%d image(s) were purged.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%d of %d">
+        <source>%1$d of %2$d</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="5%">
+        <source>5%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="10%">
+        <source>10%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="15%">
+        <source>15%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="20%">
+        <source>20%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="25%">
+        <source>25%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="30 Days">
+        <source>30 Days</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="30 Days Agreed">
+        <source>30 Days Agreed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="30 Days Subject to refs">
+        <source>30 Days Subject to refs</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="30%">
+        <source>30%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="35%">
+        <source>35%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="37%">
+        <source>37%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="40%">
+        <source>40%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="60 Days">
+        <source>60 Days</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="90 Days">
+        <source>90 Days</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="120 Days">
+        <source>120 Days</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AUTHENTICATE WITH PUCKATOR.NET">
+        <source>AUTHENTICATE WITH PUCKATOR.NET</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Aborted!">
+        <source>Aborted!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Access Revoked">
+        <source>Access Revoked</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Access to this feed has been revoked by a Puckator Administrator.\n\nIf you feel this is in error please contact Puckator.">
+        <source>Access to this feed has been revoked by a Puckator Administrator.
+
+If you feel this is in error please contact Puckator.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Account Number">
+        <source>Account Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Accounts">
+        <source>Accounts</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Active">
+        <source>Active</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add">
+        <source>Add</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add products to this order">
+        <source>Add products to this order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add to order">
+        <source>Add to order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Address">
+        <source>Address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All Categories">
+        <source>All Categories</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All Products">
+        <source>All Products</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All the data you have downloaded (including products, customers and orders) will be permanently deleted from this device.">
+        <source>All the data you have downloaded (including products, customers and orders) will be permanently deleted from this device.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Analysing %@...">
+        <source>Analysing %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to cancel this order?">
+        <source>Are you sure you want to cancel this order?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete all broken product and category images?\n\nYou will need to perform a full sync of your feeds in order to download them again.\n\nWe only recommmend this if you have been instructed to do so.">
+        <source>Are you sure you want to delete all broken product and category images?
+
+You will need to perform a full sync of your feeds in order to download them again.
+
+We only recommmend this if you have been instructed to do so.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete all product and category images?\n\nYou will need to perform a full sync of your feeds in order to download them again.\n\nWe only recommmend this if you have been instructed to do so.">
+        <source>Are you sure you want to delete all product and category images?
+
+You will need to perform a full sync of your feeds in order to download them again.
+
+We only recommmend this if you have been instructed to do so.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete this feed?">
+        <source>Are you sure you want to delete this feed?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to remove all items from this order?">
+        <source>Are you sure you want to remove all items from this order?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to save this order?">
+        <source>Are you sure you want to save this order?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to send this %@?">
+        <source>Are you sure you want to send this %@?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Asc">
+        <source>Asc</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ascending Order">
+        <source>Ascending Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Authorising...">
+        <source>Authorising...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Available">
+        <source>Available</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Awaiting Activation">
+        <source>Awaiting Activation</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Back">
+        <source>Back</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Balance">
+        <source>Balance</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Barcode">
+        <source>Barcode</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Best Sellers First">
+        <source>Best Sellers First</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Billing Address">
+        <source>Billing Address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Browse">
+        <source>Browse</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CONFIGURE FEED">
+        <source>CONFIGURE FEED</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel Order">
+        <source>Cancel Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Carton">
+        <source>Carton</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Carton: ">
+        <source>Carton: </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Catalogue">
+        <source>Catalogue</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Categories">
+        <source>Categories</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Category">
+        <source>Category</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Check for Update">
+        <source>Check for Update</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Checking Network">
+        <source>Checking Network</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose">
+        <source>Choose</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="City">
+        <source>City</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear">
+        <source>Clear</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Order">
+        <source>Clear Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Code">
+        <source>Code</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Company">
+        <source>Company</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Company Name">
+        <source>Company Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Complete / Sent">
+        <source>Complete / Sent</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Complete Order">
+        <source>Complete Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contact">
+        <source>Contact</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contact Name">
+        <source>Contact Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Continue">
+        <source>Continue</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Copy">
+        <source>Copy</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Countries">
+        <source>Countries</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Country">
+        <source>Country</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Create new order">
+        <source>Create new order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Creating Order">
+        <source>Creating Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Credit Note">
+        <source>Credit Note</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Currency">
+        <source>Currency</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Current">
+        <source>Current</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom Icon">
+        <source>Custom Icon</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Customer">
+        <source>Customer</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Customer Details">
+        <source>Customer Details</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Customer not found">
+        <source>Customer not found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Customer not selected">
+        <source>Customer not selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Customers">
+        <source>Customers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Data">
+        <source>Data</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Date Added">
+        <source>Date Added</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Date Required">
+        <source>Date Required</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete Failed">
+        <source>Delete Failed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete Feed">
+        <source>Delete Feed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete Images">
+        <source>Delete Images</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delivery">
+        <source>Delivery</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delivery Address">
+        <source>Delivery Address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Desc">
+        <source>Desc</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Descending Order">
+        <source>Descending Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Description">
+        <source>Description</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Discount Amount">
+        <source>Discount Amount</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dismiss">
+        <source>Dismiss</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Don't Delete">
+        <source>Don't Delete</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Downloading %@...">
+        <source>Downloading %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Due in">
+        <source>Due in</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Duplicate">
+        <source>Duplicate</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Duplicate Address?">
+        <source>Duplicate Address?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="E-mail Address">
+        <source>E-mail Address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="E-mail Addresses">
+        <source>E-mail Addresses</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="E-mail confirmation to">
+        <source>E-mail confirmation to</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Edit">
+        <source>Edit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Email Address">
+        <source>Email Address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter E-mail Address">
+        <source>Enter E-mail Address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error connecting to the Puckator Server.\n\nPlease ensure you are connected to a Wi-Fi or Cellular Network.">
+        <source>Error connecting to the Puckator Server.
+
+Please ensure you are connected to a Wi-Fi or Cellular Network.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error downloading file">
+        <source>Error downloading file</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error extracting zip archive">
+        <source>Error extracting zip archive</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error importing %@...">
+        <source>Error importing %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error processing %@...">
+        <source>Error processing %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extracting %@...">
+        <source>Extracting %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed to upload %d order(s)/quote(s)">
+        <source>Failed to upload %d order(s)/quote(s)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Failed: %d orders/quotes">
+        <source>Failed: %d orders/quotes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feed Error">
+        <source>Feed Error</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feed Information">
+        <source>Feed Information</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feed Name">
+        <source>Feed Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feed Number">
+        <source>Feed Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feed Unavailable">
+        <source>Feed Unavailable</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Filter By...">
+        <source>Filter By...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Filtering %d Categories">
+        <source>Filtering %d Categories</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Filtering: %@">
+        <source>Filtering: %@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find Products">
+        <source>Find Products</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Finish Editing">
+        <source>Finish Editing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Finished processing %@...">
+        <source>Finished processing %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Finishing downloading %@...">
+        <source>Finishing downloading %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="First Name">
+        <source>First Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fiscal Number (IT)">
+        <source>Fiscal Number (IT)</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Further Information">
+        <source>Further Information</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Grand Total">
+        <source>Grand Total</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide Bespoke Products...">
+        <source>Hide Bespoke Products...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide bespoke products">
+        <source>Hide bespoke products</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide out of stock">
+        <source>Hide out of stock</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Image">
+        <source>Image</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Images">
+        <source>Images</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Importing %@...">
+        <source>Importing %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="In Warehouse">
+        <source>In Warehouse</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="In stock">
+        <source>In stock</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Inner">
+        <source>Inner</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Inner: ">
+        <source>Inner: </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid E-mail Address!">
+        <source>Invalid E-mail Address!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Feed">
+        <source>Invalid Feed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Feed Name">
+        <source>Invalid Feed Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Feed Number">
+        <source>Invalid Feed Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invalid Name!">
+        <source>Invalid Name!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invoice">
+        <source>Invoice</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Invoices">
+        <source>Invoices</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Just tap here or press the + button.">
+        <source>Just tap here or press the + button.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last Name">
+        <source>Last Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last received">
+        <source>Last received</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading">
+        <source>Loading</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Make sure you type a valid e-mail address.">
+        <source>Make sure you type a valid e-mail address.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Make sure you type your first and last name!">
+        <source>Make sure you type your first and last name!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Manage Feeds">
+        <source>Manage Feeds</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Manifest">
+        <source>Manifest</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Menu">
+        <source>Menu</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Method of Payment">
+        <source>Method of Payment</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Missing Name">
+        <source>Missing Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mobile Number">
+        <source>Mobile Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Most Popular First">
+        <source>Most Popular First</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Must be at least three characters">
+        <source>Must be at least three characters</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="My Feeds">
+        <source>My Feeds</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="My Recent Customers">
+        <source>My Recent Customers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Need help finding your Feed Number?  Contact Puckator Support.">
+        <source>Need help finding your Feed Number?  Contact Puckator Support.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Network is unreachable!">
+        <source>Network is unreachable!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Never syncronised">
+        <source>Never syncronised</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Order">
+        <source>New Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Products">
+        <source>New Products</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New order">
+        <source>New order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No - show bespoke">
+        <source>No - show bespoke</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Products Found">
+        <source>No Products Found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No active feed">
+        <source>No active feed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No categories selected">
+        <source>No categories selected</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No files were found in the zip archive">
+        <source>No files were found in the zip archive</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No graph data to display.">
+        <source>No graph data to display.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No products found">
+        <source>No products found</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="None">
+        <source>None</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not enough feeds!">
+        <source>Not enough feeds!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Notes">
+        <source>Notes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ok">
+        <source>Ok</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="On back order">
+        <source>On back order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="One Moment...">
+        <source>One Moment...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open">
+        <source>Open</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Options">
+        <source>Options</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order">
+        <source>Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order Complete">
+        <source>Order Complete</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order Details">
+        <source>Order Details</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order Invoice">
+        <source>Order Invoice</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order Open">
+        <source>Order Open</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order Saved">
+        <source>Order Saved</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order is missing">
+        <source>Order is missing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Orders">
+        <source>Orders</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Orders / Quotes">
+        <source>Orders / Quotes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Outstanding Order">
+        <source>Outstanding Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="P / Unit">
+        <source>P / Unit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Payload does not contain an XML document">
+        <source>Payload does not contain an XML document</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Payment Method">
+        <source>Payment Method</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Payment Method Not Agreed">
+        <source>Payment Method Not Agreed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please ensure you are connected to a Wi-Fi or Cellular Network.">
+        <source>Please ensure you are connected to a Wi-Fi or Cellular Network.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter a value!">
+        <source>Please enter a value!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter all information">
+        <source>Please enter all information</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Postcode">
+        <source>Postcode</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preparing to save %@ to database">
+        <source>Preparing to save %@ to database</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Price">
+        <source>Price</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Prices">
+        <source>Prices</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Prior Year GBP">
+        <source>Prior Year GBP</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Product">
+        <source>Product</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Product Code">
+        <source>Product Code</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Product Code Only">
+        <source>Product Code Only</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Product Code, Title &amp; Description">
+        <source>Product Code, Title &amp; Description</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Product Information">
+        <source>Product Information</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Product code">
+        <source>Product code</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Products">
+        <source>Products</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Products processed %d...">
+        <source>Products processed %d...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Proforma Agreed">
+        <source>Proforma Agreed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Puckator">
+        <source>Puckator</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Puckator provided Feed Number">
+        <source>Puckator provided Feed Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchase Unit">
+        <source>Purchase Unit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Purchase Unit: ">
+        <source>Purchase Unit: </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Queued">
+        <source>Queued</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quick">
+        <source>Quick</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quick Add">
+        <source>Quick Add</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quick Search">
+        <source>Quick Search</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quote Details">
+        <source>Quote Details</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recent Orders">
+        <source>Recent Orders</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remind Later">
+        <source>Remind Later</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove Items">
+        <source>Remove Items</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rep Name">
+        <source>Rep Name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Resend">
+        <source>Resend</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reset">
+        <source>Reset</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Retry">
+        <source>Retry</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sage">
+        <source>Sage</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save As Quote">
+        <source>Save As Quote</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save Feed">
+        <source>Save Feed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save Order">
+        <source>Save Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saved Order">
+        <source>Saved Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saved Quote">
+        <source>Saved Quote</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Saving %@ to database: %d%%">
+        <source>Saving %1$@ to database: %2$d%%</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search By...">
+        <source>Search By...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search Results">
+        <source>Search Results</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search for products">
+        <source>Search for products</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search is too short!">
+        <source>Search is too short!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select">
+        <source>Select</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Address">
+        <source>Select Address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Country">
+        <source>Select Country</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Currency...">
+        <source>Select Currency...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select Date">
+        <source>Select Date</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select a feed to switch to...">
+        <source>Select a feed to switch to...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Selected %d categories">
+        <source>Selected %d categories</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send">
+        <source>Send</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send Now">
+        <source>Send Now</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send Order">
+        <source>Send Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send Quote">
+        <source>Send Quote</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Setup your first feed">
+        <source>Setup your first feed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sort By">
+        <source>Sort By</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sort results by...">
+        <source>Sort results by...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sorting isn't avaliable when viewing new products.\n\nProducts are automatically ordered by date added.">
+        <source>Sorting isn't avaliable when viewing new products.
+
+Products are automatically ordered by date added.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="State">
+        <source>State</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Stock">
+        <source>Stock</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Stock Available">
+        <source>Stock Available</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Succeeded: %d orders/quotes">
+        <source>Succeeded: %d orders/quotes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Success importing %@...">
+        <source>Success importing %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Suppliers">
+        <source>Suppliers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Switch Feeds">
+        <source>Switch Feeds</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Switch to...">
+        <source>Switch to...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sync">
+        <source>Sync</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sync Catalogue">
+        <source>Sync Catalogue</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sync Complete!">
+        <source>Sync Complete!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sync Orders">
+        <source>Sync Orders</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sync Orders &amp; Quotes">
+        <source>Sync Orders &amp; Quotes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Syncronisation Error">
+        <source>Syncronisation Error</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TAP TO SWITCH">
+        <source>TAP TO SWITCH</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Telephone Number">
+        <source>Telephone Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="That e-mail address already exists!">
+        <source>That e-mail address already exists!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Puckator Server appears to be unavailable at this time!">
+        <source>The Puckator Server appears to be unavailable at this time!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The feed number entered is invalid!">
+        <source>The feed number entered is invalid!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The server rejected your order because you are using a version of the Puckator app that is no longer supported.  Please update the app and try again.">
+        <source>The server rejected your order because you are using a version of the Puckator app that is no longer supported.  Please update the app and try again.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The zip archive was extracted but did not contain a .xml file!">
+        <source>The zip archive was extracted but did not contain a .xml file!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There are %@ unit(s) in stock">
+        <source>There are %@ unit(s) in stock</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This customer has two different VAT numbers associated with them, which one would you like to use?">
+        <source>This customer has two different VAT numbers associated with them, which one would you like to use?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This feed has never been syncronised, so it is not possible to switch to it right now.">
+        <source>This feed has never been syncronised, so it is not possible to switch to it right now.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thumbnailing image: %i/%i">
+        <source>Thumbnailing image: %1$i/%2$i</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Thumbnailing images %@...">
+        <source>Thumbnailing images %@...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Title &amp; Description Only">
+        <source>Title &amp; Description Only</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Title Only">
+        <source>Title Only</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Top 100 Grossing">
+        <source>Top 100 Grossing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Top 100 Seller">
+        <source>Top 100 Seller</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Top 300 Grossing">
+        <source>Top 300 Grossing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Top 300 Seller">
+        <source>Top 300 Seller</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Top 500 Grossing">
+        <source>Top 500 Grossing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Top 500 Seller">
+        <source>Top 500 Seller</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Top Grossing">
+        <source>Top Grossing</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Top Sellers">
+        <source>Top Sellers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total">
+        <source>Total</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total Sold">
+        <source>Total Sold</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total Value">
+        <source>Total Value</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total YTD sold">
+        <source>Total YTD sold</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Totals">
+        <source>Totals</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Town">
+        <source>Town</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try Later">
+        <source>Try Later</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to add feed!">
+        <source>Unable to add feed!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to find the customer">
+        <source>Unable to find the customer</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unavailable">
+        <source>Unavailable</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unfortunately it was not possible to send all your orders/quotes to the server at this time, please check your Internet connection and try again.">
+        <source>Unfortunately it was not possible to send all your orders/quotes to the server at this time, please check your Internet connection and try again.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown">
+        <source>Unknown</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown Status">
+        <source>Unknown Status</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unsent orders: %d">
+        <source>Unsent orders: %d</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Updating...">
+        <source>Updating...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Upgrade Required">
+        <source>Upgrade Required</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VAT">
+        <source>VAT</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VAT Number">
+        <source>VAT Number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View Customers">
+        <source>View Customers</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View Order">
+        <source>View Order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning">
+        <source>Warning</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome">
+        <source>Welcome</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Which VAT number?">
+        <source>Which VAT number?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Who are you?">
+        <source>Who are you?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="YTD GBP">
+        <source>YTD GBP</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yes - hide bespoke">
+        <source>Yes - hide bespoke</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You can not delete your active feed.\n\nIn order to delete this feed you must first activate another feed.">
+        <source>You can not delete your active feed.
+
+In order to delete this feed you must first activate another feed.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You have already added this Feed Number!">
+        <source>You have already added this Feed Number!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You have orders in your outbox that have not been sent yet">
+        <source>You have orders in your outbox that have not been sent yet</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You must at at least one feed to continue.">
+        <source>You must at at least one feed to continue.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You must tap the Settings icon to configure feeds!">
+        <source>You must tap the Settings icon to configure feeds!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your client has not been issued a JWT token yet!">
+        <source>Your client has not been issued a JWT token yet!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your e-mail address">
+        <source>Your e-mail address</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your feeds...">
+        <source>Your feeds...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your first name">
+        <source>Your first name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your last name">
+        <source>Your last name</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your orders/quotes have been sent to the server!">
+        <source>Your orders/quotes have been sent to the server!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="e.g. Puckator UK">
+        <source>e.g. Puckator UK</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="in order currently">
+        <source>in order currently</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="order">
+        <source>order</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="quote">
+        <source>quote</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

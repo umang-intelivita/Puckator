@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "Puckator";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Cette application nécessite l'accès à votre localisation pour montrer votre position sur la carte.";
+

@@ -1,0 +1,1455 @@
+/* Displays the number of products for a search. E.g. #1 of 20 results. */
+"#%i of %i results" = "#%1$i van %2$i resultaten";
+
+/* The name of the item being downloaded (1$) and the number of remaining items ($2). E.g. 'Products remaining 450' */
+"%@ remaining %d" = "%1$@ resterend %2$d";
+
+/* Used during the order submission process to inform the user how many orders failed to be submitted. E.g. '5 failed' */
+"%d failed" = "%d mislukt";
+
+/* Used to inform the user how many images a product has. E.g. '5 image(s)' */
+"%d image(s)" = "%d afbeelding(s)";
+
+/* How many ($1) of ($2) have been processed so far. */
+"%d of %d" = "%1$d van %2$d";
+
+/* Displays the number of products that are currently on back order. E.g. 1,000 on back order */
+"%d on back order" = "%d in back order";
+
+/* No comment provided by engineer. */
+"3%" = "3%";
+
+/* No comment provided by engineer. */
+"5%" = "5%";
+
+/* No comment provided by engineer. */
+"10%" = "10%";
+
+/* No comment provided by engineer. */
+"15%" = "15%";
+
+/* No comment provided by engineer. */
+"20%" = "20%";
+
+/* No comment provided by engineer. */
+"25%" = "25%";
+
+/* No comment provided by engineer. */
+"30 Days" = "30 dagen";
+
+/* No comment provided by engineer. */
+"30 Days Agreed" = "30 dagen overeengekomen";
+
+/* No comment provided by engineer. */
+"30 Days Subject to refs" = "30 dagen beslissing door agent";
+
+/* No comment provided by engineer. */
+"30%" = "30";
+
+/* No comment provided by engineer. */
+"35%" = "35";
+
+/* No comment provided by engineer. */
+"37%" = "37";
+
+/* No comment provided by engineer. */
+"40%" = "40";
+
+/* No comment provided by engineer. */
+"60 Days" = "60 dagen";
+
+/* No comment provided by engineer. */
+"90 Days" = "90 dagen";
+
+/* No comment provided by engineer. */
+"120 Days" = "120 dagen";
+
+/* No comment provided by engineer. */
+"Aborted!" = "Afgebroken!";
+
+/* No comment provided by engineer. */
+"Access Revoked" = "Toegang geweigerd";
+
+/* No comment provided by engineer. */
+"Access to this feed has been revoked by a Puckator Administrator.\n\nIf you feel this is in error please contact Puckator." = "Toegang tot de feed is afgebroken door een Puckator administrator. Als dit niet juist is, neem svp contact op met Puckator.";
+
+/* No comment provided by engineer. */
+"Account Number" = "Account nummer";
+
+/* No comment provided by engineer. */
+"Account Ref" = "Account Referentie";
+
+/* No comment provided by engineer. */
+"Accounts" = "Accounts";
+
+/* No comment provided by engineer. */
+"Active" = "Actief";
+
+/* No comment provided by engineer. */
+"Add" = "Toevoegen";
+
+/* No comment provided by engineer. */
+"Add all products (%i)" = "Voeg alle producten toe";
+
+/* No comment provided by engineer. */
+"Add in stock products (%i)" = "Voeg voorradige producten toe";
+
+/* No comment provided by engineer. */
+"Add Products" = "Producten toevoegen";
+
+/* No comment provided by engineer. */
+"Add products to this order" = "Producten toevoegen aan order";
+
+/* No comment provided by engineer. */
+"Add to Existing Category" = "Aan bestaande categorie toevoegen";
+
+/* No comment provided by engineer. */
+"Address" = "Adres";
+
+/* No comment provided by engineer. */
+"All Categories" = "Alle categorieën";
+
+/* No comment provided by engineer. */
+"All Products" = "Alle producten";
+
+/* No comment provided by engineer. */
+"All the data you have downloaded (including products, customers and orders) will be permanently deleted from this device." = "Alle gedownloade data (incl. producten, klanten en orders) zal permanent verwijderd worden van dit apparaat.";
+
+/* No comment provided by engineer. */
+"An open order for this customer has been found, would you like to continue this order?" = "Een onafgeronde bestelling voor deze klant is gevonden. Wilt u doorgaan met deze bestelling?";
+
+/* Used during the sync process to inform the user what process is currently being analysed. E.g. 'Analysing Images' */
+"Analysing %@..." = "Analyse %@...";
+
+/* No comment provided by engineer. */
+"App Closing" = "App is aan het sluiten";
+
+/* No comment provided by engineer. */
+"App Update" = "App update";
+
+/* No comment provided by engineer. */
+"Apply" = "Toepassen";
+
+/* No comment provided by engineer. */
+"Apply Price" = "Prijs toepassen";
+
+/* No comment provided by engineer. */
+"Archived Orders" = "Gearchiveerde Orders";
+
+/* No comment provided by engineer. */
+"Are you sure you want to add %d products to your basket?\n\nThis will replace any matching products with the base quantity and price.\n\nWARNING: This might be slow for large orders." = "Weet u zeker dat u %d producten aan uw winkelwagen wilt toevoegen?\n \n Dit vervangt producten met vergelijkbare basis eenheden en prijzen. \n \nWAARSCHUWING: Dit kan traag verlopen bij grote bestellingen.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel all open orders? This cannot be undone." = "Wilt u alle openstaande bestellingen annuleren? Dit kan niet ongedaan gemaakt worden.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel this order?" = "Weet u zeker dat u deze order wilt annuleren?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this category?" = "Weet u zeker dat u deze categorie wilt verwijderen?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this feed?" = "Weet u zeker dat u deze feed wilt verwijderen?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove all items from this order?" = "Weet u zeker dat u alle producten van deze order wilt verwijderen?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to save this order?" = "Weet u zeker dat u deze order wilt opslaan?";
+
+/* Used to confirm with the user whether they want to send either an order or a quote. E.g. 'Are you sure you want to send this quote?' */
+"Are you sure you want to send this %@?" = "Weet u zeker dat u deze order wilt verzenden %@?";
+
+/* No comment provided by engineer. */
+"Are you sure you would like to delete all product images?\n\nYou will need perform a full sync to download the product images again." = "Weet u zeker dat u alle product afbeeldingen wilt verwijderen? Daarna zal er een volledige synchronisatie nodig zijn om alle afbeeldingen weer te downloaden.";
+
+/* The shorthand for ascending */
+"Asc" = "Oplopend";
+
+/* No comment provided by engineer. */
+"Ascending Order" = "Oplopende orders";
+
+/* No comment provided by engineer. */
+"AUTHENTICATE WITH PUCKATOR.NET" = "AUTHENTIFICATIE MET PUCKATOR.NET";
+
+/* No comment provided by engineer. */
+"Authorising..." = "Authorisatie bezig...";
+
+/* No comment provided by engineer. */
+"Available" = "Beschikbaar";
+
+/* No comment provided by engineer. */
+"Awaiting Activation" = "Wachtend op activatie";
+
+/* No comment provided by engineer. */
+"Back" = "Terug";
+
+/* No comment provided by engineer. */
+"Balance" = "Saldo";
+
+/* No comment provided by engineer. */
+"Barcode" = "Barcode";
+
+/* No comment provided by engineer. */
+"Basket Options" = "Winkelwagen opties";
+
+/* No comment provided by engineer. */
+"Best Sellers First" = "Bestsellers eerst";
+
+/* No comment provided by engineer. */
+"Billing Address" = "Factuuradres";
+
+/* No comment provided by engineer. */
+"Browse" = "Bladeren";
+
+/* No comment provided by engineer. */
+"Bulk Add" = "Voeg bulk toe";
+
+/* No comment provided by engineer. */
+"Buyer" = "Koper";
+
+/* No comment provided by engineer. */
+"Buyers" = "Kopers";
+
+/* No comment provided by engineer. */
+"Cancel" = "Annuleren";
+
+/* No comment provided by engineer. */
+"Cancel All" = "Annuleer alles";
+
+/* No comment provided by engineer. */
+"Cancel Order" = "Annuleer order";
+
+/* No comment provided by engineer. */
+"Cancel Orders" = "Annuleer bestellingen";
+
+/* No comment provided by engineer. */
+"Cancel Orders?" = "Bestellingen annuleren?";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Geannuleerd";
+
+/* No comment provided by engineer. */
+"Carton" = "Doos";
+
+/* No comment provided by engineer. */
+"Carton: " = "Doos:";
+
+/* No comment provided by engineer. */
+"Catalogue" = "Catalogus";
+
+/* No comment provided by engineer. */
+"Categories" = "Categorieën";
+
+/* No comment provided by engineer. */
+"Category Name" = "Categorie naam";
+
+/* No comment provided by engineer. */
+"Change Language" = "Wijzig de taal";
+
+/* No comment provided by engineer. */
+"Change Language & Exit app" = "Taal wijzigen & App verlaten";
+
+/* No comment provided by engineer. */
+"Change Quantity" = "Wijzig hoeveelheid";
+
+/* No comment provided by engineer. */
+"Check for Update" = "Check voor updates";
+
+/* No comment provided by engineer. */
+"Checking Network" = "Checken van het netwerk";
+
+/* No comment provided by engineer. */
+"Choose" = "Kies";
+
+/* No comment provided by engineer. */
+"City" = "Stad";
+
+/* No comment provided by engineer. */
+"Clear" = "Opschonen";
+
+/* No comment provided by engineer. */
+"Clear Filter" = "Wis huidige filter";
+
+/* No comment provided by engineer. */
+"Clear Order" = "Order leegmaken";
+
+/* No comment provided by engineer. */
+"Close" = "Sluiten";
+
+/* No comment provided by engineer. */
+"COD" = "Cash bij aflevering";
+
+/* No comment provided by engineer. */
+"Code" = "Code";
+
+/* No comment provided by engineer. */
+"Company" = "Bedrijf";
+
+/* No comment provided by engineer. */
+"Company Name" = "Bedrijfsnaam";
+
+/* No comment provided by engineer. */
+"Complete / Not Sent" = "Voltooid / niet verzonden";
+
+/* No comment provided by engineer. */
+"Complete / Sent" = "Voltooid / Verzonden";
+
+/* No comment provided by engineer. */
+"Complete Order" = "Order bevestigen";
+
+/* No comment provided by engineer. */
+"CONFIGURE FEED" = "FEED CONFIGUREREN";
+
+/* No comment provided by engineer. */
+"Confirm" = "Bevestig";
+
+/* No comment provided by engineer. */
+"Contact" = "Contactpersoon";
+
+/* No comment provided by engineer. */
+"Contact Name" = "Contact naam";
+
+/* No comment provided by engineer. */
+"Continue" = "Doorgaan";
+
+/* No comment provided by engineer. */
+"Continue Order" = "Doorgaan met bestelling";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopiëren";
+
+/* No comment provided by engineer. */
+"Countries" = "Landen";
+
+/* No comment provided by engineer. */
+"Country" = "Land";
+
+/* No comment provided by engineer. */
+"Create" = "Aanmaken";
+
+/* No comment provided by engineer. */
+"Create a new order" = "Creëer een nieuwe bestelling";
+
+/* No comment provided by engineer. */
+"Create New Category" = "Maak nieuwe categorie aan";
+
+/* No comment provided by engineer. */
+"Create new order" = "Nieuwe order aanmaken";
+
+/* No comment provided by engineer. */
+"Create Order" = "Nieuwe bestelling aanmaken";
+
+/* No comment provided by engineer. */
+"Creating" = "Wordt aangemaakt";
+
+/* No comment provided by engineer. */
+"Creating Order" = "Order aanmaken";
+
+/* No comment provided by engineer. */
+"Credit Limit" = "Kredietlimiet";
+
+/* No comment provided by engineer. */
+"Credit Note" = "Creditnota";
+
+/* No comment provided by engineer. */
+"Currency" = "Valuta";
+
+/* No comment provided by engineer. */
+"Currency Not Found" = "Valuta niet gevonden";
+
+/* No comment provided by engineer. */
+"Current" = "Valuta";
+
+/* No comment provided by engineer. */
+"Custom Category" = "Aangemaakte categorie";
+
+/* No comment provided by engineer. */
+"Custom Category Options" = "Opties aangemaakte categorie";
+
+/* No comment provided by engineer. */
+"Custom E-mail Addresses" = "E-mailadres";
+
+/* No comment provided by engineer. */
+"Custom Icon" = "Icoon kiezen";
+
+/* No comment provided by engineer. */
+"Customer" = "Klant";
+
+/* No comment provided by engineer. */
+"Customer Details" = "Klantgegevens";
+
+/* No comment provided by engineer. */
+"Customer E-mail Addresses" = "E-mailadressen";
+
+/* No comment provided by engineer. */
+"Customer not found" = "Klant niet gevonden";
+
+/* No comment provided by engineer. */
+"Customer not selected" = "Klant niet geselecteerd";
+
+/* No comment provided by engineer. */
+"Customers" = "Klanten";
+
+/* No comment provided by engineer. */
+"Data" = "Gegevens";
+
+/* No comment provided by engineer. */
+"Date Added" = "Datum toegevoegd";
+
+/* No comment provided by engineer. */
+"Date Required" = "Datum invoeren";
+
+/* No comment provided by engineer. */
+"Default" = "Standaard";
+
+/* No comment provided by engineer. */
+"Default Delivery Address" = "Standaard Afleveradres";
+
+/* No comment provided by engineer. */
+"Default Invoice Address" = "Standaard Factuuradres";
+
+/* No comment provided by engineer. */
+"Delete" = "Verwijder";
+
+/* No comment provided by engineer. */
+"Delete Category" = "Verwijder categorie";
+
+/* No comment provided by engineer. */
+"Delete Failed" = "Verwijderen mislukt";
+
+/* No comment provided by engineer. */
+"Delete Feed" = "Verwijder Feed";
+
+/* No comment provided by engineer. */
+"Delivery" = "Levering";
+
+/* No comment provided by engineer. */
+"Delivery Address" = "Afleveradres";
+
+/* The shorthand for descending */
+"Desc" = "Aflopend";
+
+/* No comment provided by engineer. */
+"Descending Order" = "Orders aflopend";
+
+/* Displayed on the large product view */
+"Description" = "Beschrijving";
+
+/* No comment provided by engineer. */
+"Diff +/-" = "Diff +/-";
+
+/* No comment provided by engineer. */
+"Dimensions" = "Maten";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Negeren";
+
+/* No comment provided by engineer. */
+"Done" = "Klaar";
+
+/* Used during the sync process to inform the user which process is currently being downloaded. E.g. 'Downloading Product...' */
+"Downloading %@..." = "Downloading %@...";
+
+/* No comment provided by engineer. */
+"Due in" = "Verwacht op";
+
+/* No comment provided by engineer. */
+"Due/Received" = "Verwacht/Ontvangen";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Dupliceren";
+
+/* No comment provided by engineer. */
+"Duplicate Address?" = "Dupliceer Adres";
+
+/* No comment provided by engineer. */
+"E-mail Address" = "E-mailadres";
+
+/* No comment provided by engineer. */
+"E-mail Addresses" = "E-mailadressen";
+
+/* No comment provided by engineer. */
+"E-mail confirmation to" = "E-mail bevestiging aan";
+
+/* No comment provided by engineer. */
+"e.g. Puckator UK" = "e.g. Puckator UK";
+
+/* No comment provided by engineer. */
+"Edit" = "Wijzigen";
+
+/* No comment provided by engineer. */
+"Edit Products" = "Producten wijzigen";
+
+/* No comment provided by engineer. */
+"Email Address" = "E-mailadres";
+
+/* No comment provided by engineer. */
+"Enter E-mail Address" = "Voer E-mailadres in";
+
+/* No comment provided by engineer. */
+"Enter name/product code then press Search" = "Voer de naam/product code in en druk dan op Search";
+
+/* No comment provided by engineer. */
+"Enter place name or postcode" = "Vul plaatsnaam of postcode in";
+
+/* No comment provided by engineer. */
+"Error" = "Fout";
+
+/* No comment provided by engineer. */
+"Error connecting to the Puckator Server.\n\nPlease ensure you are connected to a Wi-Fi or Cellular Network." = "Fout bij het verbinden met de Puckator Server.\n\t\t\n\t\tControleer of u verbonden bent met een Wi-Fi netwerk of mobiel netwerk.";
+
+/* No comment provided by engineer. */
+"Error downloading file" = "Fout bij het downloaden van het bestand";
+
+/* No comment provided by engineer. */
+"Error extracting zip archive" = "Fout bij het uitpakken van het ZIP bestand";
+
+/* Used during the sync process to inform the user if a process failed during the sync process. E.g. 'Error importing Products' */
+"Error importing %@..." = "Fout bij het importeren %@...";
+
+/* Used during the sync process to inform the user which process is currently being extracted. E.g. 'Extracting Product...' */
+"Extracting %@..." = "Ophalen %@...";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes failed to be submitted. E.g. 'Failed: 5 order(s)/quote(s)' */
+"Failed: %d order(s)/quote(s)" = "Mislukt: %d order(s)/quote(s)";
+
+/* No comment provided by engineer. */
+"Feed" = "Feed";
+
+/* No comment provided by engineer. */
+"Feed Error" = "Feed Fout";
+
+/* No comment provided by engineer. */
+"Feed Information" = "Feed informatie";
+
+/* No comment provided by engineer. */
+"Feed Name" = "Feed naam";
+
+/* No comment provided by engineer. */
+"Feed Number" = "Feed nummer";
+
+/* No comment provided by engineer. */
+"Feed Unavailable" = "Feed niet beschikbaar";
+
+/* No comment provided by engineer. */
+"Filter" = "Filter";
+
+/* No comment provided by engineer. */
+"Filter by price..." = "Filteren op prijs";
+
+/* No comment provided by engineer. */
+"Filter By..." = "Filteren op...";
+
+/* Used to inform the user which category they're filtering by. E.g. 'Filtering by Clocks */
+"Filtering by %@" = "Filteren op %@";
+
+/* Used to inform the user how many categories they're filtering by. E.g. 'Filtering by 10 categories */
+"Filtering by %d categories" = "Filteren op %d categorieën";
+
+/* No comment provided by engineer. */
+"Find" = "Zoek";
+
+/* No comment provided by engineer. */
+"Find Products" = "Vind producten";
+
+/* No comment provided by engineer. */
+"Find products that will be in-stock by:" = "Zoek producten die voorradig zijn per:";
+
+/* No comment provided by engineer. */
+"Finish Editing" = "Bewerken voltooid";
+
+/* Used during the sync process to inform the user which process has been downloaded. E.g. 'Finishing downloading Images' */
+"Finishing downloading %@..." = "Downloaden voltooid %@...";
+
+/* No comment provided by engineer. */
+"First Name" = "Voornaam";
+
+/* No comment provided by engineer. */
+"Fiscal Number (IT)" = "Fiscaal nummer (IT)";
+
+/* No comment provided by engineer. */
+"FOB" = "FOB";
+
+/* No comment provided by engineer. */
+"Further Information" = "Meer informatie";
+
+/* No comment provided by engineer. */
+"Grand Total" = "Eindtotaal";
+
+/* No comment provided by engineer. */
+"Hide bespoke products" = "Verberg besproken producten";
+
+/* No comment provided by engineer. */
+"Hide out of stock" = "Verberg wat niet voorradig is";
+
+/* Displayed on the large product view */
+"History" = "Geschiedenis";
+
+/* No comment provided by engineer. */
+"Image" = "Afbeelding";
+
+/* No comment provided by engineer. */
+"Images" = "Afbeeldingen";
+
+/* Used during the sync process to inform the user which process is currently being importing. E.g. 'Importing Product...' */
+"Importing %@..." = "Importeren %@...";
+
+/* No comment provided by engineer. */
+"in order currently" = "momenteel in bestelling";
+
+/* No comment provided by engineer. */
+"In stock" = "Op voorraad";
+
+/* No comment provided by engineer. */
+"In Warehouse" = "In magazjin";
+
+/* No comment provided by engineer. */
+"In-stock Date" = "Op voorraad datum";
+
+/* No comment provided by engineer. */
+"In-stock Products" = "Producten op voorraad";
+
+/* No comment provided by engineer. */
+"Inner" = "Binnenste";
+
+/* No comment provided by engineer. */
+"Inner: " = "Binnenste:";
+
+/* No comment provided by engineer. */
+"Invalid E-mail Address" = "E-mailadres niet geldig";
+
+/* No comment provided by engineer. */
+"Invalid E-mail Address!" = "Ongeldig E-mailadres!";
+
+/* No comment provided by engineer. */
+"Invalid Feed" = "Ongeldige feed";
+
+/* No comment provided by engineer. */
+"Invalid Feed Name" = "Ongeldige feed naam";
+
+/* No comment provided by engineer. */
+"Invalid Feed Number" = "Ongeldig feed nummer";
+
+/* No comment provided by engineer. */
+"Invalid Name!" = "Ongeldige naam!";
+
+/* No comment provided by engineer. */
+"Invoice" = "Factuur";
+
+/* No comment provided by engineer. */
+"Invoice Address" = "Factuuradres";
+
+/* No comment provided by engineer. */
+"Invoices" = "Facturen";
+
+/* No comment provided by engineer. */
+"Just tap here or press the + button." = "Tik hier of druk op + knop.";
+
+/* No comment provided by engineer. */
+"Large Product Images" = "Grotere product afbeelding";
+
+/* No comment provided by engineer. */
+"Last Name" = "Achternaam";
+
+/* No comment provided by engineer. */
+"Last received" = "Laaste keer ontvangen";
+
+/* No comment provided by engineer. */
+"LCP" = "LCP";
+
+/* No comment provided by engineer. */
+"Loading" = "Laden";
+
+/* No comment provided by engineer. */
+"Make sure you type a valid e-mail address." = "Verzeker u ervan dat een geldig e-mailadres is ingevoerd.";
+
+/* No comment provided by engineer. */
+"Make sure you type your first and last name!" = "Verzeker u ervan dat u de voor- en achternaam heeft ingevoerd!";
+
+/* No comment provided by engineer. */
+"Manage Feeds" = "Beheer feeds";
+
+/* No comment provided by engineer. */
+"Manifest" = "Lijst";
+
+/* No comment provided by engineer. */
+"Material" = "Materiaal";
+
+/* No comment provided by engineer. */
+"Maximum Price (optional)" = "Maximum prijs (optioneel)";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"Method of Payment" = "Betaalwijze";
+
+/* No comment provided by engineer. */
+"Minimal Price (optional)" = "Minimum prijs (optioneel)";
+
+/* No comment provided by engineer. */
+"Missing Name" = "Naam missend";
+
+/* No comment provided by engineer. */
+"Mobile" = "Mobiel";
+
+/* No comment provided by engineer. */
+"Mobile Number" = "Mobiel nummer";
+
+/* No comment provided by engineer. */
+"Most Popular First" = "Meest populaire eerst";
+
+/* No comment provided by engineer. */
+"Move" = "Doorschuiven";
+
+/* No comment provided by engineer. */
+"MTS" = "MTS";
+
+/* No comment provided by engineer. */
+"Must be at least three characters" = "Gebruik tenminste drie karakters";
+
+/* No comment provided by engineer. */
+"My Feeds" = "Mijn feeds";
+
+/* No comment provided by engineer. */
+"My Recent Customers" = "Mijn recente klanten";
+
+/* No comment provided by engineer. */
+"N/A" = "N.v.t.";
+
+/* No comment provided by engineer. */
+"Name" = "Naam";
+
+/* No comment provided by engineer. */
+"Need help finding your Feed Number?  Contact Puckator Support." = "Hulp nodig bij het vinden van uw feed nummer? Contacteer Puckator.";
+
+/* No comment provided by engineer. */
+"Network is unreachable!" = "Geen netwerk bereikbaar!";
+
+/* No comment provided by engineer. */
+"Never syncronised" = "Nooit gesynchroniseerd";
+
+/* No comment provided by engineer. */
+"New & Coming Soon" = "Nieuw & Binnenkort verwacht";
+
+/* No comment provided by engineer. */
+"New Order" = "Nieuwe bestelling";
+
+/* No comment provided by engineer. */
+"New Products in stock" = "Nieuwe producten op voorraad";
+
+/* No comment provided by engineer. */
+"New Products in Stock" = "Nieuwe producten op voorraad";
+
+/* No comment provided by engineer. */
+"No" = "Nummer";
+
+/* No comment provided by engineer. */
+"No active feed" = "Geen actieve feed";
+
+/* No comment provided by engineer. */
+"No categories selected" = "Geen categorie geselecteerd";
+
+/* No comment provided by engineer. */
+"No E-mail Address" = "Geen E-mailadres";
+
+/* No comment provided by engineer. */
+"No files were found in the zip archive" = "Geen bestanden gevonden in zip map";
+
+/* No comment provided by engineer. */
+"No graph data to display." = "Geen grafische data te tonen";
+
+/* No comment provided by engineer. */
+"No products found" = "Geen producten gevonden";
+
+/* No comment provided by engineer. */
+"No Products Found" = "Geen producten gevonden";
+
+/* No comment provided by engineer. */
+"None" = "Geen";
+
+/* No comment provided by engineer. */
+"Not Authorised" = "Niet toegestaan";
+
+/* No comment provided by engineer. */
+"Not enough feeds!" = "Niet genoeg feeds!";
+
+/* No comment provided by engineer. */
+"Notes" = "Notities";
+
+/* No comment provided by engineer. */
+"Ok" = "OK";
+
+/* No comment provided by engineer. */
+"On back order" = "In backorder";
+
+/* No comment provided by engineer. */
+"One Moment..." = "Momentje a.u.b....";
+
+/* No comment provided by engineer. */
+"Only show available products" = "Toon enkel voorradige producten";
+
+/* No comment provided by engineer. */
+"Open" = "Open";
+
+/* No comment provided by engineer. */
+"Open Order" = "Open bestelling";
+
+/* No comment provided by engineer. */
+"Open Orders" = "Open bestellingen";
+
+/* No comment provided by engineer. */
+"Open Orders (%d)" = "Open bestellingen (%d)";
+
+/* The name of the item being downloaded (1$) and the number of remaining items ($2). E.g. 'Products remaining 450' */
+"Optimising %@: %d/%d" = "Optimaliseren %1$@: %2$d/%3$d";
+
+/* No comment provided by engineer. */
+"Options" = "Opties";
+
+/* No comment provided by engineer. */
+"order" = "bestelling";
+
+/* No comment provided by engineer. */
+"Order" = "Bestelling";
+
+/* No comment provided by engineer. */
+"Order Complete" = "Bestelling compleet";
+
+/* No comment provided by engineer. */
+"Order Date" = "Besteldatum";
+
+/* No comment provided by engineer. */
+"Order Details" = "Bestelgegevens";
+
+/* No comment provided by engineer. */
+"Order Error" = "Er is iets fout gegaan met de order";
+
+/* No comment provided by engineer. */
+"Order Found" = "Bestelling gevonden";
+
+/* No comment provided by engineer. */
+"Order is missing" = "Bestelling niet aanwezig";
+
+/* No comment provided by engineer. */
+"Order notes can only be %d characters in length. Your notes have been cropped to this maximum length.\n\nPlease check your notes to make sure they are still informative before attempting to send this order again." = "Opmerkingen bij bestellingen max %d karakters in lengte. Notities zullen tot deze max. lengte afgekort moeten worden. Raadpleeg uw notitie en zorg dat alle benodigde informatie erin staat alvorens de order opnieuw te versturen.";
+
+/* No comment provided by engineer. */
+"Order Warning" = "Waarschuwing bij bestelling";
+
+/* No comment provided by engineer. */
+"Orders" = "Bestellingen";
+
+/* No comment provided by engineer. */
+"Orders / Quotes" = "Bestellingen / Offertes";
+
+/* No comment provided by engineer. */
+"Other" = "Andere";
+
+/* No comment provided by engineer. */
+"Outstanding" = "Openstaand";
+
+/* No comment provided by engineer. */
+"Outstanding Order" = "Openstaande bestelling";
+
+/* Purchase Unit */
+"P / Unit" = "P / Eenheid";
+
+/* No comment provided by engineer. */
+"Payload does not contain an XML document" = "Payload bevat geen XML document";
+
+/* No comment provided by engineer. */
+"Payment Method" = "Betaalmethode";
+
+/* No comment provided by engineer. */
+"Payment Method Not Agreed" = "Betaalmethode niet overeengekomen";
+
+/* No comment provided by engineer. */
+"PDF Style" = "PDF stijl";
+
+/* No comment provided by engineer. */
+"PEC Email Address (IT)" = "PEC email adres (Italië)";
+
+/* Displayed on the large product view */
+"Photos" = "Fotos";
+
+/* No comment provided by engineer. */
+"Please ensure you are connected to a Wi-Fi or Cellular Network." = "Bent u verbonden met een Wi-Fi of mobiel netwerk?";
+
+/* No comment provided by engineer. */
+"Please enter a place name or postcode:" = "Vul een plaatsnaam of postcode in:";
+
+/* No comment provided by engineer. */
+"Please enter a value!" = "Voer a.u.b. een waarde in!";
+
+/* No comment provided by engineer. */
+"Please enter all information" = "Voer a.u.b. alle informatie in";
+
+/* No comment provided by engineer. */
+"Please enter the price range you would like to filter by." = "Op welke prijsklasse wilt u filteren?";
+
+/* No comment provided by engineer. */
+"Please provide at least one valid e-mail address before trying to submit the order." = "Voer a.u.b. een geldig email adres in voordat u uw order bevestigd";
+
+/* No comment provided by engineer. */
+"Postcode" = "Postcode";
+
+/* No comment provided by engineer. */
+"Price" = "Prijs";
+
+/* No comment provided by engineer. */
+"Price Check" = "Controleer prijs";
+
+/* Used when filtering by price (between) */
+"Priced between" = "Prijs tussen";
+
+/* Used when filtering by price (greater than) */
+"Priced greater than" = "Prijs hoger dan";
+
+/* Used when filtering by price (less than) */
+"Priced less than" = "Prijs minder dan";
+
+/* Used when filtering by price (no selection) */
+"Priced..." = "Geprijsd...";
+
+/* No comment provided by engineer. */
+"Prices" = "Prijzen";
+
+/* No comment provided by engineer. */
+"Prior Year" = "Vorig jaar";
+
+/* No comment provided by engineer. */
+"Product code" = "Productcode";
+
+/* No comment provided by engineer. */
+"Product Code" = "Productcode";
+
+/* No comment provided by engineer. */
+"Product Code Only" = "Alleen productcode";
+
+/* No comment provided by engineer. */
+"Product Code, Title & Description" = "Productcode, titel en omschrijving";
+
+/* No comment provided by engineer. */
+"Product In-Stock" = "Producten op voorraad";
+
+/* No comment provided by engineer. */
+"Product Information" = "Productinformatie";
+
+/* No comment provided by engineer. */
+"Product Quick Filters" = "Product snelfilters";
+
+/* No comment provided by engineer. */
+"Product Title" = "Productnaam";
+
+/* No comment provided by engineer. */
+"Products" = "Producten";
+
+/* Used during the sync process to inform the user how many products have been processed. */
+"Products processed %d..." = "Producten verwerkt %d...";
+
+/* No comment provided by engineer. */
+"Proforma Agreed" = "Proforma factuur overeengekomen";
+
+/* No comment provided by engineer. */
+"Puckator" = "Puckator";
+
+/* No comment provided by engineer. */
+"Puckator provided Feed Number" = "Puckator feed nummer";
+
+/* No comment provided by engineer. */
+"Purchase Order Number" = "Bestelnummer";
+
+/* No comment provided by engineer. */
+"Purchase Unit" = "Aankoop eenheid";
+
+/* No comment provided by engineer. */
+"Purchase Unit: " = "Aankoop eenheid:";
+
+/* No comment provided by engineer. */
+"Queued" = "In wachtrij";
+
+/* No comment provided by engineer. */
+"Quick" = "Snel";
+
+/* No comment provided by engineer. */
+"Quick Add" = "Snel toevoegen";
+
+/* No comment provided by engineer. */
+"Quick Search" = "Snel zoeken";
+
+/* No comment provided by engineer. */
+"quote" = "offerte";
+
+/* No comment provided by engineer. */
+"Quote / Not Sent" = "Offerte / niet verzonden";
+
+/* No comment provided by engineer. */
+"Quote / Sent" = "Offerte / verzonden";
+
+/* No comment provided by engineer. */
+"Quote Details" = "Offerte informatie";
+
+/* No comment provided by engineer. */
+"RE Tax (ES)" = "RE Belasting (Spanje)";
+
+/* No comment provided by engineer. */
+"Recent Orders" = "Recente bestellingen";
+
+/* No comment provided by engineer. */
+"Recent Orders (%d)" = "Recente bestellingen (%d)";
+
+/* No comment provided by engineer. */
+"Remind Later" = "Herinner me later";
+
+/* No comment provided by engineer. */
+"Remove" = "Verwijderen";
+
+/* No comment provided by engineer. */
+"Remove Items" = "Verwijder producten";
+
+/* No comment provided by engineer. */
+"Remove Products" = "Verwijder";
+
+/* No comment provided by engineer. */
+"Rep Name" = "Naam agent";
+
+/* No comment provided by engineer. */
+"Resend" = "Opnieuw verzenden";
+
+/* No comment provided by engineer. */
+"Reset" = "Reset";
+
+/* No comment provided by engineer. */
+"Retry" = "Opnieuw proberen";
+
+/* No comment provided by engineer. */
+"Sage" = "Sage";
+
+/* No comment provided by engineer. */
+"Sales" = "Verkoop";
+
+/* No comment provided by engineer. */
+"Save" = "Opslaan";
+
+/* No comment provided by engineer. */
+"Save As Quote" = "Opslaan als offerte";
+
+/* No comment provided by engineer. */
+"Save Feed" = "Opslaan feed";
+
+/* No comment provided by engineer. */
+"Save Order" = "Opslaan bestelling";
+
+/* No comment provided by engineer. */
+"Saved Order" = "Opgeslagen bestelling";
+
+/* No comment provided by engineer. */
+"Search" = "Zoeken";
+
+/* No comment provided by engineer. */
+"Search By..." = "Zoek op...";
+
+/* No comment provided by engineer. */
+"Search Error" = "Zoekfout";
+
+/* No comment provided by engineer. */
+"Search for products" = "Zoek op producten";
+
+/* No comment provided by engineer. */
+"Search is too short!" = "Zoekwoord is te kort!";
+
+/* No comment provided by engineer. */
+"Search Results" = "Zoekresultaten";
+
+/* No comment provided by engineer. */
+"Select" = "Selecteer";
+
+/* No comment provided by engineer. */
+"Select a feed to switch to..." = "Selecteer een feed om naar te switchen...";
+
+/* No comment provided by engineer. */
+"Select Address" = "Selecteer adres";
+
+/* No comment provided by engineer. */
+"Select Category" = "Selecteer categorie";
+
+/* No comment provided by engineer. */
+"Select Country" = "Selecteer land";
+
+/* No comment provided by engineer. */
+"Select Currency..." = "Selecteer valuta...";
+
+/* No comment provided by engineer. */
+"Select Date" = "Selecteer datum";
+
+/* No comment provided by engineer. */
+"Select Language" = "Kies taal";
+
+/* Used to inform the user how many categories they have selected to filter by. E.g. 'Selected 5 categories' */
+"Selected %d categories" = "Geselecteerde %d categorieën";
+
+/* No comment provided by engineer. */
+"Send" = "Verzenden";
+
+/* No comment provided by engineer. */
+"Send Log" = "Zend logdata";
+
+/* No comment provided by engineer. */
+"Send Now" = "Verzend nu";
+
+/* No comment provided by engineer. */
+"Send Order" = "Verzend bestelling";
+
+/* No comment provided by engineer. */
+"Send Quote" = "Verzend offerte";
+
+/* No comment provided by engineer. */
+"Sending Orders" = "Orders zenden";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* No comment provided by engineer. */
+"Setup your first feed" = "Stel uw eerste feed in";
+
+/* No comment provided by engineer. */
+"Show sample products" = "Toon proefproducten";
+
+/* No comment provided by engineer. */
+"Sorry, '%@' is not a valid e-mail address, please fix this issue before trying to submit the order again." = "Sorry,'%@' is geen geldig email-adres, pas het adres aan alvorens de bestelling te plaatsen. ";
+
+/* No comment provided by engineer. */
+"Sorry, we were unable to find any customers for your search." = "Sorry, we kunnen geen klanten vinden op uw zoekopdracht.";
+
+/* No comment provided by engineer. */
+"Sort By" = "Gesorteerd op";
+
+/* No comment provided by engineer. */
+"Sorting isn't avaliable when viewing new products.\n\nProducts are automatically ordered by date added." = "Sorteren was niet beschikbaar bij het bekijken van nieuwe producten.Producten zjin automatisch gesorteerd op datum van toevoeging.";
+
+/* No comment provided by engineer. */
+"Standard Product List" = "Standaard productlijst";
+
+/* No comment provided by engineer. */
+"Start Sync" = "Start synchronisatie";
+
+/* No comment provided by engineer. */
+"State" = "Provincie";
+
+/* Informs the user which step they are in during the sync. E.g. Step 1/5: */
+"Step %d/%d:" = "Stap %1$d/%2$d:";
+
+/* No comment provided by engineer. */
+"Stock" = "Voorraad";
+
+/* No comment provided by engineer. */
+"Stock Available" = "Beschikbare voorraad";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes were successful submitted. E.g. 'Succeeded: 5 order(s)/quote(s)' */
+"Succeeded: %d order(s)/quote(s)" = "Geslaagd: %d bestelling(en)/offerte(s)";
+
+/* Used during the sync process to inform the user if a process was success during the sync process. E.g. 'Success importing Products' */
+"Success importing %@..." = "Geslaagd importeren %@...";
+
+/* No comment provided by engineer. */
+"Supplier" = "Leverancier";
+
+/* No comment provided by engineer. */
+"Suppliers" = "Leveranciers";
+
+/* No comment provided by engineer. */
+"Switch Feeds" = "Verander feeds";
+
+/* No comment provided by engineer. */
+"Switch to..." = "Verander naar...";
+
+/* No comment provided by engineer. */
+"Sync" = "Synchroniseer";
+
+/* No comment provided by engineer. */
+"Sync Catalogue" = "Synchroniseer catalogus";
+
+/* No comment provided by engineer. */
+"Sync Complete!" = "Synchronisatie voltooid!";
+
+/* No comment provided by engineer. */
+"Sync Orders" = "Synchroniseer bestellingen";
+
+/* No comment provided by engineer. */
+"Sync Orders & Quotes" = "Synchroniseer bestellingen & offertes";
+
+/* No comment provided by engineer. */
+"Syncronisation Error" = "Synchronisatie fout";
+
+/* No comment provided by engineer. */
+"Tap for options..." = "Tik hier voor opties";
+
+/* No comment provided by engineer. */
+"TAP TO SWITCH" = "TIK OM TE VERANDEREN";
+
+/* No comment provided by engineer. */
+"TBC" = "Te bevestigen";
+
+/* No comment provided by engineer. */
+"Telephone" = "Telefoon";
+
+/* No comment provided by engineer. */
+"Telephone Number" = "Telefoonnummer";
+
+/* No comment provided by engineer. */
+"The app must be closed and relaunched in order to change the language." = "De app moet worden afgesloten en opnieuw opgestart om de taal te kunnen wijzigen.";
+
+/* No comment provided by engineer. */
+"The app will now close, you can open it again by tapping the icon on your home screen." = "De App zal nu sluiten. U kunt deze opnieuw openen door op het icoontje te tikken dat op uw Home scherm staat.";
+
+/* No comment provided by engineer. */
+"The currency for this customer is not supported by your current feed.\n\nPlease either switch to a feed that supports %@ (%@) or setup a new customer using a supported currency." = "De valuta voor deze klant wordt niet door uw huidige feed ondersteund.\n\nSwitch naar een feed die %1$@ (%2$@) ondersteunt of zet een nieuw klantenaccount op dat wel door de huidige feed wordt ondersteund.";
+
+/* No comment provided by engineer. */
+"The feed number entered is invalid!" = "Het ingevoerde feed nummer is onjuist!";
+
+/* No comment provided by engineer. */
+"The products have been added." = "De producten zijn toegevoegd.";
+
+/* No comment provided by engineer. */
+"The products have been removed." = "De producten zijn verwijderd.";
+
+/* No comment provided by engineer. */
+"The Puckator Server appears to be unavailable at this time!" = "De Puckator server lijkt momenteel niet beschikbaar te zijn!";
+
+/* No comment provided by engineer. */
+"The server rejected your order because you are using a version of the Puckator app that is no longer supported.  Please update the app and try again." = "De server heeft de order afgewezen omdat de gebruikte versie van de Puckator app niet meer wordt ondersteund. Update de app en probeer het opnieuw.";
+
+/* No comment provided by engineer. */
+"The zip archive was extracted but did not contain a .xml file!" = "Het zip archief was geopend maar bevatte geen .xml file!";
+
+/* Used to inform the user how many items are in stock for a product. E.g. 'There are 1,203 unit(s) in stock. */
+"There are %@ unit(s) in stock" = "Er zijn %@ eenheden op voorraad";
+
+/* No comment provided by engineer. */
+"This customer has two different VAT numbers associated with them, which one would you like to use?" = "Deze klant heeft twee verschillende BTW nummers, welke wilt u gebruiken? ";
+
+/* No comment provided by engineer. */
+"This feed has never been syncronised, so it is not possible to switch to it right now." = "Deze feed is nooit gesynchroniseerd, daarom is het momenteel niet mogelijk om deze te veranderen.";
+
+/* No comment provided by engineer. */
+"This is a normal order" = "Dit is een standaard bestelling.";
+
+/* No comment provided by engineer. */
+"This is a show order" = "Dit is een vakbeurs bestelling.";
+
+/* No comment provided by engineer. */
+"Title & Description Only" = "Titel & omschrijving alleen";
+
+/* No comment provided by engineer. */
+"Title Only" = "Alleen titel";
+
+/* No comment provided by engineer. */
+"To another account" = "Naar een ander account";
+
+/* No comment provided by engineer. */
+"To this account" = "Naar dit account";
+
+/* No comment provided by engineer. */
+"Today" = "Vandaag";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "Morgen";
+
+/* No comment provided by engineer. */
+"Top 100 Grossing" = "Top 100 ";
+
+/* No comment provided by engineer. */
+"Top 100 Seller" = "Top 100 meest verkocht";
+
+/* No comment provided by engineer. */
+"Top 300 Grossing" = "Top 300";
+
+/* No comment provided by engineer. */
+"Top 300 Seller" = "Top 300 meest verkocht";
+
+/* No comment provided by engineer. */
+"Top 500 Grossing" = "Top 500 ";
+
+/* No comment provided by engineer. */
+"Top 500 Seller" = "Top 500 meest verkocht";
+
+/* No comment provided by engineer. */
+"Top Grossing" = "Top Grossing";
+
+/* No comment provided by engineer. */
+"Top Sellers" = "Top meest verkocht";
+
+/* No comment provided by engineer. */
+"Top Sellers Globally" = "Top meest verkocht wereldwijd";
+
+/* No comment provided by engineer. */
+"Total" = "Totaal";
+
+/* No comment provided by engineer. */
+"Total Sold" = "Totaal verkocht";
+
+/* No comment provided by engineer. */
+"Total Value" = "Totale waarde";
+
+/* No comment provided by engineer. */
+"Total YTD sold" = "Totaal dit jaar verkocht";
+
+/* No comment provided by engineer. */
+"Totals" = "Totalen";
+
+/* No comment provided by engineer. */
+"Town" = "Stad";
+
+/* No comment provided by engineer. */
+"Trade Show Order" = "Beursbestelling";
+
+/* No comment provided by engineer. */
+"Try Later" = "Probeer het later opnieuw";
+
+/* No comment provided by engineer. */
+"Unable to add feed!" = "Kan de feed niet toevoegen!";
+
+/* No comment provided by engineer. */
+"Unable to create a new customer, please contact your support team." = "Kan geen nieuwe klant toevoegen, contacteer klantenservice.";
+
+/* No comment provided by engineer. */
+"Unable to find the customer" = "Kan de klant niet vinden";
+
+/* No comment provided by engineer. */
+"Unavailable" = "Niet beschikbaar";
+
+/* No comment provided by engineer. */
+"Unfortunately it was not possible to send all your order(s)/quote(s) to the server at this time, please check your Internet connection and try again." = "Helaas was het niet mogelijk om alle bestellingen/offertes naar de server te zenden op dit moment. Check de internetverbinding en probeer opnieuw.";
+
+/* No comment provided by engineer. */
+"Unknown" = "Niet bekend";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Onbekende status";
+
+/* Used to inform the user how many order they have to send. E.g. 'Unsent orders: 5' */
+"Unsent orders: %d" = "Niet verzonden orders: %d";
+
+/* No comment provided by engineer. */
+"Update" = "Update";
+
+/* No comment provided by engineer. */
+"Update E-mail Address" = "Update E-mailadres";
+
+/* No comment provided by engineer. */
+"Updating..." = "Updating....";
+
+/* No comment provided by engineer. */
+"Upgrade Required" = "Update nodig";
+
+/* No comment provided by engineer. */
+"VAT" = "BTW";
+
+/* No comment provided by engineer. */
+"VAT Number" = "BTW nummer";
+
+/* Used to inform the user their app is up to date. E.g. 'Version 1.0 Your app is up to date' */
+"Version: %@\nYour app is up to date." = "Versie: %@ Uw app is up to date.";
+
+/* No comment provided by engineer. */
+"View Customers" = "Bekijk klanten";
+
+/* No comment provided by engineer. */
+"View Order" = "Bekijk bestelling";
+
+/* No comment provided by engineer. */
+"Warning" = "Waarschuwing";
+
+/* No comment provided by engineer. */
+"We were unable to find your location.\n\nPlease check you've given us access to your location in the settings app." = "We konden uw lokatie niet vinden. \n \n Heeft u ons toegang gegeven tot uw lokatie in de settings van de app? ";
+
+/* No comment provided by engineer. */
+"We're not authorised to use your location. Please enable location services in your device settings." = "We zijn niet geauthoriseerd in uw lokatie. Zet a.u.b. lokatie aan in de instellingen van uw apparaat.";
+
+/* No comment provided by engineer. */
+"Welcome" = "Welkom";
+
+/* No comment provided by engineer. */
+"Which style of PDF would you like to send to the customer?" = "Welke soort PDF stijl wilt u naar uw klant zenden?";
+
+/* No comment provided by engineer. */
+"Which VAT number?" = "Welk BTW nummer?";
+
+/* No comment provided by engineer. */
+"Who are you?" = "Wie bent u?";
+
+/* No comment provided by engineer. */
+"Would you like to copy this order to this account or to another account?" = "Wilt u deze bestelling naar dit account kopiëren of naar een ander account?";
+
+/* Informs the user of which version of the app they're running. E.g. 'You are using version: 1.0' */
+"You are using version: %@" = "U gebruikt versie: %@";
+
+/* No comment provided by engineer. */
+"You can not change your language while an order is in progress.\n\nPlease finish your current order before attempting to change the language." = "U kunt de taal niet wijzigen zolang de bestelling loopt. Maak de huidige bestelling af voordat u de taal probeert te wijzigen.";
+
+/* No comment provided by engineer. */
+"You can not delete your active feed.\n\nIn order to delete this feed you must first activate another feed." = "U kunt de actieve feed niet verwijderen.U moet eerst een andere feed activeren.";
+
+/* No comment provided by engineer. */
+"You can't access the menu when editing a custom category." = "Het is niet mogelijk het menu te bekijken wanneer u een aangemaakte categorie bewerkt.";
+
+/* No comment provided by engineer. */
+"You can't access this option when editing a custom category." = "U kunt deze optie niet gebruiken terwijl u een aangemaakt categorie bewerkt.";
+
+/* No comment provided by engineer. */
+"You can't add a custom category while you have an open order." = "U kunt geen zelfgekozen categorie aanmaken terwijl u een bestelling open heeft.";
+
+/* No comment provided by engineer. */
+"You can't edit this e-mail address because it isn't custom." = "U kunt dit email adres niet bewerken omdat het niet zelf gekozen is. ";
+
+/* No comment provided by engineer. */
+"You can't start an order when editing a custom category." = "U kunt geen bestelling aanmaken terwijl u een zelfgekozen categorie bewerkt.";
+
+/* No comment provided by engineer. */
+"You have already added this Feed Number!" = "U heeft dit feed nummer al eerder ingevoerd!";
+
+/* No comment provided by engineer. */
+"You have entered a price greater than the top tier price.\n\nAre you sure you want to apply this price?" = "U heeft een prijs ingevoerd die hoger ligt dan de hoogste prijsband.\n\nWeet u zeker dat u deze prijs wilt toepassen?";
+
+/* No comment provided by engineer. */
+"You have orders in your outbox that have not been sent yet" = "U heeft bestellingen in uw Uit-box die nog niet zijn verzonden.";
+
+/* No comment provided by engineer. */
+"You must have at least one feed to continue." = "U dient tenminste een feed te installeren om door te gaan.";
+
+/* No comment provided by engineer. */
+"You must tap the Settings icon to configure feeds!" = "U dient het Settings icoontje te tikken om de feed te configureren!";
+
+/* Used to inform the user they haven't been authenicated yet. JWT stand for JSON Web Token; and does not require translation. */
+"Your client has not been issued a JWT token yet!" = "Uw klant heeft nog geen JWT taken gekregen!";
+
+/* No comment provided by engineer. */
+"Your custom category has been created." = "Uw gekozen categorie is aangemaakt.";
+
+/* No comment provided by engineer. */
+"Your custom category has been deleted." = "Uw zelfgekozen categorie is verwijderd.";
+
+/* No comment provided by engineer. */
+"Your e-mail address" = "Uw emailadres";
+
+/* No comment provided by engineer. */
+"Your E-mail Addresses" = "Uw E-mailadres";
+
+/* No comment provided by engineer. */
+"Your feeds..." = "Uw feeds...";
+
+/* No comment provided by engineer. */
+"Your first name" = "Uw voornaam";
+
+/* No comment provided by engineer. */
+"Your last name" = "Uw achternaam";
+
+/* No comment provided by engineer. */
+"Your order(s)/quote(s) have been sent to the server!" = "Uw bestelling(en)/offerte(s) zijn naar de server verzonden!";
+
+/* No comment provided by engineer. */
+"YTD" = "Totaal dit jaar";
+

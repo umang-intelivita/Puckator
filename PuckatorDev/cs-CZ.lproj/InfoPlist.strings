@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "Puckator";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Tato aplikace potřebuje přístup k Vaší poloze, aby ji mohla zobrazit na mapě.";
+

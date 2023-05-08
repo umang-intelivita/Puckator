@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endpoint</key>
+	<string>https://www.puckator-ipad.net/ipad/api/v57/version?version=%@</string>
+	<key>fallback_endpoint</key>
+	<string>https://www.puckator-ipad.net/ipad/distribution/?version=%@&amp;ts=&lt;time&gt;</string>
+</dict>
+</plist>

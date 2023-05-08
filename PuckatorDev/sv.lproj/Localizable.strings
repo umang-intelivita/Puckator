@@ -1,0 +1,1455 @@
+/* Displays the number of products for a search. E.g. #1 of 20 results. */
+"#%i of %i results" = "#%1$i of %2$i resultat";
+
+/* The name of the item being downloaded (1$) and the number of remaining items ($2). E.g. 'Products remaining 450' */
+"%@ remaining %d" = "%1$@ resterande %2$d";
+
+/* Used during the order submission process to inform the user how many orders failed to be submitted. E.g. '5 failed' */
+"%d failed" = "%d misslyckades";
+
+/* Used to inform the user how many images a product has. E.g. '5 image(s)' */
+"%d image(s)" = "%d bild(er)";
+
+/* How many ($1) of ($2) have been processed so far. */
+"%d of %d" = "%1$d av %2$d";
+
+/* Displays the number of products that are currently on back order. E.g. 1,000 on back order */
+"%d on back order" = "%d på restorder";
+
+/* No comment provided by engineer. */
+"3%" = "3%";
+
+/* No comment provided by engineer. */
+"5%" = "5%";
+
+/* No comment provided by engineer. */
+"10%" = "10%";
+
+/* No comment provided by engineer. */
+"15%" = "15%";
+
+/* No comment provided by engineer. */
+"20%" = "20%";
+
+/* No comment provided by engineer. */
+"25%" = "25%";
+
+/* No comment provided by engineer. */
+"30 Days" = "30 Dagar";
+
+/* No comment provided by engineer. */
+"30 Days Agreed" = "30 Dagar Godkänt";
+
+/* No comment provided by engineer. */
+"30 Days Subject to refs" = "30 Dagar under förutsättning av ref";
+
+/* No comment provided by engineer. */
+"30%" = "30";
+
+/* No comment provided by engineer. */
+"35%" = "35";
+
+/* No comment provided by engineer. */
+"37%" = "37";
+
+/* No comment provided by engineer. */
+"40%" = "40";
+
+/* No comment provided by engineer. */
+"60 Days" = "60 Dagar";
+
+/* No comment provided by engineer. */
+"90 Days" = "90 Dagar";
+
+/* No comment provided by engineer. */
+"120 Days" = "120 Dagar";
+
+/* No comment provided by engineer. */
+"Aborted!" = "Avbryta!";
+
+/* No comment provided by engineer. */
+"Access Revoked" = "Access Nekad";
+
+/* No comment provided by engineer. */
+"Access to this feed has been revoked by a Puckator Administrator.\n\nIf you feel this is in error please contact Puckator." = "Tillgång till detta flöde har nekats av Puckator Administratör.Om du tror att detta är ett fel kontakta Puckator.";
+
+/* No comment provided by engineer. */
+"Account Number" = "Kontonummer";
+
+/* No comment provided by engineer. */
+"Account Ref" = "Konto Referens";
+
+/* No comment provided by engineer. */
+"Accounts" = "Konton";
+
+/* No comment provided by engineer. */
+"Active" = "Aktiv";
+
+/* No comment provided by engineer. */
+"Add" = "Lägga till";
+
+/* No comment provided by engineer. */
+"Add all products (%i)" = "Lägg till alla produkter";
+
+/* No comment provided by engineer. */
+"Add in stock products (%i)" = "Lägg till produkter som finns i lager";
+
+/* No comment provided by engineer. */
+"Add Products" = "Lägg till Produkter";
+
+/* No comment provided by engineer. */
+"Add products to this order" = "Lägg till produkter till denna ordern";
+
+/* No comment provided by engineer. */
+"Add to Existing Category" = "Lägg till i Befintlig Kategori";
+
+/* No comment provided by engineer. */
+"Address" = "Adresser";
+
+/* No comment provided by engineer. */
+"All Categories" = "Alla Kategorier";
+
+/* No comment provided by engineer. */
+"All Products" = "Alla Produkter";
+
+/* No comment provided by engineer. */
+"All the data you have downloaded (including products, customers and orders) will be permanently deleted from this device." = "Alla uppgifter du har laddat ner (inklusive produkter, kunder och ordrar) kommer att tas bort permanent från den här enheten.";
+
+/* No comment provided by engineer. */
+"An open order for this customer has been found, would you like to continue this order?" = "En öppen order för denna kund har hittats, vill du fortsätta med den ordern?";
+
+/* Used during the sync process to inform the user what process is currently being analysed. E.g. 'Analysing Images' */
+"Analysing %@..." = "Analyserar %@...";
+
+/* No comment provided by engineer. */
+"App Closing" = "Appen stängs ner";
+
+/* No comment provided by engineer. */
+"App Update" = "App Uppdatering";
+
+/* No comment provided by engineer. */
+"Apply" = "Applicera";
+
+/* No comment provided by engineer. */
+"Apply Price" = "Applicera Pris";
+
+/* No comment provided by engineer. */
+"Archived Orders" = "Arkiverade Ordrar";
+
+/* No comment provided by engineer. */
+"Are you sure you want to add %d products to your basket?\n\nThis will replace any matching products with the base quantity and price.\n\nWARNING: This might be slow for large orders." = "Är du säker på att du vill lägga till %d produkter till din varukorg? \n \n Detta kommer att ersätta matchande produkter med baskvantiteten och pris. \n \n VARNING: Detta kan gå långsamt för stora ordrar.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel all open orders? This cannot be undone." = "Är du säker på att du vill avbryta alla öppna ordrar? Detta kan inte ångras.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel this order?" = "Är du säker på att du vill avbryta denna order?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this category?" = "Är du säker på att du vill radera denna kategori?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this feed?" = "Är du säker på att du vill radera detta flöde?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove all items from this order?" = "Är du säker pä att du vill radera alla produkter från denna order?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to save this order?" = "Är du säker på att du vill spara denna order?";
+
+/* Used to confirm with the user whether they want to send either an order or a quote. E.g. 'Are you sure you want to send this quote?' */
+"Are you sure you want to send this %@?" = "Är du säker på att du vill skicka denna %@?";
+
+/* No comment provided by engineer. */
+"Are you sure you would like to delete all product images?\n\nYou will need perform a full sync to download the product images again." = "Är du säker på att du vill ta bort alla produkt bilder? Du kommer att behöva göra en full synkronisering för att ladda ner alla produkt bilder igen.";
+
+/* The shorthand for ascending */
+"Asc" = "Asc";
+
+/* No comment provided by engineer. */
+"Ascending Order" = "Lägst till Högst";
+
+/* No comment provided by engineer. */
+"AUTHENTICATE WITH PUCKATOR.NET" = "BEKRÄFTA MED PUCKATOR.NET";
+
+/* No comment provided by engineer. */
+"Authorising..." = "Godkänner...";
+
+/* No comment provided by engineer. */
+"Available" = "Tillgänglig";
+
+/* No comment provided by engineer. */
+"Awaiting Activation" = "Inväntar Aktivering";
+
+/* No comment provided by engineer. */
+"Back" = "Bakåt";
+
+/* No comment provided by engineer. */
+"Balance" = "Saldo på konto";
+
+/* No comment provided by engineer. */
+"Barcode" = "Streckkod";
+
+/* No comment provided by engineer. */
+"Basket Options" = "Varukorg Tillval";
+
+/* No comment provided by engineer. */
+"Best Sellers First" = "Storsäljare Först";
+
+/* No comment provided by engineer. */
+"Billing Address" = "Faktura Adress";
+
+/* No comment provided by engineer. */
+"Browse" = "Söka";
+
+/* No comment provided by engineer. */
+"Bulk Add" = "Lägg till Bulk";
+
+/* No comment provided by engineer. */
+"Buyer" = "Inköpare";
+
+/* No comment provided by engineer. */
+"Buyers" = "Inköpare";
+
+/* No comment provided by engineer. */
+"Cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"Cancel All" = "Avbryt Alla";
+
+/* No comment provided by engineer. */
+"Cancel Order" = "Avbryt Order";
+
+/* No comment provided by engineer. */
+"Cancel Orders" = "Avbryt Ordrar";
+
+/* No comment provided by engineer. */
+"Cancel Orders?" = "Avbryt Ordrar?";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Avbruten";
+
+/* No comment provided by engineer. */
+"Carton" = "Kartong";
+
+/* No comment provided by engineer. */
+"Carton: " = "Kartong:";
+
+/* No comment provided by engineer. */
+"Catalogue" = "Katalog";
+
+/* No comment provided by engineer. */
+"Categories" = "Kategorier";
+
+/* No comment provided by engineer. */
+"Category Name" = "Kategori-Namn";
+
+/* No comment provided by engineer. */
+"Change Language" = "Ändra Språk";
+
+/* No comment provided by engineer. */
+"Change Language & Exit app" = "Ändra Språk & Stäng App";
+
+/* No comment provided by engineer. */
+"Change Quantity" = "Ändra Antal";
+
+/* No comment provided by engineer. */
+"Check for Update" = "Letar efter Uppdatering";
+
+/* No comment provided by engineer. */
+"Checking Network" = "Kontrollerar Nätverk";
+
+/* No comment provided by engineer. */
+"Choose" = "Välj";
+
+/* No comment provided by engineer. */
+"City" = "Stad";
+
+/* No comment provided by engineer. */
+"Clear" = "Rensa";
+
+/* No comment provided by engineer. */
+"Clear Filter" = "Återställ filter";
+
+/* No comment provided by engineer. */
+"Clear Order" = "Rensa Order";
+
+/* No comment provided by engineer. */
+"Close" = "Stäng";
+
+/* No comment provided by engineer. */
+"COD" = "Kontant vid Leverans";
+
+/* No comment provided by engineer. */
+"Code" = "Kod";
+
+/* No comment provided by engineer. */
+"Company" = "Företag";
+
+/* No comment provided by engineer. */
+"Company Name" = "Företagets Namn";
+
+/* No comment provided by engineer. */
+"Complete / Not Sent" = "Klar / Ej Skickad";
+
+/* No comment provided by engineer. */
+"Complete / Sent" = "Klar / Skickad";
+
+/* No comment provided by engineer. */
+"Complete Order" = "Skicka Order";
+
+/* No comment provided by engineer. */
+"CONFIGURE FEED" = "Konfigurera Flöde";
+
+/* No comment provided by engineer. */
+"Confirm" = "Bekräfta";
+
+/* No comment provided by engineer. */
+"Contact" = "Kontakt";
+
+/* No comment provided by engineer. */
+"Contact Name" = "Kontakt Namn";
+
+/* No comment provided by engineer. */
+"Continue" = "Fortsätt";
+
+/* No comment provided by engineer. */
+"Continue Order" = "Fortsätt Order";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopiera";
+
+/* No comment provided by engineer. */
+"Countries" = "Länder";
+
+/* No comment provided by engineer. */
+"Country" = "Land";
+
+/* No comment provided by engineer. */
+"Create" = "Skapa";
+
+/* No comment provided by engineer. */
+"Create a new order" = "Skapa en ny order";
+
+/* No comment provided by engineer. */
+"Create New Category" = "Skapa Ny Kategori";
+
+/* No comment provided by engineer. */
+"Create new order" = "Skapa ny order";
+
+/* No comment provided by engineer. */
+"Create Order" = "Skapa Order";
+
+/* No comment provided by engineer. */
+"Creating" = "Skapar";
+
+/* No comment provided by engineer. */
+"Creating Order" = "Skapar Order";
+
+/* No comment provided by engineer. */
+"Credit Limit" = "Kreditgräns";
+
+/* No comment provided by engineer. */
+"Credit Note" = "Kreditnota";
+
+/* No comment provided by engineer. */
+"Currency" = "Valuta";
+
+/* No comment provided by engineer. */
+"Currency Not Found" = "Valuta Hittades Inte";
+
+/* No comment provided by engineer. */
+"Current" = "Nuvarande";
+
+/* No comment provided by engineer. */
+"Custom Category" = "Anpassad Kategori";
+
+/* No comment provided by engineer. */
+"Custom Category Options" = "Anpassad Kategori Alternativ";
+
+/* No comment provided by engineer. */
+"Custom E-mail Addresses" = "Emailadresser";
+
+/* No comment provided by engineer. */
+"Custom Icon" = "Anpassad Ikon";
+
+/* No comment provided by engineer. */
+"Customer" = "Kund";
+
+/* No comment provided by engineer. */
+"Customer Details" = "Kunduppgifter";
+
+/* No comment provided by engineer. */
+"Customer E-mail Addresses" = "Kunds Emailadresser";
+
+/* No comment provided by engineer. */
+"Customer not found" = "Kunden ej hittad";
+
+/* No comment provided by engineer. */
+"Customer not selected" = "Kund ej vald";
+
+/* No comment provided by engineer. */
+"Customers" = "Kunder";
+
+/* No comment provided by engineer. */
+"Data" = "Information";
+
+/* No comment provided by engineer. */
+"Date Added" = "Datum Tillagt";
+
+/* No comment provided by engineer. */
+"Date Required" = "Datum då du vill ha varorna";
+
+/* No comment provided by engineer. */
+"Default" = "Standard";
+
+/* No comment provided by engineer. */
+"Default Delivery Address" = "Standard Leveransadress";
+
+/* No comment provided by engineer. */
+"Default Invoice Address" = "Standard Fakturaadress";
+
+/* No comment provided by engineer. */
+"Delete" = "Radera";
+
+/* No comment provided by engineer. */
+"Delete Category" = "Radera Kategori";
+
+/* No comment provided by engineer. */
+"Delete Failed" = "Radera Misslyckades";
+
+/* No comment provided by engineer. */
+"Delete Feed" = "Radera Flöde";
+
+/* No comment provided by engineer. */
+"Delivery" = "Leverans";
+
+/* No comment provided by engineer. */
+"Delivery Address" = "Leverans Adress";
+
+/* The shorthand for descending */
+"Desc" = "Desc";
+
+/* No comment provided by engineer. */
+"Descending Order" = "Högst till Lägst";
+
+/* Displayed on the large product view */
+"Description" = "Beskrivning";
+
+/* No comment provided by engineer. */
+"Diff +/-" = "Diff +/-";
+
+/* No comment provided by engineer. */
+"Dimensions" = "Mått";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Avfärda";
+
+/* No comment provided by engineer. */
+"Done" = "Klar";
+
+/* Used during the sync process to inform the user which process is currently being downloaded. E.g. 'Downloading Product...' */
+"Downloading %@..." = "Laddar ner %@...";
+
+/* No comment provided by engineer. */
+"Due in" = "Kommer in";
+
+/* No comment provided by engineer. */
+"Due/Received" = "Kommer in/Senast mottagit";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Kopiera";
+
+/* No comment provided by engineer. */
+"Duplicate Address?" = "Kopiera Adress?";
+
+/* No comment provided by engineer. */
+"E-mail Address" = "E-mail Adress";
+
+/* No comment provided by engineer. */
+"E-mail Addresses" = "E-mail Adresser";
+
+/* No comment provided by engineer. */
+"E-mail confirmation to" = "E-mail konfirmation till";
+
+/* No comment provided by engineer. */
+"e.g. Puckator UK" = "t.ex. Puckator SE";
+
+/* No comment provided by engineer. */
+"Edit" = "Ändra";
+
+/* No comment provided by engineer. */
+"Edit Products" = "Redigera Produkter";
+
+/* No comment provided by engineer. */
+"Email Address" = "Email Adress";
+
+/* No comment provided by engineer. */
+"Enter E-mail Address" = "Skriv E-mail Adress";
+
+/* No comment provided by engineer. */
+"Enter name/product code then press Search" = "Ange namn/produktkod och tryck sedan Sök";
+
+/* No comment provided by engineer. */
+"Enter place name or postcode" = "Skriv in platsnamn eller postnummer";
+
+/* No comment provided by engineer. */
+"Error" = "Fel";
+
+/* No comment provided by engineer. */
+"Error connecting to the Puckator Server.\n\nPlease ensure you are connected to a Wi-Fi or Cellular Network." = "Fel vid anslutning till Puckator Server.Se till att du är ansluten till ett Wi-Fi eller mobilnät.";
+
+/* No comment provided by engineer. */
+"Error downloading file" = "Fel vid nedladdning av fil";
+
+/* No comment provided by engineer. */
+"Error extracting zip archive" = "Fel vid utvinning av zip-arkiv";
+
+/* Used during the sync process to inform the user if a process failed during the sync process. E.g. 'Error importing Products' */
+"Error importing %@..." = "Fel vid import %@...";
+
+/* Used during the sync process to inform the user which process is currently being extracted. E.g. 'Extracting Product...' */
+"Extracting %@..." = "Utvinner %@...";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes failed to be submitted. E.g. 'Failed: 5 order(s)/quote(s)' */
+"Failed: %d order(s)/quote(s)" = "Misslyckades: %d order(s)/offert(er)";
+
+/* No comment provided by engineer. */
+"Feed" = "Flöde";
+
+/* No comment provided by engineer. */
+"Feed Error" = "Flöde Error";
+
+/* No comment provided by engineer. */
+"Feed Information" = "Flöde Information";
+
+/* No comment provided by engineer. */
+"Feed Name" = "Flöde Namn";
+
+/* No comment provided by engineer. */
+"Feed Number" = "Flöde Nummer";
+
+/* No comment provided by engineer. */
+"Feed Unavailable" = "Flöde Otillgängligt";
+
+/* No comment provided by engineer. */
+"Filter" = "Filter";
+
+/* No comment provided by engineer. */
+"Filter by price..." = "Filtrera efter pris...";
+
+/* No comment provided by engineer. */
+"Filter By..." = "Filtrera efter...";
+
+/* Used to inform the user which category they're filtering by. E.g. 'Filtering by Clocks */
+"Filtering by %@" = "Filtrera efter %@";
+
+/* Used to inform the user how many categories they're filtering by. E.g. 'Filtering by 10 categories */
+"Filtering by %d categories" = "Filtrera efter %d kategorier";
+
+/* No comment provided by engineer. */
+"Find" = "Hitta";
+
+/* No comment provided by engineer. */
+"Find Products" = "Hitta Produkter";
+
+/* No comment provided by engineer. */
+"Find products that will be in-stock by:" = "Hitta produkter som kommer finnas på lager den:";
+
+/* No comment provided by engineer. */
+"Finish Editing" = "Redigering Klar";
+
+/* Used during the sync process to inform the user which process has been downloaded. E.g. 'Finishing downloading Images' */
+"Finishing downloading %@..." = "Avslutar nedladdning %@...";
+
+/* No comment provided by engineer. */
+"First Name" = "Förnamn";
+
+/* No comment provided by engineer. */
+"Fiscal Number (IT)" = "Fiscal Number (IT)";
+
+/* No comment provided by engineer. */
+"FOB" = "FOB";
+
+/* No comment provided by engineer. */
+"Further Information" = "Mer Information";
+
+/* No comment provided by engineer. */
+"Grand Total" = "Totalsumma";
+
+/* No comment provided by engineer. */
+"Hide bespoke products" = "Dölj skräddarsydda produkter";
+
+/* No comment provided by engineer. */
+"Hide out of stock" = "Dölj slutsålda produkter";
+
+/* Displayed on the large product view */
+"History" = "Historia";
+
+/* No comment provided by engineer. */
+"Image" = "Bild";
+
+/* No comment provided by engineer. */
+"Images" = "Bilder";
+
+/* Used during the sync process to inform the user which process is currently being importing. E.g. 'Importing Product...' */
+"Importing %@..." = "Importerar %@...";
+
+/* No comment provided by engineer. */
+"in order currently" = "i din beställning för närvarande";
+
+/* No comment provided by engineer. */
+"In stock" = "På lager";
+
+/* No comment provided by engineer. */
+"In Warehouse" = "På Lagret";
+
+/* No comment provided by engineer. */
+"In-stock Date" = "Datum på Lager";
+
+/* No comment provided by engineer. */
+"In-stock Products" = "Produkter på Lager";
+
+/* No comment provided by engineer. */
+"Inner" = "Inner";
+
+/* No comment provided by engineer. */
+"Inner: " = "Inner: ";
+
+/* No comment provided by engineer. */
+"Invalid E-mail Address" = "Ogiltig Emailadress";
+
+/* No comment provided by engineer. */
+"Invalid E-mail Address!" = "Ogiltig E-mail Adress";
+
+/* No comment provided by engineer. */
+"Invalid Feed" = "Ogiltigt Flöde";
+
+/* No comment provided by engineer. */
+"Invalid Feed Name" = "Ogiltigt Feed Namn";
+
+/* No comment provided by engineer. */
+"Invalid Feed Number" = "Ogiltigt Feed Nummer";
+
+/* No comment provided by engineer. */
+"Invalid Name!" = "Ogiltigt Namn";
+
+/* No comment provided by engineer. */
+"Invoice" = "Faktura";
+
+/* No comment provided by engineer. */
+"Invoice Address" = "Faktura Adress";
+
+/* No comment provided by engineer. */
+"Invoices" = "Fakturor";
+
+/* No comment provided by engineer. */
+"Just tap here or press the + button." = "Klicka här eller på + knappen.";
+
+/* No comment provided by engineer. */
+"Large Product Images" = "Stora Produktbilder";
+
+/* No comment provided by engineer. */
+"Last Name" = "Efternamn";
+
+/* No comment provided by engineer. */
+"Last received" = "Senast mottaget";
+
+/* No comment provided by engineer. */
+"LCP" = "LCP";
+
+/* No comment provided by engineer. */
+"Loading" = "Laddar";
+
+/* No comment provided by engineer. */
+"Make sure you type a valid e-mail address." = "Se till att du skriver en giltig e-mail adress.";
+
+/* No comment provided by engineer. */
+"Make sure you type your first and last name!" = "Se till att du skriver ditt för- och efternamn";
+
+/* No comment provided by engineer. */
+"Manage Feeds" = "Hantera Flöde";
+
+/* No comment provided by engineer. */
+"Manifest" = "Manifest";
+
+/* No comment provided by engineer. */
+"Material" = "Material";
+
+/* No comment provided by engineer. */
+"Maximum Price (optional)" = "Maxpris (Valfritt)";
+
+/* No comment provided by engineer. */
+"Menu" = "Meny";
+
+/* No comment provided by engineer. */
+"Method of Payment" = "Betalningsmetod";
+
+/* No comment provided by engineer. */
+"Minimal Price (optional)" = "Minimal Pris (Valfritt)";
+
+/* No comment provided by engineer. */
+"Missing Name" = "Saknar Namn";
+
+/* No comment provided by engineer. */
+"Mobile" = "Mobil";
+
+/* No comment provided by engineer. */
+"Mobile Number" = "Mobil Nummer";
+
+/* No comment provided by engineer. */
+"Most Popular First" = "De Populäraste Först";
+
+/* No comment provided by engineer. */
+"Move" = "Flytta";
+
+/* No comment provided by engineer. */
+"MTS" = "MTS";
+
+/* No comment provided by engineer. */
+"Must be at least three characters" = "Måste vara minst tre tecken";
+
+/* No comment provided by engineer. */
+"My Feeds" = "Mitt Flöde";
+
+/* No comment provided by engineer. */
+"My Recent Customers" = "Mina Senaste Kunder";
+
+/* No comment provided by engineer. */
+"N/A" = "N/A";
+
+/* No comment provided by engineer. */
+"Name" = "Namn";
+
+/* No comment provided by engineer. */
+"Need help finding your Feed Number?  Contact Puckator Support." = "Behöver du hjälp med att hitta ditt Feed Nummer? Kontakta Puckator Support.";
+
+/* No comment provided by engineer. */
+"Network is unreachable!" = "Nätverket kan ej nås!";
+
+/* No comment provided by engineer. */
+"Never syncronised" = "Aldrig synkroniserad";
+
+/* No comment provided by engineer. */
+"New & Coming Soon" = "Nytt & Kommer snart";
+
+/* No comment provided by engineer. */
+"New Order" = "Ny Order";
+
+/* No comment provided by engineer. */
+"New Products in stock" = "Nya produkter på lager";
+
+/* No comment provided by engineer. */
+"New Products in Stock" = "Nya Produkter på Lager";
+
+/* No comment provided by engineer. */
+"No" = "Nej";
+
+/* No comment provided by engineer. */
+"No active feed" = "Inget aktivt feed";
+
+/* No comment provided by engineer. */
+"No categories selected" = "Inga kategorier valda";
+
+/* No comment provided by engineer. */
+"No E-mail Address" = "Ingen Emailadress";
+
+/* No comment provided by engineer. */
+"No files were found in the zip archive" = "Inga filer hittades i zip-arkivet";
+
+/* No comment provided by engineer. */
+"No graph data to display." = "Ingen graf data att visa.";
+
+/* No comment provided by engineer. */
+"No products found" = "Inga produkter hittade";
+
+/* No comment provided by engineer. */
+"No Products Found" = "Inga Produkter Hittade";
+
+/* No comment provided by engineer. */
+"None" = "Ingen";
+
+/* No comment provided by engineer. */
+"Not Authorised" = "Ej Behörig";
+
+/* No comment provided by engineer. */
+"Not enough feeds!" = "Inte tillräckligt med feeds!";
+
+/* No comment provided by engineer. */
+"Notes" = "Meddelande";
+
+/* No comment provided by engineer. */
+"Ok" = "Okej";
+
+/* No comment provided by engineer. */
+"On back order" = "På restorder";
+
+/* No comment provided by engineer. */
+"One Moment..." = "Ett Ögonblick";
+
+/* No comment provided by engineer. */
+"Only show available products" = "Visa ändats tillgängliga produkter";
+
+/* No comment provided by engineer. */
+"Open" = "Öppna";
+
+/* No comment provided by engineer. */
+"Open Order" = "Öppna Order";
+
+/* No comment provided by engineer. */
+"Open Orders" = "Öppna Ordrar";
+
+/* No comment provided by engineer. */
+"Open Orders (%d)" = "Öppna Ordrar (%d)";
+
+/* The name of the item being downloaded (1$) and the number of remaining items ($2). E.g. 'Products remaining 450' */
+"Optimising %@: %d/%d" = "Optimera %1$@: %2$d/%3$d";
+
+/* No comment provided by engineer. */
+"Options" = "Alternativ";
+
+/* No comment provided by engineer. */
+"order" = "order";
+
+/* No comment provided by engineer. */
+"Order" = "Order";
+
+/* No comment provided by engineer. */
+"Order Complete" = "Order Klar";
+
+/* No comment provided by engineer. */
+"Order Date" = "Order Datum";
+
+/* No comment provided by engineer. */
+"Order Details" = "Order Detaljer";
+
+/* No comment provided by engineer. */
+"Order Error" = "Order Fel";
+
+/* No comment provided by engineer. */
+"Order Found" = "Order Hittad";
+
+/* No comment provided by engineer. */
+"Order is missing" = "Order saknas";
+
+/* No comment provided by engineer. */
+"Order notes can only be %d characters in length. Your notes have been cropped to this maximum length.\n\nPlease check your notes to make sure they are still informative before attempting to send this order again." = "Order meddelandet kan ändast vara %d tecken långt. Ditt meddelande kommer att beskäras för att passa in. Kontrollera så att ditt meddelande har tillräckligt med information innan du skickar om det.";
+
+/* No comment provided by engineer. */
+"Order Warning" = "Order Varning";
+
+/* No comment provided by engineer. */
+"Orders" = "Beställningar";
+
+/* No comment provided by engineer. */
+"Orders / Quotes" = "Order / Offert";
+
+/* No comment provided by engineer. */
+"Other" = "Annan";
+
+/* No comment provided by engineer. */
+"Outstanding" = "Kvarstående";
+
+/* No comment provided by engineer. */
+"Outstanding Order" = "Kvarstående Order";
+
+/* Purchase Unit */
+"P / Unit" = "Pris / Enhet";
+
+/* No comment provided by engineer. */
+"Payload does not contain an XML document" = "Payload does not contain an XML document";
+
+/* No comment provided by engineer. */
+"Payment Method" = "Betalningsmetod";
+
+/* No comment provided by engineer. */
+"Payment Method Not Agreed" = "Betalningsmetod ej överenskommet";
+
+/* No comment provided by engineer. */
+"PDF Style" = "PDF-Stil";
+
+/* No comment provided by engineer. */
+"PEC Email Address (IT)" = "PEC Emailadress";
+
+/* Displayed on the large product view */
+"Photos" = "Foton";
+
+/* No comment provided by engineer. */
+"Please ensure you are connected to a Wi-Fi or Cellular Network." = "Se till att du är ansluten till ett Wi-Fi eller mobilnätet.";
+
+/* No comment provided by engineer. */
+"Please enter a place name or postcode:" = "Vänligen ange ett platsnamn eller postnummer:";
+
+/* No comment provided by engineer. */
+"Please enter a value!" = "Ange ett värde!";
+
+/* No comment provided by engineer. */
+"Please enter all information" = "Ange all information";
+
+/* No comment provided by engineer. */
+"Please enter the price range you would like to filter by." = "Ange vilken prisklass du vill filtrera efter";
+
+/* No comment provided by engineer. */
+"Please provide at least one valid e-mail address before trying to submit the order." = "Vänligen ange minst en giltig emailadress innan du försöker skicka ordern";
+
+/* No comment provided by engineer. */
+"Postcode" = "Postkod";
+
+/* No comment provided by engineer. */
+"Price" = "Pris";
+
+/* No comment provided by engineer. */
+"Price Check" = "Priskontroll";
+
+/* Used when filtering by price (between) */
+"Priced between" = "Prissätt Mellan";
+
+/* Used when filtering by price (greater than) */
+"Priced greater than" = "Pris Större Än";
+
+/* Used when filtering by price (less than) */
+"Priced less than" = "Pris Mindre Än";
+
+/* Used when filtering by price (no selection) */
+"Priced..." = "Prissatta...";
+
+/* No comment provided by engineer. */
+"Prices" = "Priser";
+
+/* No comment provided by engineer. */
+"Prior Year" = "Förra Året";
+
+/* No comment provided by engineer. */
+"Product code" = "Artikelnummer";
+
+/* No comment provided by engineer. */
+"Product Code" = "Artikelnummer";
+
+/* No comment provided by engineer. */
+"Product Code Only" = "Endast Artikelnummer";
+
+/* No comment provided by engineer. */
+"Product Code, Title & Description" = "Artikelnummer, Titel och Beskrivning";
+
+/* No comment provided by engineer. */
+"Product In-Stock" = "Produkt på Lager";
+
+/* No comment provided by engineer. */
+"Product Information" = "Produkt Information";
+
+/* No comment provided by engineer. */
+"Product Quick Filters" = "Produkt Snabbfilter";
+
+/* No comment provided by engineer. */
+"Product Title" = "Produkt Titel";
+
+/* No comment provided by engineer. */
+"Products" = "Produkter";
+
+/* Used during the sync process to inform the user how many products have been processed. */
+"Products processed %d..." = "Bearbetade Produkter %d...";
+
+/* No comment provided by engineer. */
+"Proforma Agreed" = "Proforma Överenskommet";
+
+/* No comment provided by engineer. */
+"Puckator" = "Puckator";
+
+/* No comment provided by engineer. */
+"Puckator provided Feed Number" = "Puckator Tillgänglig Feed Number";
+
+/* No comment provided by engineer. */
+"Purchase Order Number" = "Köpets Ordernummer";
+
+/* No comment provided by engineer. */
+"Purchase Unit" = "Inköps Enhet";
+
+/* No comment provided by engineer. */
+"Purchase Unit: " = "Inköps Enhet:";
+
+/* No comment provided by engineer. */
+"Queued" = "Kö";
+
+/* No comment provided by engineer. */
+"Quick" = "Snabb";
+
+/* No comment provided by engineer. */
+"Quick Add" = "Snabbtillägg";
+
+/* No comment provided by engineer. */
+"Quick Search" = "Snabbsökning";
+
+/* No comment provided by engineer. */
+"quote" = "offert";
+
+/* No comment provided by engineer. */
+"Quote / Not Sent" = "Offert / Ej Skickat";
+
+/* No comment provided by engineer. */
+"Quote / Sent" = "Offert / Skickat";
+
+/* No comment provided by engineer. */
+"Quote Details" = "Offert Detaljer";
+
+/* No comment provided by engineer. */
+"RE Tax (ES)" = "RE Tax (ES)";
+
+/* No comment provided by engineer. */
+"Recent Orders" = "Senast Beställningarna";
+
+/* No comment provided by engineer. */
+"Recent Orders (%d)" = "Senaste Ordrar (%d)";
+
+/* No comment provided by engineer. */
+"Remind Later" = "Påminn Senare";
+
+/* No comment provided by engineer. */
+"Remove" = "Ta bort";
+
+/* No comment provided by engineer. */
+"Remove Items" = "Ta bort Produkter";
+
+/* No comment provided by engineer. */
+"Remove Products" = "Ta bort Produkter";
+
+/* No comment provided by engineer. */
+"Rep Name" = "Försäljare Namn";
+
+/* No comment provided by engineer. */
+"Resend" = "Skicka Igen";
+
+/* No comment provided by engineer. */
+"Reset" = "Återställ";
+
+/* No comment provided by engineer. */
+"Retry" = "Försök igen";
+
+/* No comment provided by engineer. */
+"Sage" = "Sage";
+
+/* No comment provided by engineer. */
+"Sales" = "Försäljning";
+
+/* No comment provided by engineer. */
+"Save" = "Spara";
+
+/* No comment provided by engineer. */
+"Save As Quote" = "Spara som en Offert";
+
+/* No comment provided by engineer. */
+"Save Feed" = "Spara Flöde";
+
+/* No comment provided by engineer. */
+"Save Order" = "Spara Order";
+
+/* No comment provided by engineer. */
+"Saved Order" = "Sparad Order";
+
+/* No comment provided by engineer. */
+"Search" = "Sök";
+
+/* No comment provided by engineer. */
+"Search By..." = "Sök Efter...";
+
+/* No comment provided by engineer. */
+"Search Error" = "Sökfel";
+
+/* No comment provided by engineer. */
+"Search for products" = "Sök efter produkter";
+
+/* No comment provided by engineer. */
+"Search is too short!" = "Sökord är för kort!";
+
+/* No comment provided by engineer. */
+"Search Results" = "Sök Resultat";
+
+/* No comment provided by engineer. */
+"Select" = "Välj";
+
+/* No comment provided by engineer. */
+"Select a feed to switch to..." = "Välj ett flöde att byta till...";
+
+/* No comment provided by engineer. */
+"Select Address" = "Välj Adress";
+
+/* No comment provided by engineer. */
+"Select Category" = "Välj Kategori";
+
+/* No comment provided by engineer. */
+"Select Country" = "Välj Land";
+
+/* No comment provided by engineer. */
+"Select Currency..." = "Välj Valuta...";
+
+/* No comment provided by engineer. */
+"Select Date" = "Välj Datum";
+
+/* No comment provided by engineer. */
+"Select Language" = "Välj Språk";
+
+/* Used to inform the user how many categories they have selected to filter by. E.g. 'Selected 5 categories' */
+"Selected %d categories" = "Valda %d categorier";
+
+/* No comment provided by engineer. */
+"Send" = "Skicka";
+
+/* No comment provided by engineer. */
+"Send Log" = "Skicka Log";
+
+/* No comment provided by engineer. */
+"Send Now" = "Skicka Nu";
+
+/* No comment provided by engineer. */
+"Send Order" = "Skicka Order";
+
+/* No comment provided by engineer. */
+"Send Quote" = "Skicka Offert";
+
+/* No comment provided by engineer. */
+"Sending Orders" = "Skickar Ordrar";
+
+/* No comment provided by engineer. */
+"Settings" = "Inställningar";
+
+/* No comment provided by engineer. */
+"Setup your first feed" = "Installera ditt första feed";
+
+/* No comment provided by engineer. */
+"Show sample products" = "Visa sample-produkter";
+
+/* No comment provided by engineer. */
+"Sorry, '%@' is not a valid e-mail address, please fix this issue before trying to submit the order again." = "Tyvärr, '%@' är inte en giltig emailadress, vänligen fixa detta innan du försöker skicka ordern igen.";
+
+/* No comment provided by engineer. */
+"Sorry, we were unable to find any customers for your search." = "Beklagar, vi kunde ej hitta kunder för din sökning.";
+
+/* No comment provided by engineer. */
+"Sort By" = "Sortera Efter";
+
+/* No comment provided by engineer. */
+"Sorting isn't avaliable when viewing new products.\n\nProducts are automatically ordered by date added." = "Sortering är inte tillgänglig när du tittar på nya produkter.Produkterna är automatisk sorterade efter datum tillagda.";
+
+/* No comment provided by engineer. */
+"Standard Product List" = "Standard Produktlista";
+
+/* No comment provided by engineer. */
+"Start Sync" = "Starta Synkronisering";
+
+/* No comment provided by engineer. */
+"State" = "Län";
+
+/* Informs the user which step they are in during the sync. E.g. Step 1/5: */
+"Step %d/%d:" = "Steg %1$d/%2$d:";
+
+/* No comment provided by engineer. */
+"Stock" = "Lager";
+
+/* No comment provided by engineer. */
+"Stock Available" = "I Lager";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes were successful submitted. E.g. 'Succeeded: 5 order(s)/quote(s)' */
+"Succeeded: %d order(s)/quote(s)" = "Lyckade: %d order(s)/offert(er)";
+
+/* Used during the sync process to inform the user if a process was success during the sync process. E.g. 'Success importing Products' */
+"Success importing %@..." = "Lyckad importering %@...";
+
+/* No comment provided by engineer. */
+"Supplier" = "Leverantör";
+
+/* No comment provided by engineer. */
+"Suppliers" = "Leverantörer";
+
+/* No comment provided by engineer. */
+"Switch Feeds" = "Byt Flöde";
+
+/* No comment provided by engineer. */
+"Switch to..." = "Byt till...";
+
+/* No comment provided by engineer. */
+"Sync" = "Synkronisera";
+
+/* No comment provided by engineer. */
+"Sync Catalogue" = "Synkronisera Katalog";
+
+/* No comment provided by engineer. */
+"Sync Complete!" = "Synkronisering Klar!";
+
+/* No comment provided by engineer. */
+"Sync Orders" = "Synkroniserar Beställningar";
+
+/* No comment provided by engineer. */
+"Sync Orders & Quotes" = "Synkronisera Beställningar & Offertor";
+
+/* No comment provided by engineer. */
+"Syncronisation Error" = "Synkronisering Fel";
+
+/* No comment provided by engineer. */
+"Tap for options..." = "Tryck för Alternativ";
+
+/* No comment provided by engineer. */
+"TAP TO SWITCH" = "Tryck för att byta";
+
+/* No comment provided by engineer. */
+"TBC" = "Väntar på mer information";
+
+/* No comment provided by engineer. */
+"Telephone" = "Telefon";
+
+/* No comment provided by engineer. */
+"Telephone Number" = "Telefon Nummer";
+
+/* No comment provided by engineer. */
+"The app must be closed and relaunched in order to change the language." = "Appen måste stängas och öppnas på nytt för att kunna byta språk.";
+
+/* No comment provided by engineer. */
+"The app will now close, you can open it again by tapping the icon on your home screen." = "Appen kommer nu att stängas ner, du kan öppna den igen genom att klicka på ikonen på startsidan.";
+
+/* No comment provided by engineer. */
+"The currency for this customer is not supported by your current feed.\n\nPlease either switch to a feed that supports %@ (%@) or setup a new customer using a supported currency." = "Valutan för den här kunden stöds inte av din nuvarande feed.\n\nVänligen antingen byt till ett feed som stöder % 1 $ @ ( % 2 $ @ ) eller gör en ny kund som använder den valuta som stöds.";
+
+/* No comment provided by engineer. */
+"The feed number entered is invalid!" = "Feed numret angett är ogiltigt!";
+
+/* No comment provided by engineer. */
+"The products have been added." = "Produkterna har lagts till.";
+
+/* No comment provided by engineer. */
+"The products have been removed." = "Produkterna har tagits bort.";
+
+/* No comment provided by engineer. */
+"The Puckator Server appears to be unavailable at this time!" = "Puckators Server verkar vara otillgänglig just nu!";
+
+/* No comment provided by engineer. */
+"The server rejected your order because you are using a version of the Puckator app that is no longer supported.  Please update the app and try again." = "Servern avvisade den order eftersom du använder en variant av Puckators app som inte längre är tillgänglig. Uppdatera appen och försök igen.";
+
+/* No comment provided by engineer. */
+"The zip archive was extracted but did not contain a .xml file!" = "Zip-arkivet utvanns men inehöll ingen .xml fil!";
+
+/* Used to inform the user how many items are in stock for a product. E.g. 'There are 1,203 unit(s) in stock. */
+"There are %@ unit(s) in stock" = "Det finns %@ enhet(er) på lagret";
+
+/* No comment provided by engineer. */
+"This customer has two different VAT numbers associated with them, which one would you like to use?" = "Denna kunden har två olika momsnummer associerade med dem, vilken av dem vill du använda?";
+
+/* No comment provided by engineer. */
+"This feed has never been syncronised, so it is not possible to switch to it right now." = "Detta feed har aldrig blivit synkroniserat, så det är inte möjligt att byta till det just nu.";
+
+/* No comment provided by engineer. */
+"This is a normal order" = "Detta är en normal order";
+
+/* No comment provided by engineer. */
+"This is a show order" = "Detta är en show order";
+
+/* No comment provided by engineer. */
+"Title & Description Only" = "Endast Titel & Beskrivning";
+
+/* No comment provided by engineer. */
+"Title Only" = "Endast Titel";
+
+/* No comment provided by engineer. */
+"To another account" = "Till ett annat konto";
+
+/* No comment provided by engineer. */
+"To this account" = "Till detta konto";
+
+/* No comment provided by engineer. */
+"Today" = "Idag";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "Imorgon";
+
+/* No comment provided by engineer. */
+"Top 100 Grossing" = "Topp 100 mest lönsamma";
+
+/* No comment provided by engineer. */
+"Top 100 Seller" = "Topp 100 Bästsäljare";
+
+/* No comment provided by engineer. */
+"Top 300 Grossing" = "Topp 300 mest lönsamma";
+
+/* No comment provided by engineer. */
+"Top 300 Seller" = "Topp 300 Bästsäljare";
+
+/* No comment provided by engineer. */
+"Top 500 Grossing" = "Topp 500 mest lönsamma";
+
+/* No comment provided by engineer. */
+"Top 500 Seller" = "Topp 500 Bästsäljare";
+
+/* No comment provided by engineer. */
+"Top Grossing" = "Mest Lönsamma";
+
+/* No comment provided by engineer. */
+"Top Sellers" = "Bästsäljare";
+
+/* No comment provided by engineer. */
+"Top Sellers Globally" = "Globala Bästsäljare";
+
+/* No comment provided by engineer. */
+"Total" = "Totalt";
+
+/* No comment provided by engineer. */
+"Total Sold" = "Totalt Sålt";
+
+/* No comment provided by engineer. */
+"Total Value" = "Totalt Värde";
+
+/* No comment provided by engineer. */
+"Total YTD sold" = "Totalt sålda hittills i år";
+
+/* No comment provided by engineer. */
+"Totals" = "Summor";
+
+/* No comment provided by engineer. */
+"Town" = "Stad";
+
+/* No comment provided by engineer. */
+"Trade Show Order" = "Order från Mässa";
+
+/* No comment provided by engineer. */
+"Try Later" = "Försök Senare";
+
+/* No comment provided by engineer. */
+"Unable to add feed!" = "Det går inte att lägga till feed!";
+
+/* No comment provided by engineer. */
+"Unable to create a new customer, please contact your support team." = "Kan inte skapa ny kund, kontakta ditt support team.";
+
+/* No comment provided by engineer. */
+"Unable to find the customer" = "Kan inte hitta kund";
+
+/* No comment provided by engineer. */
+"Unavailable" = "Otillgänglig";
+
+/* No comment provided by engineer. */
+"Unfortunately it was not possible to send all your order(s)/quote(s) to the server at this time, please check your Internet connection and try again." = "Tyvärr gick det inte att skicka alla dina beställningar/offerter till servern just nu, kontrollera din Internetanslutning och försök igen.";
+
+/* No comment provided by engineer. */
+"Unknown" = "Okänd";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Okänd Status";
+
+/* Used to inform the user how many order they have to send. E.g. 'Unsent orders: 5' */
+"Unsent orders: %d" = "Ej skickade beställningar: %d";
+
+/* No comment provided by engineer. */
+"Update" = "Uppdatera";
+
+/* No comment provided by engineer. */
+"Update E-mail Address" = "Uppdatera E-mail Adress";
+
+/* No comment provided by engineer. */
+"Updating..." = "Uppdaterar...";
+
+/* No comment provided by engineer. */
+"Upgrade Required" = "Uppgradering Krävs";
+
+/* No comment provided by engineer. */
+"VAT" = "MOMS";
+
+/* No comment provided by engineer. */
+"VAT Number" = "Momsnummer";
+
+/* Used to inform the user their app is up to date. E.g. 'Version 1.0 Your app is up to date' */
+"Version: %@\nYour app is up to date." = "Upplaga: %@ Din app är uppdaterad";
+
+/* No comment provided by engineer. */
+"View Customers" = "Se Kunder";
+
+/* No comment provided by engineer. */
+"View Order" = "Se Order";
+
+/* No comment provided by engineer. */
+"Warning" = "Varning";
+
+/* No comment provided by engineer. */
+"We were unable to find your location.\n\nPlease check you've given us access to your location in the settings app." = "Vi hittar ej din position. \n\nVänligen dubbelkolla att du givit oss tillgång till din position i inställningar.";
+
+/* No comment provided by engineer. */
+"We're not authorised to use your location. Please enable location services in your device settings." = "Vi är ej behöriga att använda din plats. Vänligen gör det möjligt att se din plats i din enhets inställningar.";
+
+/* No comment provided by engineer. */
+"Welcome" = "Välkommen";
+
+/* No comment provided by engineer. */
+"Which style of PDF would you like to send to the customer?" = "Vilken PFD-stil vill du skicka till kunden?";
+
+/* No comment provided by engineer. */
+"Which VAT number?" = "Vilket Momsnummer?";
+
+/* No comment provided by engineer. */
+"Who are you?" = "Vem är du?";
+
+/* No comment provided by engineer. */
+"Would you like to copy this order to this account or to another account?" = "Vill du kopiera denna order till detta konto eller till ett annat konto?";
+
+/* Informs the user of which version of the app they're running. E.g. 'You are using version: 1.0' */
+"You are using version: %@" = "Du använder upplaga: %@";
+
+/* No comment provided by engineer. */
+"You can not change your language while an order is in progress.\n\nPlease finish your current order before attempting to change the language." = "Du kan inte ändra språk samtidigt som en order tas. Avsluta din nuvarande order innan du försöker att byta språk.";
+
+/* No comment provided by engineer. */
+"You can not delete your active feed.\n\nIn order to delete this feed you must first activate another feed." = "Du kan inte ta bort det aktiva flödet.För att tar bort detta feed måste du först aktivera ett annat flöde.";
+
+/* No comment provided by engineer. */
+"You can't access the menu when editing a custom category." = "Du kan inte komma åt menyn när du redigerar en anpassad kategori.";
+
+/* No comment provided by engineer. */
+"You can't access this option when editing a custom category." = "Du kan inte komma åt detta alternativ när du redigerar en anpassad kategori.";
+
+/* No comment provided by engineer. */
+"You can't add a custom category while you have an open order." = "Du kan inte lägga till en anpassad kategori medan du har en öppen order.";
+
+/* No comment provided by engineer. */
+"You can't edit this e-mail address because it isn't custom." = "Du kan inte redigera denna emailadress eftersom den inte är anpassad.";
+
+/* No comment provided by engineer. */
+"You can't start an order when editing a custom category." = "Du kan inte starta en order när du redigerar en anpassad kategori.";
+
+/* No comment provided by engineer. */
+"You have already added this Feed Number!" = "Du har redan lagt till detta Feed Number!";
+
+/* No comment provided by engineer. */
+"You have entered a price greater than the top tier price.\n\nAre you sure you want to apply this price?" = "Du har angett ett pris högre än det högsta priset.\n\nÄr du säker på att du vill tillämpa detta pris ?";
+
+/* No comment provided by engineer. */
+"You have orders in your outbox that have not been sent yet" = "Du har beställningar i din utkorg som inte har skickats än";
+
+/* No comment provided by engineer. */
+"You must have at least one feed to continue." = "Du måste ha minst ett feed installerat för att kunna fortsätta.";
+
+/* No comment provided by engineer. */
+"You must tap the Settings icon to configure feeds!" = "Du måste trycka på ikon inställnin gen för att konfigurera flöde!";
+
+/* Used to inform the user they haven't been authenicated yet. JWT stand for JSON Web Token; and does not require translation. */
+"Your client has not been issued a JWT token yet!" = "Your client has not been issued a JWT token yet!";
+
+/* No comment provided by engineer. */
+"Your custom category has been created." = "Din anpassade kategori har skapats.";
+
+/* No comment provided by engineer. */
+"Your custom category has been deleted." = "Din anpassade kategori har raderats.";
+
+/* No comment provided by engineer. */
+"Your e-mail address" = "Din e-mail adress";
+
+/* No comment provided by engineer. */
+"Your E-mail Addresses" = "Dina Emailadresser";
+
+/* No comment provided by engineer. */
+"Your feeds..." = "Dina Flöden...";
+
+/* No comment provided by engineer. */
+"Your first name" = "Ditt fönamn";
+
+/* No comment provided by engineer. */
+"Your last name" = "Ditt efternamn";
+
+/* No comment provided by engineer. */
+"Your order(s)/quote(s) have been sent to the server!" = "Din order(s)/offert(or) har skickats till servern!";
+
+/* No comment provided by engineer. */
+"YTD" = "Hittills i år";
+

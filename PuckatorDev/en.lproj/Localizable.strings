@@ -1,0 +1,1036 @@
+/* The name of the item being downloaded (1$) and the number of remaining items ($2). E.g. 'Products remaining 450' */
+"%@ remaining %d" = "%1$@ remaining %2$d";
+
+/* Used during the order submission process to inform the user how many orders failed to be submitted. E.g. '5 failed' */
+"%d failed" = "%d failed";
+
+/* Used to inform the user how many images a product has. E.g. '5 image(s)' */
+"%d image(s)" = "%d image(s)";
+
+/* How many ($1) of ($2) have been processed so far. */
+"%d of %d" = "%1$d of %2$d";
+
+/* No comment provided by engineer. */
+"30 Days" = "30 Days";
+
+/* No comment provided by engineer. */
+"30 Days Agreed" = "30 Days Agreed";
+
+/* No comment provided by engineer. */
+"30 Days Subject to refs" = "30 Days Subject to refs";
+
+/* No comment provided by engineer. */
+"60 Days" = "60 Days";
+
+/* No comment provided by engineer. */
+"90 Days" = "90 Days";
+
+/* No comment provided by engineer. */
+"120 Days" = "120 Days";
+
+/* No comment provided by engineer. */
+"AUTHENTICATE WITH PUCKATOR.NET" = "AUTHENTICATE WITH PUCKATOR.NET";
+
+/* No comment provided by engineer. */
+"Aborted!" = "Aborted!";
+
+/* No comment provided by engineer. */
+"Access Revoked" = "Access Revoked";
+
+/* No comment provided by engineer. */
+"Access to this feed has been revoked by a Puckator Administrator.
+
+If you feel this is in error please contact Puckator." = "Access to this feed has been revoked by a Puckator Administrator.
+
+If you feel this is in error please contact Puckator.";
+
+/* No comment provided by engineer. */
+"Account Number" = "Account Number";
+
+/* No comment provided by engineer. */
+"Accounts" = "Accounts";
+
+/* No comment provided by engineer. */
+"Active" = "Active";
+
+/* No comment provided by engineer. */
+"Add" = "Add";
+
+/* No comment provided by engineer. */
+"Add products to this order" = "Add products to this order";
+
+/* No comment provided by engineer. */
+"Add to order" = "Add to order";
+
+/* No comment provided by engineer. */
+"Address" = "Address";
+
+/* No comment provided by engineer. */
+"All Categories" = "All Categories";
+
+/* No comment provided by engineer. */
+"All Products" = "All Products";
+
+/* No comment provided by engineer. */
+"All the data you have downloaded (including products, customers and orders) will be permanently deleted from this device." = "All the data you have downloaded (including products, customers and orders) will be permanently deleted from this device.";
+
+/* No comment provided by engineer. */
+"An open order for this customer has been found, would you like to continue this order?" = "An open order for this customer has been found, would you like to continue this order?";
+
+/* Used during the sync process to inform the user what process is currently being analysed. E.g. 'Analysing Images' */
+"Analysing %@..." = "Analysing %@...";
+
+/* No comment provided by engineer. */
+"App Update" = "App Update";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel this order?" = "Are you sure you want to cancel this order?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this feed?" = "Are you sure you want to delete this feed?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove all items from this order?" = "Are you sure you want to remove all items from this order?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to save this order?" = "Are you sure you want to save this order?";
+
+/* Used to confirm with the user whether they want to send either an order or a quote. E.g. 'Are you sure you want to send this quote?' */
+"Are you sure you want to send this %@?" = "Are you sure you want to send this %@?";
+
+/* The shorthand for ascending */
+"Asc" = "Asc";
+
+/* No comment provided by engineer. */
+"Ascending Order" = "Ascending Order";
+
+/* No comment provided by engineer. */
+"Authorising..." = "Authorising...";
+
+/* No comment provided by engineer. */
+"Available" = "Available";
+
+/* No comment provided by engineer. */
+"Awaiting Activation" = "Awaiting Activation";
+
+/* No comment provided by engineer. */
+"Back" = "Back";
+
+/* No comment provided by engineer. */
+"Balance" = "Balance";
+
+/* No comment provided by engineer. */
+"Barcode" = "Barcode";
+
+/* No comment provided by engineer. */
+"Best Sellers First" = "Best Sellers First";
+
+/* No comment provided by engineer. */
+"Billing Address" = "Billing Address";
+
+/* No comment provided by engineer. */
+"Browse" = "Browse";
+
+/* No comment provided by engineer. */
+"CONFIGURE FEED" = "CONFIGURE FEED";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Cancel Order" = "Cancel Order";
+
+/* No comment provided by engineer. */
+"Carton" = "Carton";
+
+/* No comment provided by engineer. */
+"Carton: " = "Carton: ";
+
+/* No comment provided by engineer. */
+"Catalogue" = "Catalogue";
+
+/* No comment provided by engineer. */
+"Categories" = "Categories";
+
+/* No comment provided by engineer. */
+"Change Language" = "Change Language";
+
+/* No comment provided by engineer. */
+"Change Language & Exit app" = "Change Language & Exit app";
+
+/* No comment provided by engineer. */
+"Check for Update" = "Check for Update";
+
+/* No comment provided by engineer. */
+"Checking Network" = "Checking Network";
+
+/* No comment provided by engineer. */
+"Choose" = "Choose";
+
+/* No comment provided by engineer. */
+"City" = "City";
+
+/* No comment provided by engineer. */
+"Clear" = "Clear";
+
+/* No comment provided by engineer. */
+"Clear Order" = "Clear Order";
+
+/* No comment provided by engineer. */
+"Close" = "Close";
+
+/* No comment provided by engineer. */
+"Code" = "Code";
+
+/* No comment provided by engineer. */
+"Company" = "Company";
+
+/* No comment provided by engineer. */
+"Company Name" = "Company Name";
+
+/* No comment provided by engineer. */
+"Complete / Not Sent" = "Complete / Not Sent";
+
+/* No comment provided by engineer. */
+"Complete / Sent" = "Complete / Sent";
+
+/* No comment provided by engineer. */
+"Complete Order" = "Complete Order";
+
+/* No comment provided by engineer. */
+"Contact" = "Contact";
+
+/* No comment provided by engineer. */
+"Contact Name" = "Contact Name";
+
+/* No comment provided by engineer. */
+"Continue" = "Continue";
+
+/* No comment provided by engineer. */
+"Continue Order" = "Continue Order";
+
+/* No comment provided by engineer. */
+"Copy" = "Copy";
+
+/* No comment provided by engineer. */
+"Countries" = "Countries";
+
+/* No comment provided by engineer. */
+"Country" = "Country";
+
+/* No comment provided by engineer. */
+"Create new order" = "Create new order";
+
+/* No comment provided by engineer. */
+"Creating Order" = "Creating Order";
+
+/* No comment provided by engineer. */
+"Credit Note" = "Credit Note";
+
+/* No comment provided by engineer. */
+"Currency" = "Currency";
+
+/* No comment provided by engineer. */
+"Current" = "Current";
+
+/* No comment provided by engineer. */
+"Custom Icon" = "Custom Icon";
+
+/* No comment provided by engineer. */
+"Customer" = "Customer";
+
+/* No comment provided by engineer. */
+"Customer Details" = "Customer Details";
+
+/* No comment provided by engineer. */
+"Customer not found" = "Customer not found";
+
+/* No comment provided by engineer. */
+"Customer not selected" = "Customer not selected";
+
+/* No comment provided by engineer. */
+"Customers" = "Customers";
+
+/* No comment provided by engineer. */
+"Data" = "Data";
+
+/* No comment provided by engineer. */
+"Date Added" = "Date Added";
+
+/* No comment provided by engineer. */
+"Date Required" = "Date Required";
+
+/* No comment provided by engineer. */
+"Delete Failed" = "Delete Failed";
+
+/* No comment provided by engineer. */
+"Delete Feed" = "Delete Feed";
+
+/* No comment provided by engineer. */
+"Delivery" = "Delivery";
+
+/* No comment provided by engineer. */
+"Delivery Address" = "Delivery Address";
+
+/* The shorthand for descending */
+"Desc" = "Desc";
+
+/* No comment provided by engineer. */
+"Descending Order" = "Descending Order";
+
+/* No comment provided by engineer. */
+"Description" = "Description";
+
+/* No comment provided by engineer. */
+"Discount Amount" = "Discount Amount";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Dismiss";
+
+/* No comment provided by engineer. */
+"Done" = "Done";
+
+/* Used during the sync process to inform the user which process is currently being downloaded. E.g. 'Downloading Product...' */
+"Downloading %@..." = "Downloading %@...";
+
+/* No comment provided by engineer. */
+"Due in" = "Due in";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Duplicate";
+
+/* No comment provided by engineer. */
+"Duplicate Address?" = "Duplicate Address?";
+
+/* No comment provided by engineer. */
+"E-mail Address" = "E-mail Address";
+
+/* No comment provided by engineer. */
+"E-mail Addresses" = "E-mail Addresses";
+
+/* No comment provided by engineer. */
+"E-mail confirmation to" = "E-mail confirmation to";
+
+/* No comment provided by engineer. */
+"Edit" = "Edit";
+
+/* No comment provided by engineer. */
+"Email Address" = "Email Address";
+
+/* No comment provided by engineer. */
+"Enter E-mail Address" = "Enter E-mail Address";
+
+/* No comment provided by engineer. */
+"Error" = "Error";
+
+/* No comment provided by engineer. */
+"Error connecting to the Puckator Server.
+
+Please ensure you are connected to a Wi-Fi or Cellular Network." = "Error connecting to the Puckator Server.
+
+Please ensure you are connected to a Wi-Fi or Cellular Network.";
+
+/* No comment provided by engineer. */
+"Error downloading file" = "Error downloading file";
+
+/* No comment provided by engineer. */
+"Error extracting zip archive" = "Error extracting zip archive";
+
+/* Used during the sync process to inform the user if a process failed during the sync process. E.g. 'Error importing Products' */
+"Error importing %@..." = "Error importing %@...";
+
+/* Used during the sync process to inform the user which process is currently being extracted. E.g. 'Extracting Product...' */
+"Extracting %@..." = "Extracting %@...";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes failed to be submitted. E.g. 'Failed: 5 order(s)/quote(s)' */
+"Failed: %d order(s)/quote(s)" = "Failed: %d order(s)/quote(s)";
+
+/* No comment provided by engineer. */
+"Feed Error" = "Feed Error";
+
+/* No comment provided by engineer. */
+"Feed Information" = "Feed Information";
+
+/* No comment provided by engineer. */
+"Feed Name" = "Feed Name";
+
+/* No comment provided by engineer. */
+"Feed Number" = "Feed Number";
+
+/* No comment provided by engineer. */
+"Feed Unavailable" = "Feed Unavailable";
+
+/* No comment provided by engineer. */
+"Filter By..." = "Filter By...";
+
+/* Used to inform the user which category they're filtering by. E.g. 'Filtering by Clocks */
+"Filtering by %@" = "Filtering by %@";
+
+/* Used to inform the user how many categories they're filtering by. E.g. 'Filtering by 10 categories */
+"Filtering by %d categories" = "Filtering by %d categories";
+
+/* No comment provided by engineer. */
+"Find Products" = "Find Products";
+
+/* No comment provided by engineer. */
+"Finish Editing" = "Finish Editing";
+
+/* Used during the sync process to inform the user which process has been downloaded. E.g. 'Finishing downloading Images' */
+"Finishing downloading %@..." = "Finishing downloading %@...";
+
+/* No comment provided by engineer. */
+"First Name" = "First Name";
+
+/* No comment provided by engineer. */
+"Fiscal Number (IT)" = "Fiscal Number (IT)";
+
+/* No comment provided by engineer. */
+"Further Information" = "Further Information";
+
+/* No comment provided by engineer. */
+"Grand Total" = "Grand Total";
+
+/* No comment provided by engineer. */
+"Hide bespoke products" = "Hide bespoke products";
+
+/* No comment provided by engineer. */
+"Hide out of stock" = "Hide out of stock";
+
+/* No comment provided by engineer. */
+"Image" = "Image";
+
+/* No comment provided by engineer. */
+"Images" = "Images";
+
+/* Used during the sync process to inform the user which process is currently being importing. E.g. 'Importing Product...' */
+"Importing %@..." = "Importing %@...";
+
+/* No comment provided by engineer. */
+"In Warehouse" = "In Warehouse";
+
+/* No comment provided by engineer. */
+"In stock" = "In stock";
+
+/* No comment provided by engineer. */
+"Inner" = "Inner";
+
+/* No comment provided by engineer. */
+"Inner: " = "Inner: ";
+
+/* No comment provided by engineer. */
+"Invalid E-mail Address!" = "Invalid E-mail Address!";
+
+/* No comment provided by engineer. */
+"Invalid Feed" = "Invalid Feed";
+
+/* No comment provided by engineer. */
+"Invalid Feed Name" = "Invalid Feed Name";
+
+/* No comment provided by engineer. */
+"Invalid Feed Number" = "Invalid Feed Number";
+
+/* No comment provided by engineer. */
+"Invalid Name!" = "Invalid Name!";
+
+/* No comment provided by engineer. */
+"Invoice" = "Invoice";
+
+/* No comment provided by engineer. */
+"Invoices" = "Invoices";
+
+/* No comment provided by engineer. */
+"Just tap here or press the + button." = "Just tap here or press the + button.";
+
+/* No comment provided by engineer. */
+"Last Name" = "Last Name";
+
+/* No comment provided by engineer. */
+"Last received" = "Last received";
+
+/* No comment provided by engineer. */
+"Loading" = "Loading";
+
+/* No comment provided by engineer. */
+"Make sure you type a valid e-mail address." = "Make sure you type a valid e-mail address.";
+
+/* No comment provided by engineer. */
+"Make sure you type your first and last name!" = "Make sure you type your first and last name!";
+
+/* No comment provided by engineer. */
+"Manage Feeds" = "Manage Feeds";
+
+/* No comment provided by engineer. */
+"Manifest" = "Manifest";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"Method of Payment" = "Method of Payment";
+
+/* No comment provided by engineer. */
+"Missing Name" = "Missing Name";
+
+/* No comment provided by engineer. */
+"Mobile Number" = "Mobile Number";
+
+/* No comment provided by engineer. */
+"Most Popular First" = "Most Popular First";
+
+/* No comment provided by engineer. */
+"Must be at least three characters" = "Must be at least three characters";
+
+/* No comment provided by engineer. */
+"My Feeds" = "My Feeds";
+
+/* No comment provided by engineer. */
+"My Recent Customers" = "My Recent Customers";
+
+/* No comment provided by engineer. */
+"Name" = "Name";
+
+/* No comment provided by engineer. */
+"Need help finding your Feed Number?  Contact Puckator Support." = "Need help finding your Feed Number?  Contact Puckator Support.";
+
+/* No comment provided by engineer. */
+"Network is unreachable!" = "Network is unreachable!";
+
+/* No comment provided by engineer. */
+"Never syncronised" = "Never syncronised";
+
+/* No comment provided by engineer. */
+"New Order" = "New Order";
+
+/* No comment provided by engineer. */
+"New Products" = "New Products";
+
+/* No comment provided by engineer. */
+"New order" = "New order";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"No Products Found" = "No Products Found";
+
+/* No comment provided by engineer. */
+"No active feed" = "No active feed";
+
+/* No comment provided by engineer. */
+"No categories selected" = "No categories selected";
+
+/* No comment provided by engineer. */
+"No files were found in the zip archive" = "No files were found in the zip archive";
+
+/* No comment provided by engineer. */
+"No graph data to display." = "No graph data to display.";
+
+/* No comment provided by engineer. */
+"No products found" = "No products found";
+
+/* No comment provided by engineer. */
+"None" = "None";
+
+/* No comment provided by engineer. */
+"Not enough feeds!" = "Not enough feeds!";
+
+/* No comment provided by engineer. */
+"Notes" = "Notes";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
+
+/* No comment provided by engineer. */
+"On back order" = "On back order";
+
+/* No comment provided by engineer. */
+"One Moment..." = "One Moment...";
+
+/* No comment provided by engineer. */
+"Open" = "Open";
+
+/* No comment provided by engineer. */
+"Open Order" = "Open Order";
+
+/* No comment provided by engineer. */
+"Options" = "Options";
+
+/* No comment provided by engineer. */
+"Order" = "Order";
+
+/* No comment provided by engineer. */
+"Order Complete" = "Order Complete";
+
+/* No comment provided by engineer. */
+"Order Details" = "Order Details";
+
+/* No comment provided by engineer. */
+"Order Found" = "Order Found";
+
+/* No comment provided by engineer. */
+"Order Warning" = "Order Warning";
+
+/* No comment provided by engineer. */
+"Order is missing" = "Order is missing";
+
+/* No comment provided by engineer. */
+"Orders" = "Orders";
+
+/* No comment provided by engineer. */
+"Orders / Quotes" = "Orders / Quotes";
+
+/* No comment provided by engineer. */
+"Outstanding" = "Outstanding";
+
+/* No comment provided by engineer. */
+"Outstanding Order" = "Outstanding Order";
+
+/* Purchase Unit */
+"P / Unit" = "P / Unit";
+
+/* No comment provided by engineer. */
+"Payload does not contain an XML document" = "Payload does not contain an XML document";
+
+/* No comment provided by engineer. */
+"Payment Method" = "Payment Method";
+
+/* No comment provided by engineer. */
+"Payment Method Not Agreed" = "Payment Method Not Agreed";
+
+/* No comment provided by engineer. */
+"Please ensure you are connected to a Wi-Fi or Cellular Network." = "Please ensure you are connected to a Wi-Fi or Cellular Network.";
+
+/* No comment provided by engineer. */
+"Please enter a value!" = "Please enter a value!";
+
+/* No comment provided by engineer. */
+"Please enter all information" = "Please enter all information";
+
+/* No comment provided by engineer. */
+"Postcode" = "Postcode";
+
+/* No comment provided by engineer. */
+"Price" = "Price";
+
+/* No comment provided by engineer. */
+"Prices" = "Prices";
+
+/* No comment provided by engineer. */
+"Prior Year GBP" = "Prior Year GBP";
+
+/* No comment provided by engineer. */
+"Product Code" = "Product Code";
+
+/* No comment provided by engineer. */
+"Product Code Only" = "Product Code Only";
+
+/* No comment provided by engineer. */
+"Product Code, Title & Description" = "Product Code, Title & Description";
+
+/* No comment provided by engineer. */
+"Product Information" = "Product Information";
+
+/* No comment provided by engineer. */
+"Product code" = "Product code";
+
+/* No comment provided by engineer. */
+"Products" = "Products";
+
+/* Used during the sync process to inform the user how many products have been processed. */
+"Products processed %d..." = "Products processed %d...";
+
+/* No comment provided by engineer. */
+"Proforma Agreed" = "Proforma Agreed";
+
+/* No comment provided by engineer. */
+"Puckator" = "Puckator";
+
+/* No comment provided by engineer. */
+"Puckator provided Feed Number" = "Puckator provided Feed Number";
+
+/* No comment provided by engineer. */
+"Purchase Unit" = "Purchase Unit";
+
+/* No comment provided by engineer. */
+"Purchase Unit: " = "Purchase Unit: ";
+
+/* No comment provided by engineer. */
+"Queued" = "Queued";
+
+/* No comment provided by engineer. */
+"Quick" = "Quick";
+
+/* No comment provided by engineer. */
+"Quick Add" = "Quick Add";
+
+/* No comment provided by engineer. */
+"Quick Search" = "Quick Search";
+
+/* No comment provided by engineer. */
+"Quote / Not Sent" = "Quote / Not Sent";
+
+/* No comment provided by engineer. */
+"Quote / Sent" = "Quote / Sent";
+
+/* No comment provided by engineer. */
+"Quote Details" = "Quote Details";
+
+/* No comment provided by engineer. */
+"Recent Orders" = "Recent Orders";
+
+/* No comment provided by engineer. */
+"Remind Later" = "Remind Later";
+
+/* No comment provided by engineer. */
+"Remove Items" = "Remove Items";
+
+/* No comment provided by engineer. */
+"Rep Name" = "Rep Name";
+
+/* No comment provided by engineer. */
+"Resend" = "Resend";
+
+/* No comment provided by engineer. */
+"Reset" = "Reset";
+
+/* No comment provided by engineer. */
+"Retry" = "Retry";
+
+/* No comment provided by engineer. */
+"Sage" = "Sage";
+
+/* No comment provided by engineer. */
+"Save" = "Save";
+
+/* No comment provided by engineer. */
+"Save As Quote" = "Save As Quote";
+
+/* No comment provided by engineer. */
+"Save Feed" = "Save Feed";
+
+/* No comment provided by engineer. */
+"Save Order" = "Save Order";
+
+/* No comment provided by engineer. */
+"Saved Order" = "Saved Order";
+
+/* No comment provided by engineer. */
+"Saved Quote" = "Saved Quote";
+
+/* No comment provided by engineer. */
+"Search" = "Search";
+
+/* No comment provided by engineer. */
+"Search By..." = "Search By...";
+
+/* No comment provided by engineer. */
+"Search Results" = "Search Results";
+
+/* No comment provided by engineer. */
+"Search for products" = "Search for products";
+
+/* No comment provided by engineer. */
+"Search is too short!" = "Search is too short!";
+
+/* No comment provided by engineer. */
+"Select" = "Select";
+
+/* No comment provided by engineer. */
+"Select Address" = "Select Address";
+
+/* No comment provided by engineer. */
+"Select Country" = "Select Country";
+
+/* No comment provided by engineer. */
+"Select Currency..." = "Select Currency...";
+
+/* No comment provided by engineer. */
+"Select Date" = "Select Date";
+
+/* No comment provided by engineer. */
+"Select Language" = "Select Language";
+
+/* No comment provided by engineer. */
+"Select a feed to switch to..." = "Select a feed to switch to...";
+
+/* Used to inform the user how many categories they have selected to filter by. E.g. 'Selected 5 categories' */
+"Selected %d categories" = "Selected %d categories";
+
+/* No comment provided by engineer. */
+"Send" = "Send";
+
+/* No comment provided by engineer. */
+"Send Now" = "Send Now";
+
+/* No comment provided by engineer. */
+"Send Order" = "Send Order";
+
+/* No comment provided by engineer. */
+"Send Quote" = "Send Quote";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* No comment provided by engineer. */
+"Setup your first feed" = "Setup your first feed";
+
+/* No comment provided by engineer. */
+"Sort By" = "Sort By";
+
+/* No comment provided by engineer. */
+"Sorting isn't avaliable when viewing new products.
+
+Products are automatically ordered by date added." = "Sorting isn't avaliable when viewing new products.
+
+Products are automatically ordered by date added.";
+
+/* No comment provided by engineer. */
+"State" = "State";
+
+/* No comment provided by engineer. */
+"Stock" = "Stock";
+
+/* No comment provided by engineer. */
+"Stock Available" = "Stock Available";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes were successful submitted. E.g. 'Succeeded: 5 order(s)/quote(s)' */
+"Succeeded: %d order(s)/quote(s)" = "Succeeded: %d order(s)/quote(s)";
+
+/* Used during the sync process to inform the user if a process was success during the sync process. E.g. 'Success importing Products' */
+"Success importing %@..." = "Success importing %@...";
+
+/* No comment provided by engineer. */
+"Suppliers" = "Suppliers";
+
+/* No comment provided by engineer. */
+"Switch Feeds" = "Switch Feeds";
+
+/* No comment provided by engineer. */
+"Switch to..." = "Switch to...";
+
+/* No comment provided by engineer. */
+"Sync" = "Sync";
+
+/* No comment provided by engineer. */
+"Sync Catalogue" = "Sync Catalogue";
+
+/* No comment provided by engineer. */
+"Sync Complete!" = "Sync Complete!";
+
+/* No comment provided by engineer. */
+"Sync Orders" = "Sync Orders";
+
+/* No comment provided by engineer. */
+"Sync Orders & Quotes" = "Sync Orders & Quotes";
+
+/* No comment provided by engineer. */
+"Syncronisation Error" = "Syncronisation Error";
+
+/* No comment provided by engineer. */
+"TAP TO SWITCH" = "TAP TO SWITCH";
+
+/* No comment provided by engineer. */
+"Telephone Number" = "Telephone Number";
+
+/* No comment provided by engineer. */
+"The Puckator Server appears to be unavailable at this time!" = "The Puckator Server appears to be unavailable at this time!";
+
+/* No comment provided by engineer. */
+"The app must be closed and relaunched in order to change the language." = "The app must be closed and relaunched in order to change the language.";
+
+/* No comment provided by engineer. */
+"The feed number entered is invalid!" = "The feed number entered is invalid!";
+
+/* No comment provided by engineer. */
+"The server rejected your order because you are using a version of the Puckator app that is no longer supported.  Please update the app and try again." = "The server rejected your order because you are using a version of the Puckator app that is no longer supported.  Please update the app and try again.";
+
+/* No comment provided by engineer. */
+"The zip archive was extracted but did not contain a .xml file!" = "The zip archive was extracted but did not contain a .xml file!";
+
+/* Used to inform the user how many items are in stock for a product. E.g. 'There are 1,203 unit(s) in stock. */
+"There are %@ unit(s) in stock" = "There are %@ unit(s) in stock";
+
+/* No comment provided by engineer. */
+"This customer has two different VAT numbers associated with them, which one would you like to use?" = "This customer has two different VAT numbers associated with them, which one would you like to use?";
+
+/* No comment provided by engineer. */
+"This feed has never been syncronised, so it is not possible to switch to it right now." = "This feed has never been syncronised, so it is not possible to switch to it right now.";
+
+/* No comment provided by engineer. */
+"Title & Description Only" = "Title & Description Only";
+
+/* No comment provided by engineer. */
+"Title Only" = "Title Only";
+
+/* No comment provided by engineer. */
+"Top 100 Grossing" = "Top 100 Grossing";
+
+/* No comment provided by engineer. */
+"Top 100 Seller" = "Top 100 Seller";
+
+/* No comment provided by engineer. */
+"Top 300 Grossing" = "Top 300 Grossing";
+
+/* No comment provided by engineer. */
+"Top 300 Seller" = "Top 300 Seller";
+
+/* No comment provided by engineer. */
+"Top 500 Grossing" = "Top 500 Grossing";
+
+/* No comment provided by engineer. */
+"Top 500 Seller" = "Top 500 Seller";
+
+/* No comment provided by engineer. */
+"Top Grossing" = "Top Grossing";
+
+/* No comment provided by engineer. */
+"Top Sellers" = "Top Sellers";
+
+/* No comment provided by engineer. */
+"Total" = "Total";
+
+/* No comment provided by engineer. */
+"Total Sold" = "Total Sold";
+
+/* No comment provided by engineer. */
+"Total Value" = "Total Value";
+
+/* No comment provided by engineer. */
+"Total YTD sold" = "Total YTD sold";
+
+/* No comment provided by engineer. */
+"Totals" = "Totals";
+
+/* No comment provided by engineer. */
+"Town" = "Town";
+
+/* No comment provided by engineer. */
+"Try Later" = "Try Later";
+
+/* No comment provided by engineer. */
+"Unable to add feed!" = "Unable to add feed!";
+
+/* No comment provided by engineer. */
+"Unable to create a new customer, please contact your support team." = "Unable to create a new customer, please contact your support team.";
+
+/* No comment provided by engineer. */
+"Unable to find the customer" = "Unable to find the customer";
+
+/* No comment provided by engineer. */
+"Unavailable" = "Unavailable";
+
+/* No comment provided by engineer. */
+"Unfortunately it was not possible to send all your orders/quotes to the server at this time, please check your Internet connection and try again." = "Unfortunately it was not possible to send all your orders/quotes to the server at this time, please check your Internet connection and try again.";
+
+/* No comment provided by engineer. */
+"Unknown" = "Unknown";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Unknown Status";
+
+/* Used to inform the user how many order they have to send. E.g. 'Unsent orders: 5' */
+"Unsent orders: %d" = "Unsent orders: %d";
+
+/* No comment provided by engineer. */
+"Update" = "Update";
+
+/* No comment provided by engineer. */
+"Update E-mail Address" = "Update E-mail Address";
+
+/* No comment provided by engineer. */
+"Updating..." = "Updating...";
+
+/* No comment provided by engineer. */
+"Upgrade Required" = "Upgrade Required";
+
+/* No comment provided by engineer. */
+"VAT" = "VAT";
+
+/* No comment provided by engineer. */
+"VAT Number" = "VAT Number";
+
+/* Used to inform the user their app is up to date. E.g. 'Version 1.0 Your app is up to date' */
+"Version: %@
+Your app is up to date." = "Version: %@
+Your app is up to date.";
+
+/* No comment provided by engineer. */
+"View Customers" = "View Customers";
+
+/* No comment provided by engineer. */
+"View Order" = "View Order";
+
+/* No comment provided by engineer. */
+"Warning" = "Warning";
+
+/* No comment provided by engineer. */
+"Welcome" = "Welcome";
+
+/* No comment provided by engineer. */
+"Which VAT number?" = "Which VAT number?";
+
+/* No comment provided by engineer. */
+"Who are you?" = "Who are you?";
+
+/* No comment provided by engineer. */
+"YTD GBP" = "YTD GBP";
+
+/* Informs the user of which version of the app they're running. E.g. 'You are using version: 1.0' */
+"You are using version: %@" = "You are using version: %@";
+
+/* No comment provided by engineer. */
+"You can not change your language while an order is in progress.
+
+Please finish your current order before attempting to change the language." = "You can not change your language while an order is in progress.
+
+Please finish your current order before attempting to change the language.";
+
+/* No comment provided by engineer. */
+"You can not delete your active feed.
+
+In order to delete this feed you must first activate another feed." = "You can not delete your active feed.
+
+In order to delete this feed you must first activate another feed.";
+
+/* No comment provided by engineer. */
+"You have already added this Feed Number!" = "You have already added this Feed Number!";
+
+/* No comment provided by engineer. */
+"You have orders in your outbox that have not been sent yet" = "You have orders in your outbox that have not been sent yet";
+
+/* No comment provided by engineer. */
+"You must at at least one feed to continue." = "You must at at least one feed to continue.";
+
+/* No comment provided by engineer. */
+"You must tap the Settings icon to configure feeds!" = "You must tap the Settings icon to configure feeds!";
+
+/* Used to inform the user they haven't been authenicated yet. JWT stand for JSON Web Token; and does not require translation. */
+"Your client has not been issued a JWT token yet!" = "Your client has not been issued a JWT token yet!";
+
+/* No comment provided by engineer. */
+"Your e-mail address" = "Your e-mail address";
+
+/* No comment provided by engineer. */
+"Your feeds..." = "Your feeds...";
+
+/* No comment provided by engineer. */
+"Your first name" = "Your first name";
+
+/* No comment provided by engineer. */
+"Your last name" = "Your last name";
+
+/* No comment provided by engineer. */
+"Your orders/quotes have been sent to the server!" = "Your orders/quotes have been sent to the server!";
+
+/* No comment provided by engineer. */
+"e.g. Puckator UK" = "e.g. Puckator UK";
+
+/* No comment provided by engineer. */
+"in order currently" = "in order currently";
+
+/* No comment provided by engineer. */
+"order" = "order";
+
+/* No comment provided by engineer. */
+"quote" = "quote";
+

@@ -1,0 +1,1511 @@
+/* Displays the number of products for a search. E.g. #1 of 20 results. */
+"#%i of %i results" = "#%1$i von %2$i Ergebnisse";
+
+/* The name of the item being downloaded (1$) and the number of remaining items ($2). E.g. 'Products remaining 450' */
+"%@ remaining %d" = "%1$@ verbleibend %2$d";
+
+/* Used during the order submission process to inform the user how many orders failed to be submitted. E.g. '5 failed' */
+"%d failed" = "%d gescheitert";
+
+/* Used to inform the user how many images a product has. E.g. '5 image(s)' */
+"%d image(s)" = "%d Bild(er)";
+
+/* How many ($1) of ($2) have been processed so far. */
+"%d of %d" = "%1$d von %2$d";
+
+/* Displays the number of products that are currently on back order. E.g. 1,000 on back order */
+"%d on back order" = "%d im Lieferrückstand";
+
+/* No comment provided by engineer. */
+"3%" = "3%";
+
+/* No comment provided by engineer. */
+"5%" = "5%";
+
+/* No comment provided by engineer. */
+"10%" = "10%";
+
+/* No comment provided by engineer. */
+"15%" = "15%";
+
+/* No comment provided by engineer. */
+"20%" = "20%";
+
+/* No comment provided by engineer. */
+"25%" = "25%";
+
+/* No comment provided by engineer. */
+"30 Days" = "30 Tagen";
+
+/* No comment provided by engineer. */
+"30 Days Agreed" = "30 Tagen vereinbart";
+
+/* No comment provided by engineer. */
+"30 Days Subject to refs" = "30 Tagen in Abhängigkeit von Referenzen";
+
+/* No comment provided by engineer. */
+"30%" = "30";
+
+/* No comment provided by engineer. */
+"35%" = "35";
+
+/* No comment provided by engineer. */
+"37%" = "37";
+
+/* No comment provided by engineer. */
+"40%" = "40";
+
+/* No comment provided by engineer. */
+"60 Days" = "60 Tagen";
+
+/* No comment provided by engineer. */
+"90 Days" = "90 Tagen";
+
+/* No comment provided by engineer. */
+"120 Days" = "120 Tagen";
+
+/* No comment provided by engineer. */
+"Aborted!" = "Gescheitert!";
+
+/* No comment provided by engineer. */
+"Access Revoked" = "Zugriff verweigert";
+
+/* No comment provided by engineer. */
+"Access to this feed has been revoked by a Puckator Administrator.
+
+If you feel this is in error please contact Puckator." = "Der Zugang zu dieser Zufuhr wurde von dem Puckator Administator verweigert. Wenn Sie glauben, dass es ein Fehler ist, bitte kontaktieren Sie Puckator.";
+
+/* No comment provided by engineer. */
+"Account Number" = "Kontonummer";
+
+/* No comment provided by engineer. */
+"Account Ref" = "Kundennummer";
+
+/* No comment provided by engineer. */
+"Accounts" = "Kunden";
+
+/* No comment provided by engineer. */
+"Active" = "Aktiv";
+
+/* No comment provided by engineer. */
+"Add" = "Hinzufügen";
+
+/* No comment provided by engineer. */
+"Add all products (%i)" = "Alle Artikel hinzufügen";
+
+/* No comment provided by engineer. */
+"Add in stock products (%i)" = "Lagerware hinzufügen";
+
+/* No comment provided by engineer. */
+"Add Products" = "Artikel hinzufügen";
+
+/* No comment provided by engineer. */
+"Add products to this order" = "Artikel zu diese Bestellung hinzufügen";
+
+/* No comment provided by engineer. */
+"Add to Existing Category" = "zu bereits bestehende Kategorie hinzufügen";
+
+/* No comment provided by engineer. */
+"Add to order" = "Zur Bestellung hinzufügen";
+
+/* No comment provided by engineer. */
+"Address" = "Adresse";
+
+/* No comment provided by engineer. */
+"All Categories" = "Alle Kategorien";
+
+/* No comment provided by engineer. */
+"All Products" = "Alle Artikel";
+
+/* No comment provided by engineer. */
+"All the data you have downloaded (including products, customers and orders) will be permanently deleted from this device." = "Alle Information, dass Sie heruntergeladen haben (einschließlich der Artikel, der Kunden und der Bestellungen) werden von diesem Gerät endgültig gelöscht.";
+
+/* No comment provided by engineer. */
+"An open order for this customer has been found, would you like to continue this order?" = "Eine offene Bestellung für diesen Kunden wurde gefunden, möchten Sie diese Bestellung weitermachen? ";
+
+/* Used during the sync process to inform the user what process is currently being analysed. E.g. 'Analysing Images' */
+"Analysing %@..." = "Analysiert %@...";
+
+/* No comment provided by engineer. */
+"App Closing" = "App schließt";
+
+/* No comment provided by engineer. */
+"App Update" = "App-Update";
+
+/* No comment provided by engineer. */
+"Apply" = "übernehmen";
+
+/* No comment provided by engineer. */
+"Apply Price" = "Preis anwenden";
+
+/* No comment provided by engineer. */
+"Archived Orders" = "Archivierte Bestellungen";
+
+/* No comment provided by engineer. */
+"Are you sure you want to add %d products to your basket?
+
+This will replace any matching products with the base quantity and price.
+
+WARNING: This might be slow for large orders." = "Sind Sie sicher, dass Sie diese %d Artikel im Warenkorb hinfügen möchten?
+ 
+ Es wird automatisch die Artikel mit die gleiche Artikelnummer und auch der Zahl dieser Artikel schon im Warenkorb ersetzen.
+ 
+
+ACHTUNG: Es kann bei grosse Bestellungen langsam sein.
+";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel all open orders? This cannot be undone." = "Sind Sie sicher, dass Sie alle offene Bestellungen stornieren möchten? Dieser Vorgang kann nicht widerrufen werden.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel this order?" = "Sind Sie sicher, dass Sie diese Bestellung stornieren möchten?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this category?" = "Sind Sie sicher, dass Sie diese Kategorie löschen möchten?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this feed?" = "Sind Sie sicher, dass Sie diesen Feed löschen möchten?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove all items from this order?" = "Sind Sie sicher, dass Sie alle Artikel von dieser Bestellung löschen möchten?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to save this order?" = "Sind Sie sicher, dass Sie diese Bestellung speichern möchten?";
+
+/* Used to confirm with the user whether they want to send either an order or a quote. E.g. 'Are you sure you want to send this quote?' */
+"Are you sure you want to send this %@?" = "Sind Sie sicher, dass Sie diese(n/s)%@ senden möchten?";
+
+/* No comment provided by engineer. */
+"Are you sure you would like to delete all product images?
+
+You will need perform a full sync to download the product images again." = "Sind Sie sicher, dass Sie die Produktbilder löschen möchten? Es wäre dann nötig eine Synchronisation erledigen, um die Produktbilder noch einmal herunterladen zu können.";
+
+/* The shorthand for ascending */
+"Asc" = "aufsteigend";
+
+/* No comment provided by engineer. */
+"Ascending Order" = "aufsteigende Anordnung";
+
+/* No comment provided by engineer. */
+"AUTHENTICATE WITH PUCKATOR.NET" = "AUTHENTIFIZIEREN MIT PUCKATOR.DE";
+
+/* No comment provided by engineer. */
+"Authorising..." = "autorisiert...";
+
+/* No comment provided by engineer. */
+"Available" = "Verfügbar";
+
+/* No comment provided by engineer. */
+"Awaiting Activation" = "Wartet auf Aktivierung ";
+
+/* No comment provided by engineer. */
+"Back" = "Zurück";
+
+/* No comment provided by engineer. */
+"Balance" = "Kontostand";
+
+/* No comment provided by engineer. */
+"Barcode" = "Strichcode";
+
+/* No comment provided by engineer. */
+"Basket Options" = "Warenkorb Optionen";
+
+/* No comment provided by engineer. */
+"Best Sellers First" = "Verkaufsschlager zuerst ";
+
+/* No comment provided by engineer. */
+"Billing Address" = "Rechnungsadresse";
+
+/* No comment provided by engineer. */
+"Browse" = "Durchsuchen";
+
+/* No comment provided by engineer. */
+"Bulk Add" = "in großen Mengen hinzufügen";
+
+/* No comment provided by engineer. */
+"Buyer" = "Käufer";
+
+/* No comment provided by engineer. */
+"Buyers" = "Käufer";
+
+/* No comment provided by engineer. */
+"Cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Cancel All" = "Alle abbrechen";
+
+/* No comment provided by engineer. */
+"Cancel Order" = "Bestellung abbrechen";
+
+/* No comment provided by engineer. */
+"Cancel Orders" = "Bestellungen abbrechen";
+
+/* No comment provided by engineer. */
+"Cancel Orders?" = "Bestellungen abbrechen?";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Abgebrochen";
+
+/* No comment provided by engineer. */
+"Carton" = "Karton";
+
+/* No comment provided by engineer. */
+"Carton: " = "Karton:";
+
+/* No comment provided by engineer. */
+"Catalogue" = "Katalog";
+
+/* No comment provided by engineer. */
+"Categories" = "Kategorien";
+
+/* No comment provided by engineer. */
+"Category Name" = "Kategorie Name";
+
+/* No comment provided by engineer. */
+"Change Language" = "Die Sprache ändern";
+
+/* No comment provided by engineer. */
+"Change Language & Exit app" = "Die Sprache ändern und die App verlassen";
+
+/* No comment provided by engineer. */
+"Change Quantity" = "Die Menge ändern";
+
+/* No comment provided by engineer. */
+"Check for Update" = "Aktualisierungsüberprüfung";
+
+/* No comment provided by engineer. */
+"Checking Network" = "Netzwerk prüfen";
+
+/* No comment provided by engineer. */
+"Choose" = "Wählen";
+
+/* No comment provided by engineer. */
+"City" = "Stadt";
+
+/* No comment provided by engineer. */
+"Clear" = "löschen";
+
+/* No comment provided by engineer. */
+"Clear Filter" = "Filter entfernen";
+
+/* No comment provided by engineer. */
+"Clear Order" = "Bestellung löschen";
+
+/* No comment provided by engineer. */
+"Close" = "Schließen";
+
+/* No comment provided by engineer. */
+"COD" = "Nachnahme";
+
+/* No comment provided by engineer. */
+"Code" = "Code";
+
+/* No comment provided by engineer. */
+"Company" = "Firma";
+
+/* No comment provided by engineer. */
+"Company Name" = "Firmenname";
+
+/* No comment provided by engineer. */
+"Complete / Not Sent" = "Fertig/ nicht gesendet";
+
+/* No comment provided by engineer. */
+"Complete / Sent" = "Fertig / gesendet ";
+
+/* No comment provided by engineer. */
+"Complete Order" = "Die Bestellung fertig stellen";
+
+/* No comment provided by engineer. */
+"CONFIGURE FEED" = "den Feed konfiguieren";
+
+/* No comment provided by engineer. */
+"Confirm" = "Bestätigen";
+
+/* No comment provided by engineer. */
+"Contact" = "Kontaktieren";
+
+/* No comment provided by engineer. */
+"Contact Name" = "Kontaktname";
+
+/* No comment provided by engineer. */
+"Continue" = "Fortsetzen";
+
+/* No comment provided by engineer. */
+"Continue Order" = "Bestellung fortsetzen";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopieren";
+
+/* No comment provided by engineer. */
+"Countries" = "Länder";
+
+/* No comment provided by engineer. */
+"Country" = "Land";
+
+/* No comment provided by engineer. */
+"Create" = "erstellen";
+
+/* No comment provided by engineer. */
+"Create a new order" = "Eine neue Bestellung erstellen";
+
+/* No comment provided by engineer. */
+"Create New Category" = "Neue Kategorie erstellen";
+
+/* No comment provided by engineer. */
+"Create new order" = "Eine neue Bestellung erstellen";
+
+/* No comment provided by engineer. */
+"Create Order" = "Bestellung erstellen";
+
+/* No comment provided by engineer. */
+"Creating" = "wird erstellt";
+
+/* No comment provided by engineer. */
+"Creating Order" = "Erstellung einer Bestellung";
+
+/* No comment provided by engineer. */
+"Credit Limit" = "Kreditlimit";
+
+/* No comment provided by engineer. */
+"Credit Note" = "Gutschrift";
+
+/* No comment provided by engineer. */
+"Currency" = "Währung";
+
+/* No comment provided by engineer. */
+"Currency Not Found" = "Währung nicht gefunden";
+
+/* No comment provided by engineer. */
+"Current" = "Aktuell";
+
+/* No comment provided by engineer. */
+"Custom Category" = "Benutzerdefinierte Kategorie";
+
+/* No comment provided by engineer. */
+"Custom Category Options" = "Benutzerdefinierte Kategorie Möglichkeiten";
+
+/* No comment provided by engineer. */
+"Custom E-mail Addresses" = "Benutzerdefinierten E-Mail-Adressen";
+
+/* No comment provided by engineer. */
+"Custom Icon" = "Benutzerdefiniertes Symbol ";
+
+/* No comment provided by engineer. */
+"Customer" = "Kunde";
+
+/* No comment provided by engineer. */
+"Customer Details" = "Kundendaten";
+
+/* No comment provided by engineer. */
+"Customer E-mail Addresses" = "Kunden E-Mail-Addressen ";
+
+/* No comment provided by engineer. */
+"Customer not found" = "Kunde nicht gefunden";
+
+/* No comment provided by engineer. */
+"Customer not selected" = "Kunde nicht ausgewählt";
+
+/* No comment provided by engineer. */
+"Customers" = "Kunden";
+
+/* No comment provided by engineer. */
+"Data" = "Daten";
+
+/* No comment provided by engineer. */
+"Date Added" = "Datum hinzugefügt ";
+
+/* No comment provided by engineer. */
+"Date Required" = "Datum erforderlich ";
+
+/* No comment provided by engineer. */
+"Default" = "Voreingestellt";
+
+/* No comment provided by engineer. */
+"Default Delivery Address" = "Voreingestellte Lieferadresse";
+
+/* No comment provided by engineer. */
+"Default Invoice Address" = "Voreingestellte Rechnungsadresse";
+
+/* No comment provided by engineer. */
+"Delete" = "Löschen";
+
+/* No comment provided by engineer. */
+"Delete Category" = "Kategorie löschen";
+
+/* No comment provided by engineer. */
+"Delete Failed" = "Löschen gescheitert";
+
+/* No comment provided by engineer. */
+"Delete Feed" = "Feed löschen";
+
+/* No comment provided by engineer. */
+"Delivery" = "Lieferung";
+
+/* No comment provided by engineer. */
+"Delivery Address" = "Lieferadresse";
+
+/* No comment provided by engineer. */
+"Delete Category" = "Kategorie löschen";
+
+/* The shorthand for descending */
+"Desc" = "Absteigend";
+
+/* No comment provided by engineer. */
+"Descending Order" = "absteigende Anordnung";
+
+/* Displayed on the large product view */
+"Description" = "Beschreibung";
+
+/* No comment provided by engineer. */
+"Diff +/-" = "Unterschied +/-";
+
+/* No comment provided by engineer. */
+"Dimensions" = "Maße";
+
+/* No comment provided by engineer. */
+"Discount Amount" = "Rabattbetrag";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Verwerfen";
+
+/* No comment provided by engineer. */
+"Done" = "erledigt";
+
+/* Used during the sync process to inform the user which process is currently being downloaded. E.g. 'Downloading Product...' */
+"Downloading %@..." = "Herunterladen %@...";
+
+/* No comment provided by engineer. */
+"Due in" = "Fällig";
+
+/* No comment provided by engineer. */
+"Due/Received" = "Fällig/Empfangen";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Verdoppeln";
+
+/* No comment provided by engineer. */
+"Duplicate Address?" = "Adresse verdoppeln?";
+
+/* No comment provided by engineer. */
+"E-mail Address" = "E-Mail-Adresse";
+
+/* No comment provided by engineer. */
+"E-mail Addresses" = "E-Mail-Adressen";
+
+/* No comment provided by engineer. */
+"E-mail confirmation to" = "Emailen die Bestätigung zu";
+
+/* No comment provided by engineer. */
+"e.g. Puckator UK" = "z.B. Puckator UK";
+
+/* No comment provided by engineer. */
+"Edit" = "Bearbeiten";
+
+/* No comment provided by engineer. */
+"Edit Products" = "Artikel bearbeiten";
+
+/* No comment provided by engineer. */
+"Email Address" = "E-Mail-Adresse";
+
+/* No comment provided by engineer. */
+"Enter E-mail Address" = "E-Mail-Adresse eingeben";
+
+/* No comment provided by engineer. */
+"Enter name/product code then press Search" = "Name/Artikelnummer eingeben, dann klicken Sie auf Suche";
+
+/* No comment provided by engineer. */
+"Enter place name or postcode" = "Ort oder Postleitzahl eingeben";
+
+/* No comment provided by engineer. */
+"Error" = "Fehler";
+
+/* No comment provided by engineer. */
+"Error connecting to the Puckator Server.
+
+Please ensure you are connected to a Wi-Fi or Cellular Network." = "Fehler bei der Verbindung mit dem Puckator-Server. Bitte versichern Sie, dass Sie mit einem Wifi-Netzwerk oder Mobilnetz verbunden sind.";
+
+/* No comment provided by engineer. */
+"Error downloading file" = "Fehler beim Herunterladen der Datei";
+
+/* No comment provided by engineer. */
+"Error extracting zip archive" = "Fehler beim Entpacken des ZIP-Archivs";
+
+/* Used during the sync process to inform the user if a process failed during the sync process. E.g. 'Error importing Products' */
+"Error importing %@..." = "Fehler beim Importieren des/der %@...";
+
+/* Used during the sync process to inform the user which process is currently being extracted. E.g. 'Extracting Product...' */
+"Extracting %@..." = "Entpacken %@...";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes failed to be submitted. E.g. 'Failed: 5 order(s)/quote(s)' */
+"Failed: %d order(s)/quote(s)" = "Gescheitert: %d Bestellung(en)/Angebot(e)";
+
+/* No comment provided by engineer. */
+"Feed" = "Feed";
+
+/* No comment provided by engineer. */
+"Feed Error" = "Fehler beim Feed";
+
+/* No comment provided by engineer. */
+"Feed Information" = "Feed Information";
+
+/* No comment provided by engineer. */
+"Feed Name" = "Feed Name";
+
+/* No comment provided by engineer. */
+"Feed Number" = "Feed Nummer";
+
+/* No comment provided by engineer. */
+"Feed Unavailable" = "Feed nicht verfügbar";
+
+/* No comment provided by engineer. */
+"Filter" = "Filtern";
+
+/* No comment provided by engineer. */
+"Filter by price..." = "Filtern nach Preis…";
+
+/* No comment provided by engineer. */
+"Filter By..." = "Filtern nach...";
+
+/* Used to inform the user which category they're filtering by. E.g. 'Filtering by Clocks */
+"Filtering by %@" = "Filtern nach %@";
+
+/* Used to inform the user how many categories they're filtering by. E.g. 'Filtering by 10 categories */
+"Filtering by %d categories" = "Filtern nach %d Kategorien";
+
+/* No comment provided by engineer. */
+"Find" = "Finden";
+
+/* No comment provided by engineer. */
+"Find Products" = "Produkte suchen";
+
+/* No comment provided by engineer. */
+"Find products that will be in-stock by:" = "Artikel finden, die vorrätig werden sein ab:";
+
+/* No comment provided by engineer. */
+"Finish Editing" = "Bearbeitung enden";
+
+/* Used during the sync process to inform the user which process has been downloaded. E.g. 'Finishing downloading Images' */
+"Finishing downloading %@..." = "Herunterladen beenden %@...";
+
+/* No comment provided by engineer. */
+"First Name" = "Vorname";
+
+/* No comment provided by engineer. */
+"Fiscal Number (IT)" = " Steuernummer(Italien)";
+
+/* No comment provided by engineer. */
+"FOB" = "FOB";
+
+/* No comment provided by engineer. */
+"Further Information" = "Weitere Information";
+
+/* No comment provided by engineer. */
+"Grand Total" = "Gesamtbetrag";
+
+/* No comment provided by engineer. */
+"Hide bespoke products" = "Maßgeschneiderte Produkte verstecken";
+
+/* No comment provided by engineer. */
+"Hide out of stock" = "Nicht am Lager verstecken";
+
+/* Displayed on the large product view */
+"History" = "Chronik";
+
+/* No comment provided by engineer. */
+"Image" = "Bild";
+
+/* No comment provided by engineer. */
+"Images" = "Bilder";
+
+/* Used during the sync process to inform the user which process is currently being importing. E.g. 'Importing Product...' */
+"Importing %@..." = "Importieren %@...";
+
+/* No comment provided by engineer. */
+"in order currently" = "Zurzeit in die Bestellung";
+
+/* No comment provided by engineer. */
+"In stock" = "Vorrätig";
+
+/* No comment provided by engineer. */
+"In Warehouse" = "In Lagerhaus";
+
+/* No comment provided by engineer. */
+"In-stock Date" = "vorrätiges Datum";
+
+/* No comment provided by engineer. */
+"In-stock Products" = "Vorrätige Artikel";
+
+/* No comment provided by engineer. */
+"Inner" = "Innere";
+
+/* No comment provided by engineer. */
+"Inner: " = "Innere:";
+
+/* No comment provided by engineer. */
+"Invalid E-mail Address" = "E-Mail Adresse ungültig!";
+
+/* No comment provided by engineer. */
+"Invalid E-mail Address!" = "E-Mail Adresse ungültig!";
+
+/* No comment provided by engineer. */
+"Invalid Feed" = "Feed ungültig";
+
+/* No comment provided by engineer. */
+"Invalid Feed Name" = "Feed Name ungültig";
+
+/* No comment provided by engineer. */
+"Invalid Feed Number" = "Feed Nummer ungültig";
+
+/* No comment provided by engineer. */
+"Invalid Name!" = "Name ungültig!";
+
+/* No comment provided by engineer. */
+"Invoice" = "Rechnung";
+
+/* No comment provided by engineer. */
+"Invoice Address" = "Rechnungsadresse";
+
+/* No comment provided by engineer. */
+"Invoices" = "Rechnungen";
+
+/* No comment provided by engineer. */
+"Just tap here or press the + button." = "Hier einfach tippen oder auf den Knopf + drucken.";
+
+/* No comment provided by engineer. */
+"Large Product Images" = "Große Produktbilder";
+
+/* No comment provided by engineer. */
+"Last Name" = "Nachname";
+
+/* No comment provided by engineer. */
+"Last received" = "Letzer Empfang ";
+
+/* No comment provided by engineer. */
+"LCP" = "LCP";
+
+/* No comment provided by engineer. */
+"Loading" = "Beladung";
+
+/* No comment provided by engineer. */
+"Make sure you type a valid e-mail address." = "Beachten Sie, dass Sie eine gültige E-Mail-Adresse eintippen.";
+
+/* No comment provided by engineer. */
+"Make sure you type your first and last name!" = "Beachten Sie, dass Sie Ihre Vorname und Nachname eintippen!";
+
+/* No comment provided by engineer. */
+"Manage Feeds" = "Feeds verwalten";
+
+/* No comment provided by engineer. */
+"Manifest" = "Verzeichnis";
+
+/* No comment provided by engineer. */
+"Material" = "Zusammensetzung";
+
+/* No comment provided by engineer. */
+"Maximum Price (optional)" = "maximaler Preis(auf Wunsch)";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"Method of Payment" = "Zahlungsweise";
+
+/* No comment provided by engineer. */
+"Minimal Price (optional)" = "minimaler Preis (auf Wunsch)";
+
+/* No comment provided by engineer. */
+"Missing Name" = "Name fehlt";
+
+/* No comment provided by engineer. */
+"Mobile" = "Handy";
+
+/* No comment provided by engineer. */
+"Mobile Number" = "Handynummer";
+
+/* No comment provided by engineer. */
+"Most Popular First" = "Die beliebteste zuerst";
+
+/* No comment provided by engineer. */
+"MTS" = "MTS";
+
+/* No comment provided by engineer. */
+"Must be at least three characters" = "Muss mindestens drei Zeichen lang sein";
+
+/* No comment provided by engineer. */
+"My Feeds" = "Meine Feeds";
+
+/* No comment provided by engineer. */
+"My Recent Customers" = "Meine neueste Kunden ";
+
+/* No comment provided by engineer. */
+"N/A" = "nicht zutreffend";
+
+/* No comment provided by engineer. */
+"Name" = "Name";
+
+/* No comment provided by engineer. */
+"Need help finding your Feed Number?  Contact Puckator Support." = "Benötigen Sie Hilfe um Ihre Feed-Nummer zu finden? Kontaktieren Sie Puckator Support.";
+
+/* No comment provided by engineer. */
+"Network is unreachable!" = "Netwerk ist nicht erreichbar!";
+
+/* No comment provided by engineer. */
+"Never syncronised" = "niemals syncronisiert";
+
+/* No comment provided by engineer. */
+"New & Coming Soon" = "Neuheiten & demnächst verfügbar";
+
+/* No comment provided by engineer. */
+"New order" = "Neue Bestellung";
+
+/* No comment provided by engineer. */
+"New Order" = "Neue Bestellung";
+
+/* No comment provided by engineer. */
+"New Products" = "Neue Produkte";
+
+/* No comment provided by engineer. */
+"New Products in stock" = "Neue Artikel die vorrätig sind";
+
+/* No comment provided by engineer. */
+"New Products in Stock" = "Neue Artikel die vorrätig sind";
+
+/* No comment provided by engineer. */
+"No" = "Nein";
+
+/* No comment provided by engineer. */
+"No active feed" = "Kein aktive Feed ";
+
+/* No comment provided by engineer. */
+"No categories selected" = "Keine Kategorien ausgewählt";
+
+/* No comment provided by engineer. */
+"No E-mail Address" = "Keine E-Mail-Adresse";
+
+/* No comment provided by engineer. */
+"No files were found in the zip archive" = "Keine Dateien in der ZIP-Archiv wurden gefunden ";
+
+/* No comment provided by engineer. */
+"No graph data to display." = "Keine Diagrammdaten anzuzeigen";
+
+/* No comment provided by engineer. */
+"No products found" = "Kein Artikel gefunden";
+
+/* No comment provided by engineer. */
+"No Products Found" = "Keine Produkte gefunden";
+
+/* No comment provided by engineer. */
+"None" = "Keine";
+
+/* No comment provided by engineer. */
+"Not Authorised" = "Nicht autorisiert";
+
+/* No comment provided by engineer. */
+"Not enough feeds!" = "ungenügende Feeds!";
+
+/* No comment provided by engineer. */
+"Notes" = "Notizen";
+
+/* No comment provided by engineer. */
+"Ok" = "OK";
+
+/* No comment provided by engineer. */
+"On back order" = "im Lieferrückstand";
+
+/* No comment provided by engineer. */
+"One Moment..." = "Einen Moment...";
+
+/* No comment provided by engineer. */
+"Only show available products" = "Nur verfügbare Produkte zeigen";
+
+/* No comment provided by engineer. */
+"Open" = "Öffnen";
+
+/* No comment provided by engineer. */
+"Open Order" = "Bestellung öffnen";
+
+/* No comment provided by engineer. */
+"Open Orders" = "Bestellungen öffnen";
+
+/* No comment provided by engineer. */
+"Open Orders (%d)" = "Bestellungen öffnen (%d)";
+
+/* The name of the item being downloaded (1$) and the number of remaining items ($2). E.g. 'Products remaining 450' */
+"Optimising %@: %d/%d" = "Optimierung %1$@: %2$d/%3$d";
+
+/* No comment provided by engineer. */
+"Options" = "Optionen";
+
+/* No comment provided by engineer. */
+"order" = "Bestellung";
+
+/* No comment provided by engineer. */
+"Order" = "Bestellung";
+
+/* No comment provided by engineer. */
+"Order Complete" = "Bestellung ist vollständig";
+
+/* No comment provided by engineer. */
+"Order Date" = "Bestelldatum";
+
+/* No comment provided by engineer. */
+"Order Details" = "Bestelldetails";
+
+/* No comment provided by engineer. */
+"Order Error" = "Fehler bei der Bestellung";
+
+/* No comment provided by engineer. */
+"Order Found" = "Bestellung gefunden";
+
+/* No comment provided by engineer. */
+"Order is missing" = "Bestellung fehlt";
+
+/* No comment provided by engineer. */
+"Order notes can only be %d characters in length. Your notes have been cropped to this maximum length.
+
+Please check your notes to make sure they are still informative before attempting to send this order again." = "Die Notizen können nur %d Zeichen lang sein. Ihre Notizen wurden zu die maximale Länge gekürzt. Bitte prüfen Sie dass die Notizen noch informativ sind, vor Sie noch einmal versuchen die Bestellung zu senden.";
+
+/* No comment provided by engineer. */
+"Order Warning" = "Bestellung Warnung";
+
+/* No comment provided by engineer. */
+"Orders" = "Bestellungen";
+
+/* No comment provided by engineer. */
+"Orders / Quotes" = "Bestellungen / Angebote";
+
+/* No comment provided by engineer. */
+"Other" = "Andere";
+
+/* No comment provided by engineer. */
+"Outstanding" = "Unerledigt";
+
+/* No comment provided by engineer. */
+"Outstanding Order" = "Unerledigte Bestellung";
+
+/* Purchase Unit */
+"P / Unit" = "P / Stück ";
+
+/* No comment provided by engineer. */
+"Payload does not contain an XML document" = "Die Nutzlast beinhaltet kein XML-Dokument";
+
+/* No comment provided by engineer. */
+"Payment Method" = "Zahlungsweise";
+
+/* No comment provided by engineer. */
+"Payment Method Not Agreed" = "Zahlungsweise nicht vereinbart";
+
+/* No comment provided by engineer. */
+"PDF Style" = "PDF Stil";
+
+/* Displayed on the large product view */
+"Photos" = "Fotos";
+
+/* No comment provided by engineer. */
+"Please ensure you are connected to a Wi-Fi or Cellular Network." = "Bitte versichern Sie, dass Sie mit einem Wifi-Netzwerk oder Mobilnetz verbunden sind.";
+
+/* No comment provided by engineer. */
+"Please enter a place name or postcode:" = "Bitte Ort oder Postleitzahl eingeben";
+
+/* No comment provided by engineer. */
+"Please enter a value!" = "Bitte Werte eingeben!";
+
+/* No comment provided by engineer. */
+"Please enter all information" = "Bitte alle Information eingeben";
+
+/* No comment provided by engineer. */
+"Please enter the price range you would like to filter by." = "Bitte geben Sie die Preisklasse ein, die Sie danach filtern möchten.";
+
+/* No comment provided by engineer. */
+"Please provide at least one valid e-mail address before trying to submit the order." = "Bitte geben Sie eine gültige E-Mail-Adresse ein, vor Sie versuchen die Bestellung abzuschicken";
+
+/* No comment provided by engineer. */
+"Postcode" = "Postleitzahl";
+
+/* No comment provided by engineer. */
+"Price" = "Preis";
+
+/* No comment provided by engineer. */
+"Price Check" = "Preisabfrage";
+
+/* Used when filtering by price (between) */
+"Priced between" = "Preisklasse zwischen";
+
+/* Used when filtering by price (greater than) */
+"Priced greater than" = "Preis höher als";
+
+/* Used when filtering by price (less than) */
+"Priced less than" = "Preis weniger als";
+
+/* Used when filtering by price (no selection) */
+"Priced..." = "Preis…";
+
+/* No comment provided by engineer. */
+"Prices" = "Preise";
+
+/* No comment provided by engineer. */
+"Prior Year" = "Vorjahr";
+
+/* No comment provided by engineer. */
+"Prior Year GBP" = "Vorjahr EUR";
+
+/* No comment provided by engineer. */
+"Product code" = "Artikelnummer";
+
+/* No comment provided by engineer. */
+"Product Code" = "Artikelnummer";
+
+/* No comment provided by engineer. */
+"Product Code Only" = "nur Artikelnummer";
+
+/* No comment provided by engineer. */
+"Product Code, Title & Description" = "Artikelnummer, Produkttitle und Beschreibung";
+
+/* No comment provided by engineer. */
+"Product In-Stock" = "Artikel vorrätig";
+
+/* No comment provided by engineer. */
+"Product Information" = "Artikelinformationen";
+
+/* No comment provided by engineer. */
+"Product Quick Filters" = "Artikel Schnellfilter ";
+
+/* No comment provided by engineer. */
+"Product Title" = "Produkttitle";
+
+/* No comment provided by engineer. */
+"Products" = "Produkte";
+
+/* Used during the sync process to inform the user how many products have been processed. */
+"Products processed %d..." = "Produkte verarbeitet %d...";
+
+/* No comment provided by engineer. */
+"Proforma Agreed" = "Proforma vereinbart";
+
+/* No comment provided by engineer. */
+"Puckator" = "Puckator";
+
+/* No comment provided by engineer. */
+"Puckator provided Feed Number" = "Puckator versorgt den Feed-Nummer";
+
+/* No comment provided by engineer. */
+"Purchase Order Number" = "Bestellreferenz";
+
+/* No comment provided by engineer. */
+"Purchase Unit" = "Mindestmenge";
+
+/* No comment provided by engineer. */
+"Purchase Unit: " = "Mindestmenge:";
+
+/* No comment provided by engineer. */
+"Queued" = "in Warteschlange";
+
+/* No comment provided by engineer. */
+"Quick" = "Schnell";
+
+/* No comment provided by engineer. */
+"Quick Add" = "Schnell hinzufügen";
+
+/* No comment provided by engineer. */
+"Quick Search" = "Schnell suchen";
+
+/* No comment provided by engineer. */
+"quote" = "Angebot";
+
+/* No comment provided by engineer. */
+"Quote / Not Sent" = "Angebot / nicht gesendet";
+
+/* No comment provided by engineer. */
+"Quote / Sent" = "Angebot / gesendet";
+
+/* No comment provided by engineer. */
+"Quote Details" = "Details des Angebots";
+
+/* No comment provided by engineer. */
+"Recent Orders" = "Neueste Bestellungen";
+
+/* No comment provided by engineer. */
+"Recent Orders (%d)" = "Neueste Bestellungen (%d)";
+
+/* No comment provided by engineer. */
+"Remind Later" = "Später in Erinnerung bringen";
+
+/* No comment provided by engineer. */
+"Remove" = "Entfernen";
+
+/* No comment provided by engineer. */
+"Remove Items" = "Artikel entfernen";
+
+/* No comment provided by engineer. */
+"Remove Products" = "Artikel entfernen";
+
+/* No comment provided by engineer. */
+"Rep Name" = "Name des Vertreters";
+
+/* No comment provided by engineer. */
+"Resend" = "Wieder senden ";
+
+/* No comment provided by engineer. */
+"Reset" = "Zurücksetzen";
+
+/* No comment provided by engineer. */
+"Retry" = "Wieder versuchen";
+
+/* No comment provided by engineer. */
+"Sage" = "Sage";
+
+/* No comment provided by engineer. */
+"Sales" = "Verkäufe";
+
+/* No comment provided by engineer. */
+"Save" = "Speichern";
+
+/* No comment provided by engineer. */
+"Save As Quote" = "Als Angebot speichern";
+
+/* No comment provided by engineer. */
+"Save Feed" = "Feed speichern";
+
+/* No comment provided by engineer. */
+"Save Order" = "Bestellung speichern";
+
+/* No comment provided by engineer. */
+"Saved Order" = "Gespeicherte Bestellung";
+
+/* No comment provided by engineer. */
+"Saved Quote" = "Gespeichertes Angebot";
+
+/* No comment provided by engineer. */
+"Search" = "Suchen";
+
+/* No comment provided by engineer. */
+"Search By..." = "Suchen nach...";
+
+/* No comment provided by engineer. */
+"Search Error" = "Suche Fehler";
+
+/* No comment provided by engineer. */
+"Search for products" = "Suchen nach Produkte";
+
+/* No comment provided by engineer. */
+"Search is too short!" = "Suche ist zu kurz!";
+
+/* No comment provided by engineer. */
+"Search Results" = "Suchergebnisse";
+
+/* No comment provided by engineer. */
+"Select" = "Auswählen";
+
+/* No comment provided by engineer. */
+"Select a feed to switch to..." = "Wählen Sie einen Feed, zu dem Sie wechseln möchten...";
+
+/* No comment provided by engineer. */
+"Select Address" = "Adresse auswählen";
+
+/* No comment provided by engineer. */
+"Select Category" = "Kategorie auswählen";
+
+/* No comment provided by engineer. */
+"Select Country" = "Land auswählen";
+
+/* No comment provided by engineer. */
+"Select Currency..." = "Währung auswählen";
+
+/* No comment provided by engineer. */
+"Select Date" = "Datum auswählen";
+
+/* No comment provided by engineer. */
+"Select Language" = "Sprache auswählen";
+
+/* Used to inform the user how many categories they have selected to filter by. E.g. 'Selected 5 categories' */
+"Selected %d categories" = "%d Kategorien ausgewählt";
+
+/* No comment provided by engineer. */
+"Send" = "Senden";
+
+/* No comment provided by engineer. */
+"Send Log" = "Log senden";
+
+/* No comment provided by engineer. */
+"Send Now" = "Jetzt senden";
+
+/* No comment provided by engineer. */
+"Send Order" = "Die Bestellung senden";
+
+/* No comment provided by engineer. */
+"Send Quote" = "Das Angebot senden";
+
+/* No comment provided by engineer. */
+"Sending Orders" = "Versendung der Bestellungen";
+
+/* No comment provided by engineer. */
+"Settings" = "Einstellungen";
+
+/* No comment provided by engineer. */
+"Setup your first feed" = "Ihr ersten Feed einstellen ";
+
+/* No comment provided by engineer. */
+"Sorry, '%@' is not a valid e-mail address, please fix this issue before trying to submit the order again." = "Entschuldigung,'%@' ist nicht eine gültige E-Mail-Adresse, bitte lösen Sie dieses Problem vor Sie versuchen noch einmal die Bestellung absenden";
+
+/* No comment provided by engineer. */
+"Sorry, we were unable to find any customers for your search." = "Entschuldigung, konnten wir keinen Kunden finden";
+
+/* No comment provided by engineer. */
+"Sort By" = "Sortieren nach";
+
+/* No comment provided by engineer. */
+"Sorting isn't avaliable when viewing new products.
+
+Products are automatically ordered by date added." = "Sortiereung ist nicht verfügbar als Sie neue Produkte anschauen. Die Produkte sind automatisch nach dem Datum, an dem sie hinzugefügt werden sortiert.";
+
+/* No comment provided by engineer. */
+"Standard Product List" = "Standard Produktliste";
+
+/* No comment provided by engineer. */
+"Start Sync" = "Synchronisation starten";
+
+/* No comment provided by engineer. */
+"State" = "Bundesland";
+
+/* Informs the user which step they are in during the sync. E.g. Step 1/5: */
+"Step %d/%d:" = "Schritt %1$d/%2$d:";
+
+/* No comment provided by engineer. */
+"Stock" = "Bestand";
+
+/* No comment provided by engineer. */
+"Stock Available" = "verfügbarer Bestand";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes were successful submitted. E.g. 'Succeeded: 5 order(s)/quote(s)' */
+"Succeeded: %d order(s)/quote(s)" = "Erfolgreich gesendet: %d Bestellung (en)/Angebot(e)";
+
+/* Used during the sync process to inform the user if a process was success during the sync process. E.g. 'Success importing Products' */
+"Success importing %@..." = "Erfolg beim Importierung %@...";
+
+/* No comment provided by engineer. */
+"Supplier" = "Lieferant";
+
+/* No comment provided by engineer. */
+"Suppliers" = "Lieferanten";
+
+/* No comment provided by engineer. */
+"Switch Feeds" = "Feeds wechseln";
+
+/* No comment provided by engineer. */
+"Switch to..." = "Umsteigen auf..";
+
+/* No comment provided by engineer. */
+"Sync" = "Synchronisation";
+
+/* No comment provided by engineer. */
+"Sync Catalogue" = "Den Katalog synchronisieren";
+
+/* No comment provided by engineer. */
+"Sync Complete!" = "Abschluss der Synchronisation";
+
+/* No comment provided by engineer. */
+"Sync Orders" = "Die Bestellungen synchronisieren";
+
+/* No comment provided by engineer. */
+"Sync Orders & Quotes" = "Bestellungen und Angebote synchronisieren";
+
+/* No comment provided by engineer. */
+"Syncronisation Error" = "Fehler beim Synchronisation";
+
+/* No comment provided by engineer. */
+"Tap for options..." = "Tippen für Optionen...";
+
+/* No comment provided by engineer. */
+"TAP TO SWITCH" = "Tippen um zu wechseln";
+
+/* No comment provided by engineer. */
+"TBC" = "unbestätigt";
+
+/* No comment provided by engineer. */
+"Telephone" = "Telefon";
+
+/* No comment provided by engineer. */
+"Telephone Number" = "Telefonnummer";
+
+/* No comment provided by engineer. */
+"The app must be closed and relaunched in order to change the language." = " Die App muss geschließt und wieder eröffnet werden, um die Sprache zu ändern.";
+
+/* No comment provided by engineer. */
+"The app will now close, you can open it again by tapping the icon on your home screen." = "Die App wird jetzt schließen, Sie können die noch einmal öffnen - einfach das App-Icon auf Ihre Startseite tippen.";
+
+/* No comment provided by engineer. */
+"The currency for this customer is not supported by your current feed.
+
+Please either switch to a feed that supports %@ (%@) or setup a new customer using a supported currency." = "Die Währung für diese Kunde ist nicht von dieser Feed gestützt. Bitte zu ein andere Feed wechseln der %1$@ (%2$@)stützt oder eine neue Kunde mit einer unterstützten Währung erstellen.";
+
+/* No comment provided by engineer. */
+"The feed number entered is invalid!" = "Der Feed-Nummer ist ungültig!";
+
+/* No comment provided by engineer. */
+"The products have been added." = "Die Artikel wurden hinzugefügt";
+
+/* No comment provided by engineer. */
+"The products have been removed." = "Die Artikel wurden entfernt";
+
+/* No comment provided by engineer. */
+"The Puckator Server appears to be unavailable at this time!" = "Der Puckator Server ist zurzeit unverfügbar!";
+
+/* No comment provided by engineer. */
+"The server rejected your order because you are using a version of the Puckator app that is no longer supported.  Please update the app and try again." = "Der Server hat Ihre Bestellung abgelehnt denn Sie benutzen eine Version der App die nicht mehr aktuell ist. Bitte aktualisieren Sie die App und es noch einmal versuchen.";
+
+/* No comment provided by engineer. */
+"The zip archive was extracted but did not contain a .xml file!" = "Das ZIP-Archiv wurde extrahiert aber beeinhaltet keine .XML-Datei!";
+
+/* Used to inform the user how many items are in stock for a product. E.g. 'There are 1,203 unit(s) in stock. */
+"There are %@ unit(s) in stock" = "Es gibt %@ Stück(e) auf Lager";
+
+/* No comment provided by engineer. */
+"This customer has two different VAT numbers associated with them, which one would you like to use?" = "Diese Kunden hat zwei verschiedene Umsatzsteur-Identifikationsnummern mit dem Konto verbundet, welche Nummer möchten Sie benutzen?";
+
+/* No comment provided by engineer. */
+"This feed has never been syncronised, so it is not possible to switch to it right now." = "Dieser Feed wurde niemals synchronisiert, also es ist nicht möglich der zurzeit benutzen..";
+
+/* No comment provided by engineer. */
+"This is a normal order" = "Diese ist eine normale Bestellung";
+
+/* No comment provided by engineer. */
+"This is a show order" = "Diese ist eine Messe Bestellung";
+
+/* No comment provided by engineer. */
+"Title & Description Only" = "Nur Titel und Beschreibung";
+
+/* No comment provided by engineer. */
+"Title Only" = "Nur Titel";
+
+/* No comment provided by engineer. */
+"To another account" = "zu eine andere Kunde";
+
+/* No comment provided by engineer. */
+"To this account" = "zu diese Kunde";
+
+/* No comment provided by engineer. */
+"Today" = "Heute";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "Morgen";
+
+/* No comment provided by engineer. */
+"Top 100 Grossing" = "Top 100 (umsatzstärkste)";
+
+/* No comment provided by engineer. */
+"Top 100 Seller" = "Top 100 (am meisten verkauft)";
+
+/* No comment provided by engineer. */
+"Top 300 Grossing" = "Top 300 (umsatzstärkste)";
+
+/* No comment provided by engineer. */
+"Top 300 Seller" = "Top 300 (am meisten verkauft)";
+
+/* No comment provided by engineer. */
+"Top 500 Grossing" = "Top 500 (umsatzstärkste)";
+
+/* No comment provided by engineer. */
+"Top 500 Seller" = "Top 500 (am meisten verkauft)";
+
+/* No comment provided by engineer. */
+"Top Grossing" = "Umsatzstärkste";
+
+/* No comment provided by engineer. */
+"Top Sellers" = "Verkaufsschlager";
+
+/* No comment provided by engineer. */
+"Top Sellers Globally" = "Meistverkäufte Artikel weltweit";
+
+/* No comment provided by engineer. */
+"Total" = "Gesamtsumme";
+
+/* No comment provided by engineer. */
+"Total Sold" = "Gesamtsumme verkauft";
+
+/* No comment provided by engineer. */
+"Total Value" = "Gesamtwert";
+
+/* No comment provided by engineer. */
+"Total YTD sold" = "Gesamtsumme verkauft seit Jahresbeginn ";
+
+/* No comment provided by engineer. */
+"Totals" = "Gesamtbeträge";
+
+/* No comment provided by engineer. */
+"Town" = "Stadt";
+
+/* No comment provided by engineer. */
+"Trade Show Order" = "Messe Bestellung";
+
+/* No comment provided by engineer. */
+"Try Later" = "Bitte versuchen Sie es später noch einmal.";
+
+/* No comment provided by engineer. */
+"Unable to add feed!" = "Unmöglich den Feed hinzufügen.";
+
+/* No comment provided by engineer. */
+"Unable to create a new customer, please contact your support team." = "Unmöglich eine neue Kunde einstellen, bitte kontaktieren Sie das Support Team.";
+
+/* No comment provided by engineer. */
+"Unable to find the customer" = "Kann die Kunde nicht finden.";
+
+/* No comment provided by engineer. */
+"Unavailable" = "Nicht verfügbar";
+
+/* No comment provided by engineer. */
+"Unfortunately it was not possible to send all your order(s)/quote(s) to the server at this time, please check your Internet connection and try again." = "Leider war es nicht möglich alle Ihrer Bestellung(en)/Angebot(e)an den Server senden. Bitte prüfen Sie die Internetverbindung und es noch einmal versuchen.";
+
+/* No comment provided by engineer. */
+"Unfortunately it was not possible to send all your orders/quotes to the server at this time, please check your Internet connection and try again." = "Leider war es nicht möglich alle Ihrer Bestellung(en)/Angebot(e)an den Server senden. Bitte prüfen Sie die Internetverbindung und es noch einmal versuchen..";
+
+/* No comment provided by engineer. */
+"Unknown" = "Unbekannt";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "unbekannter Status";
+
+/* Used to inform the user how many order they have to send. E.g. 'Unsent orders: 5' */
+"Unsent orders: %d" = "Bestellungen nicht gesendet: %d";
+
+/* No comment provided by engineer. */
+"Update" = "Aktualisierung";
+
+/* No comment provided by engineer. */
+"Update E-mail Address" = "E-Mail-Adresse aktualisieren";
+
+/* No comment provided by engineer. */
+"Updating..." = "Aktualisiert...";
+
+/* No comment provided by engineer. */
+"Upgrade Required" = "Aktualisierung nötig";
+
+/* No comment provided by engineer. */
+"VAT" = "MwSt.";
+
+/* No comment provided by engineer. */
+"VAT Number" = "Umsatzsteur-Identifikationsnummer";
+
+/* Used to inform the user their app is up to date. E.g. 'Version 1.0 Your app is up to date' */
+"Version: %@
+Your app is up to date." = "Version: %@ Das App ist aktualisiert.";
+
+/* No comment provided by engineer. */
+"View Customers" = "Kunden sehen";
+
+/* No comment provided by engineer. */
+"View Order" = "Bestellung sehen";
+
+/* No comment provided by engineer. */
+"Warning" = "Achtung";
+
+/* No comment provided by engineer. */
+"We were unable to find your location.
+
+Please check you've given us access to your location in the settings app." = "Wir können Ihren Standort nicht finden.
+ 
+ Bitte prüfen Sie, dass Sie uns den Zugriff auf Ihren Standort in die Einstellungen gegeben haben.";
+
+/* No comment provided by engineer. */
+"We're not authorised to use your location. Please enable location services in your device settings." = "Wir sind nicht autorisiert Ihre Standtort benuzten. Bitte Standortservices in Ihre Geräteeinstellungen aktivieren.";
+
+/* No comment provided by engineer. */
+"Welcome" = "Willkommen";
+
+/* No comment provided by engineer. */
+"Which style of PDF would you like to send to the customer?" = "Welcher Stil PDF möchten Sie an der Kunde senden?";
+
+/* No comment provided by engineer. */
+"Which VAT number?" = "Welche Umsatzsteur-Identifikationsnummer?";
+
+/* No comment provided by engineer. */
+"Who are you?" = "Wer sind Sie?";
+
+/* No comment provided by engineer. */
+"Would you like to copy this order to this account or to another account?" = "Möchten Sie diese Bestellung auf dieses Konto oder zu einem anderen Kunde kopieren?";
+
+/* Informs the user of which version of the app they're running. E.g. 'You are using version: 1.0' */
+"You are using version: %@" = "Sie benutzen die Version:% @";
+
+/* No comment provided by engineer. */
+"You can not change your language while an order is in progress.
+
+Please finish your current order before attempting to change the language." = "Sie können die Sprache nicht ändern während eine Bestellung in Bearbeitung ist. Bitte beenden Sie Ihre aktuelle Bestellung, vor Sie versuchen die Sprache zu ändern.";
+
+/* No comment provided by engineer. */
+"You can not delete your active feed.
+
+In order to delete this feed you must first activate another feed." = "Sie können den aktiven Feed nicht löschen. Um diesen Feed löschen zu können, müssen Sie zuerst einen anderen Feed aktivieren.";
+
+/* No comment provided by engineer. */
+"You can't access the menu when editing a custom category." = "Sie können nicht auf das Menu zugreifen, wenn Sie eine benutzerdefinierte Kategorie bearbeiten.";
+
+/* No comment provided by engineer. */
+"You can't access this option when editing a custom category." = "Sie können nicht auf diese Möglichkeit zugreifen, wenn Sie eine benutzerdefinierte Kategorie bearbeiten.";
+
+/* No comment provided by engineer. */
+"You can't add a custom category while you have an open order." = "Sie können eine benutzerdefinierte Kategorie nicht hinzufügen,als Sie eine Bestellung offen haben.";
+
+/* No comment provided by engineer. */
+"You can't edit this e-mail address because it isn't custom." = "Sie können diese E-Mail-Adresse nicht ändern weil es nicht benutzerdefinierte ist.";
+
+/* No comment provided by engineer. */
+"You can't start an order when editing a custom category." = "Sie können eine neue Bestellung nicht anfangen, als Sie eine benutzerdefinierte Kategorie bearbeiten.";
+
+/* No comment provided by engineer. */
+"You have already added this Feed Number!" = "Sie haben diesen Feed-Nummer bereits hinzugefügt!";
+
+/* No comment provided by engineer. */
+"You have entered a price greater than the top tier price.
+
+Are you sure you want to apply this price?" = "Sie haben ein Preis angegeben, der teurer als den Stückpreis ist.
+
+Sind Sie sicher, dass Sie diesen Preis anwenden möchten? ";
+
+/* No comment provided by engineer. */
+"You have orders in your outbox that have not been sent yet" = "Sie haben Bestellungen in Ihren Postausgang die noch nicht gesendet wurden.";
+
+/* No comment provided by engineer. */
+"You must at at least one feed to continue." = "Sie müssen mindestens 1 Feed haben um fortzufahren.";
+
+/* No comment provided by engineer. */
+"You must have at least one feed to continue." = "Sie müssen mindestens 1 Feed haben um fortzufahren.";
+
+/* No comment provided by engineer. */
+"You must tap the Settings icon to configure feeds!" = "Sie müssen auf das Icon Einstellungen tippen, um die Feeds zu konfigurieren!";
+
+/* Used to inform the user they haven't been authenicated yet. JWT stand for JSON Web Token; and does not require translation. */
+"Your client has not been issued a JWT token yet!" = "Ihrer Kunde wurde noch nicht ein JWT Token gegeben!";
+
+/* No comment provided by engineer. */
+"Your custom category has been created." = "Ihre benutzerdefinierte Kategorie wurde erstellt.";
+
+/* No comment provided by engineer. */
+"Your custom category has been deleted." = "Ihre benutzerdefinierte Kategorie wurde gelöscht.";
+
+/* No comment provided by engineer. */
+"Your e-mail address" = "Ihre E-Mail-Adresse";
+
+/* No comment provided by engineer. */
+"Your E-mail Addresses" = "Ihren E-Mail-Addressen";
+
+/* No comment provided by engineer. */
+"Your feeds..." = "Ihr Feeds";
+
+/* No comment provided by engineer. */
+"Your first name" = "Ihr Vorname";
+
+/* No comment provided by engineer. */
+"Your last name" = "Ihr Nachname";
+
+/* No comment provided by engineer. */
+"Your order(s)/quote(s) have been sent to the server!" = "Ihre Bestellung(en)/Angebot(e) wurde an der Server gesendet!";
+
+/* No comment provided by engineer. */
+"Your orders/quotes have been sent to the server!" = "Ihre Bestellungen/Angebote wurden an der Server gesendet!";
+
+/* No comment provided by engineer. */
+"YTD" = "seit Jahresbeginn";
+
+/* No comment provided by engineer. */
+"YTD GBP" = "seit Jahresbeginn EUR";
+

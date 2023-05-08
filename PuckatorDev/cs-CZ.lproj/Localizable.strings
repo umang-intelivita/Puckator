@@ -1,0 +1,1455 @@
+/* Displays the number of products for a search. E.g. #1 of 20 results. */
+"#%i of %i results" = " #%1$i z %2$i výsledků";
+
+/* The name of the item being downloaded (1$) and the number of remaining items ($2). E.g. 'Products remaining 450' */
+"%@ remaining %d" = "%1$@ zbývá %2$d";
+
+/* Used during the order submission process to inform the user how many orders failed to be submitted. E.g. '5 failed' */
+"%d failed" = "%d neodesláno";
+
+/* Used to inform the user how many images a product has. E.g. '5 image(s)' */
+"%d image(s)" = "%d obrázků";
+
+/* How many ($1) of ($2) have been processed so far. */
+"%d of %d" = "%1$d ze %2$d";
+
+/* Displays the number of products that are currently on back order. E.g. 1,000 on back order */
+"%d on back order" = "%d již v jiných objednávkách";
+
+/* No comment provided by engineer. */
+"3%" = "3%";
+
+/* No comment provided by engineer. */
+"5%" = "5%";
+
+/* No comment provided by engineer. */
+"10%" = "10%";
+
+/* No comment provided by engineer. */
+"15%" = "15%";
+
+/* No comment provided by engineer. */
+"20%" = "20%";
+
+/* No comment provided by engineer. */
+"25%" = "25%";
+
+/* No comment provided by engineer. */
+"30 Days" = "30 dní";
+
+/* No comment provided by engineer. */
+"30 Days Agreed" = "Splatnost 30 dní udělena";
+
+/* No comment provided by engineer. */
+"30 Days Subject to refs" = "Splatnost 30 dní musí být ověřena";
+
+/* No comment provided by engineer. */
+"30%" = "30";
+
+/* No comment provided by engineer. */
+"35%" = "35";
+
+/* No comment provided by engineer. */
+"37%" = "37";
+
+/* No comment provided by engineer. */
+"40%" = "40";
+
+/* No comment provided by engineer. */
+"60 Days" = "60 dní";
+
+/* No comment provided by engineer. */
+"90 Days" = "90 dní";
+
+/* No comment provided by engineer. */
+"120 Days" = "120 dní";
+
+/* No comment provided by engineer. */
+"Aborted!" = "Přerušeno!";
+
+/* No comment provided by engineer. */
+"Access Revoked" = "Přístup zrušen";
+
+/* No comment provided by engineer. */
+"Access to this feed has been revoked by a Puckator Administrator.\n\nIf you feel this is in error please contact Puckator." = "Přístup byl zamítnut administrátorem.\nPokud se domníváte, že se jedná o chybu, prosím kontaktuje Puckator.";
+
+/* No comment provided by engineer. */
+"Account Number" = "Číslo účtu";
+
+/* No comment provided by engineer. */
+"Account Ref" = "Reference účtu";
+
+/* No comment provided by engineer. */
+"Accounts" = "Účty";
+
+/* No comment provided by engineer. */
+"Active" = "Action";
+
+/* No comment provided by engineer. */
+"Add" = "Přidat";
+
+/* No comment provided by engineer. */
+"Add all products (%i)" = "Přidat všechny produkty";
+
+/* No comment provided by engineer. */
+"Add in stock products (%i)" = "Přidat produkty skladem";
+
+/* No comment provided by engineer. */
+"Add Products" = "Přidat produkty";
+
+/* No comment provided by engineer. */
+"Add products to this order" = "Přidat produkty do této objednávky";
+
+/* No comment provided by engineer. */
+"Add to Existing Category" = "Přidat do existující kategorie";
+
+/* No comment provided by engineer. */
+"Address" = "Adresa";
+
+/* No comment provided by engineer. */
+"All Categories" = "Všechny kategorie";
+
+/* No comment provided by engineer. */
+"All Products" = "Všechny produkty";
+
+/* No comment provided by engineer. */
+"All the data you have downloaded (including products, customers and orders) will be permanently deleted from this device." = "Všechna data, která jste stáhli (vč. produktů, zákazníků a objednávek) budou trvale smazána z tohoto zařízení.";
+
+/* No comment provided by engineer. */
+"An open order for this customer has been found, would you like to continue this order?" = "U tohoto zákazníka byla nalezena otevřená objednávka, přejete si v ní pokračovat?";
+
+/* Used during the sync process to inform the user what process is currently being analysed. E.g. 'Analysing Images' */
+"Analysing %@..." = "Analyzuji %@... ";
+
+/* No comment provided by engineer. */
+"App Closing" = "Aplikace se nyní ukončuje";
+
+/* No comment provided by engineer. */
+"App Update" = "Aktualizace aplikace";
+
+/* No comment provided by engineer. */
+"Apply" = "Použít";
+
+/* No comment provided by engineer. */
+"Apply Price" = "Použít cenu";
+
+/* No comment provided by engineer. */
+"Archived Orders" = "Archivované objednávky";
+
+/* No comment provided by engineer. */
+"Are you sure you want to add %d products to your basket?\n\nThis will replace any matching products with the base quantity and price.\n\nWARNING: This might be slow for large orders." = "Opravdu chcete přidat %d produkty do Vašeho nákupního košíku? \n\nVšechny shodné produkty ve vašem košíku budou upraveny na základní cenu a množství. \n\nVAROVÁNÍ: Tato operace může být zdlouhavá pro velké objednávky.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel all open orders? This cannot be undone." = "Opravdu chcete zrušit všechny otevřené objednávky? Tento krok nelze vrátit.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel this order?" = "Opravdu chcete zrušit tuto objednávku?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this category?" = "Opravdu chcete smazat tuto kategorii?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to delete this feed?" = "Opravdu chcete vymazat tento kanál?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove all items from this order?" = "Opravdu chcete odstranit všechny položky z této objednávky?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to save this order?" = "Opravdu chcete tuto objednávku uložit?";
+
+/* Used to confirm with the user whether they want to send either an order or a quote. E.g. 'Are you sure you want to send this quote?' */
+"Are you sure you want to send this %@?" = "Opravdu chcete odeslat tuto %@?";
+
+/* No comment provided by engineer. */
+"Are you sure you would like to delete all product images?\n\nYou will need perform a full sync to download the product images again." = "Opravdu chcete smazat všechny produktové fotky?\nPro opětovné nahrání fotek bude třeba provést celkovou synchronizaci. ";
+
+/* The shorthand for ascending */
+"Asc" = "Stoupající";
+
+/* No comment provided by engineer. */
+"Ascending Order" = "Ve stoupajícím pořadí";
+
+/* No comment provided by engineer. */
+"AUTHENTICATE WITH PUCKATOR.NET" = "Ověřit na Puckator.net";
+
+/* No comment provided by engineer. */
+"Authorising..." = "Autorizuji...";
+
+/* No comment provided by engineer. */
+"Available" = "Dostupný";
+
+/* No comment provided by engineer. */
+"Awaiting Activation" = "Čekám na aktivaci";
+
+/* No comment provided by engineer. */
+"Back" = "Zpět";
+
+/* No comment provided by engineer. */
+"Balance" = "Zůstatek";
+
+/* No comment provided by engineer. */
+"Barcode" = "Čárový kód";
+
+/* No comment provided by engineer. */
+"Basket Options" = "Upravit košík";
+
+/* No comment provided by engineer. */
+"Best Sellers First" = "Zobrazit bestsellery jako první";
+
+/* No comment provided by engineer. */
+"Billing Address" = "Fakturační adresa";
+
+/* No comment provided by engineer. */
+"Browse" = "Prohlédnout";
+
+/* No comment provided by engineer. */
+"Bulk Add" = "Přidat hromadně";
+
+/* No comment provided by engineer. */
+"Buyer" = "Nákupčí";
+
+/* No comment provided by engineer. */
+"Buyers" = "Nákupčí";
+
+/* No comment provided by engineer. */
+"Cancel" = "Zrušit";
+
+/* No comment provided by engineer. */
+"Cancel All" = "Zrušit vše";
+
+/* No comment provided by engineer. */
+"Cancel Order" = "Zrušit objednávku";
+
+/* No comment provided by engineer. */
+"Cancel Orders" = "Zrušit objednávky";
+
+/* No comment provided by engineer. */
+"Cancel Orders?" = "Zrušit objednávky?";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Zrušeno";
+
+/* No comment provided by engineer. */
+"Carton" = "Karton";
+
+/* No comment provided by engineer. */
+"Carton: " = "Karton:";
+
+/* No comment provided by engineer. */
+"Catalogue" = "Katalog";
+
+/* No comment provided by engineer. */
+"Categories" = "Kategorie";
+
+/* No comment provided by engineer. */
+"Category Name" = "Název kategorie";
+
+/* No comment provided by engineer. */
+"Change Language" = "Změnit jazyk";
+
+/* No comment provided by engineer. */
+"Change Language & Exit app" = "Změnit jazyk & ukončit aplikaci";
+
+/* No comment provided by engineer. */
+"Change Quantity" = "Změnit množství";
+
+/* No comment provided by engineer. */
+"Check for Update" = "Zkontrolovat aktualizace";
+
+/* No comment provided by engineer. */
+"Checking Network" = "Kontroluji síť";
+
+/* No comment provided by engineer. */
+"Choose" = "Vyberte";
+
+/* No comment provided by engineer. */
+"City" = "Město";
+
+/* No comment provided by engineer. */
+"Clear" = "Vyprázdnit";
+
+/* No comment provided by engineer. */
+"Clear Filter" = "Zrušit filtr";
+
+/* No comment provided by engineer. */
+"Clear Order" = "Vyprázdnit objednávku";
+
+/* No comment provided by engineer. */
+"Close" = "Zavřít";
+
+/* No comment provided by engineer. */
+"COD" = "Na dobírku";
+
+/* No comment provided by engineer. */
+"Code" = "Kód";
+
+/* No comment provided by engineer. */
+"Company" = "Společnost";
+
+/* No comment provided by engineer. */
+"Company Name" = "Název společnosti";
+
+/* No comment provided by engineer. */
+"Complete / Not Sent" = "Kompletní / Neodesláno";
+
+/* No comment provided by engineer. */
+"Complete / Sent" = "Kompletní / Odesláno";
+
+/* No comment provided by engineer. */
+"Complete Order" = "Dokončit objednávku";
+
+/* No comment provided by engineer. */
+"CONFIGURE FEED" = "Nastavit kanál";
+
+/* No comment provided by engineer. */
+"Confirm" = "Potvrdit";
+
+/* No comment provided by engineer. */
+"Contact" = "Kontakt";
+
+/* No comment provided by engineer. */
+"Contact Name" = "Kontaktní osoba";
+
+/* No comment provided by engineer. */
+"Continue" = "Pokračovat";
+
+/* No comment provided by engineer. */
+"Continue Order" = "Pokračovat v objednávce";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopírovat";
+
+/* No comment provided by engineer. */
+"Countries" = "Země";
+
+/* No comment provided by engineer. */
+"Country" = "Země";
+
+/* No comment provided by engineer. */
+"Create" = "Vytvořit";
+
+/* No comment provided by engineer. */
+"Create a new order" = "Vytvořit novou objednávku";
+
+/* No comment provided by engineer. */
+"Create New Category" = "Vytvořit novou kategorii";
+
+/* No comment provided by engineer. */
+"Create new order" = "Vytvořit novou objednávku";
+
+/* No comment provided by engineer. */
+"Create Order" = "Vytvořit objednávku";
+
+/* No comment provided by engineer. */
+"Creating" = "Vytvářím";
+
+/* No comment provided by engineer. */
+"Creating Order" = "Vytvářím objednávku";
+
+/* No comment provided by engineer. */
+"Credit Limit" = "Otevřený účet - faktury na splatnost";
+
+/* No comment provided by engineer. */
+"Credit Note" = "Dobropis";
+
+/* No comment provided by engineer. */
+"Currency" = "Měna";
+
+/* No comment provided by engineer. */
+"Currency Not Found" = "Měna nenalezena";
+
+/* No comment provided by engineer. */
+"Current" = "Aktuální";
+
+/* No comment provided by engineer. */
+"Custom Category" = "Vlastní kategorie";
+
+/* No comment provided by engineer. */
+"Custom Category Options" = "Nastavení vlastní kategorie";
+
+/* No comment provided by engineer. */
+"Custom E-mail Addresses" = "Vlastní emailové adresy";
+
+/* No comment provided by engineer. */
+"Custom Icon" = "Vlastní ikona";
+
+/* No comment provided by engineer. */
+"Customer" = "Zákazník";
+
+/* No comment provided by engineer. */
+"Customer Details" = "Detaily zákazníka";
+
+/* No comment provided by engineer. */
+"Customer E-mail Addresses" = "Emailové adresy zákazníka";
+
+/* No comment provided by engineer. */
+"Customer not found" = "Zákazník nenalezen";
+
+/* No comment provided by engineer. */
+"Customer not selected" = "Zákazník nevybrán";
+
+/* No comment provided by engineer. */
+"Customers" = "Zákazníci";
+
+/* No comment provided by engineer. */
+"Data" = "Data";
+
+/* No comment provided by engineer. */
+"Date Added" = "Datum přidáno";
+
+/* No comment provided by engineer. */
+"Date Required" = "Datum vyžadováno";
+
+/* No comment provided by engineer. */
+"Default" = "Výchozí";
+
+/* No comment provided by engineer. */
+"Default Delivery Address" = "Výchozí adresa doručení";
+
+/* No comment provided by engineer. */
+"Default Invoice Address" = "Výchozí fakturační adresa";
+
+/* No comment provided by engineer. */
+"Delete" = "Smazat";
+
+/* No comment provided by engineer. */
+"Delete Category" = "Smazat kategorii";
+
+/* No comment provided by engineer. */
+"Delete Failed" = "Smazání se nezdařilo";
+
+/* No comment provided by engineer. */
+"Delete Feed" = "Smazat kanál ";
+
+/* No comment provided by engineer. */
+"Delivery" = "Dodání";
+
+/* No comment provided by engineer. */
+"Delivery Address" = "Adresa dodání";
+
+/* The shorthand for descending */
+"Desc" = "Klesající";
+
+/* No comment provided by engineer. */
+"Descending Order" = "Sestupné pořadí";
+
+/* Displayed on the large product view */
+"Description" = "Popis";
+
+/* No comment provided by engineer. */
+"Diff +/-" = "Rozdíl +/-";
+
+/* No comment provided by engineer. */
+"Dimensions" = "Rozměry";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Zrušit";
+
+/* No comment provided by engineer. */
+"Done" = "Hotovo";
+
+/* Used during the sync process to inform the user which process is currently being downloaded. E.g. 'Downloading Product...' */
+"Downloading %@..." = "Stahuji %@...";
+
+/* No comment provided by engineer. */
+"Due in" = "Znovu skladem";
+
+/* No comment provided by engineer. */
+"Due/Received" = "Splatné / Obdrženo";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Duplikovat";
+
+/* No comment provided by engineer. */
+"Duplicate Address?" = "Duplikovat adresu?";
+
+/* No comment provided by engineer. */
+"E-mail Address" = "Emailová adresa";
+
+/* No comment provided by engineer. */
+"E-mail Addresses" = "Emailové adresy";
+
+/* No comment provided by engineer. */
+"E-mail confirmation to" = "Potvrzení emailem na";
+
+/* No comment provided by engineer. */
+"e.g. Puckator UK" = "např. Puckator UK";
+
+/* No comment provided by engineer. */
+"Edit" = "Upravit";
+
+/* No comment provided by engineer. */
+"Edit Products" = "Upravit produkty";
+
+/* No comment provided by engineer. */
+"Email Address" = "Emailová adresa";
+
+/* No comment provided by engineer. */
+"Enter E-mail Address" = "Zadejte emailovou adresu";
+
+/* No comment provided by engineer. */
+"Enter name/product code then press Search" = "Zadejte jméno / kód produktu a klikněte na Hledat";
+
+/* No comment provided by engineer. */
+"Enter place name or postcode" = "Zadejte město nebo PSČ";
+
+/* No comment provided by engineer. */
+"Error" = "Chyba";
+
+/* No comment provided by engineer. */
+"Error connecting to the Puckator Server.\n\nPlease ensure you are connected to a Wi-Fi or Cellular Network." = "Chyba spojení se servrem Puckator.\nProsím zkontrolujte připojení k internetu.";
+
+/* No comment provided by engineer. */
+"Error downloading file" = "Chyba při stahování souboru";
+
+/* No comment provided by engineer. */
+"Error extracting zip archive" = "Chyba při extrakci zip archivu";
+
+/* Used during the sync process to inform the user if a process failed during the sync process. E.g. 'Error importing Products' */
+"Error importing %@..." = "Chyba při importu %@...";
+
+/* Used during the sync process to inform the user which process is currently being extracted. E.g. 'Extracting Product...' */
+"Extracting %@..." = "Extrahuji %@...";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes failed to be submitted. E.g. 'Failed: 5 order(s)/quote(s)' */
+"Failed: %d order(s)/quote(s)" = "Neuspěšné: %d objednávky/nabídky ";
+
+/* No comment provided by engineer. */
+"Feed" = "Kanál";
+
+/* No comment provided by engineer. */
+"Feed Error" = "Chyba kanálu";
+
+/* No comment provided by engineer. */
+"Feed Information" = "Informace o kanálu";
+
+/* No comment provided by engineer. */
+"Feed Name" = "Jméno kanálu";
+
+/* No comment provided by engineer. */
+"Feed Number" = "Číslo kanálu";
+
+/* No comment provided by engineer. */
+"Feed Unavailable" = "Kanál není k dispozici";
+
+/* No comment provided by engineer. */
+"Filter" = "Filtr";
+
+/* No comment provided by engineer. */
+"Filter by price..." = "Filtrovat dle ceny…";
+
+/* No comment provided by engineer. */
+"Filter By..." = "Filtrovat...";
+
+/* Used to inform the user which category they're filtering by. E.g. 'Filtering by Clocks */
+"Filtering by %@" = "Filtrovat %@";
+
+/* Used to inform the user how many categories they're filtering by. E.g. 'Filtering by 10 categories */
+"Filtering by %d categories" = "Filtrovat %d kategorií";
+
+/* No comment provided by engineer. */
+"Find" = "Hledat";
+
+/* No comment provided by engineer. */
+"Find Products" = "Najít produkty";
+
+/* No comment provided by engineer. */
+"Find products that will be in-stock by:" = "Najít produkty, které budou skladem od:";
+
+/* No comment provided by engineer. */
+"Finish Editing" = "Dokončit úpravy";
+
+/* Used during the sync process to inform the user which process has been downloaded. E.g. 'Finishing downloading Images' */
+"Finishing downloading %@..." = "Dokončuji stahování %@...";
+
+/* No comment provided by engineer. */
+"First Name" = "Jméno";
+
+/* No comment provided by engineer. */
+"Fiscal Number (IT)" = "Fiskální číslo (IT)";
+
+/* No comment provided by engineer. */
+"FOB" = "FOB";
+
+/* No comment provided by engineer. */
+"Further Information" = "Další informace";
+
+/* No comment provided by engineer. */
+"Grand Total" = "Celkem";
+
+/* No comment provided by engineer. */
+"Hide bespoke products" = "Skrýt produkty na zakázku";
+
+/* No comment provided by engineer. */
+"Hide out of stock" = "Skrýt produkty, které nejsou skladem";
+
+/* Displayed on the large product view */
+"History" = "Historie";
+
+/* No comment provided by engineer. */
+"Image" = "Obrázek";
+
+/* No comment provided by engineer. */
+"Images" = "Obrázky";
+
+/* Used during the sync process to inform the user which process is currently being importing. E.g. 'Importing Product...' */
+"Importing %@..." = "Importuji %@...";
+
+/* No comment provided by engineer. */
+"in order currently" = "v objednávce momentálně";
+
+/* No comment provided by engineer. */
+"In stock" = "Skladem";
+
+/* No comment provided by engineer. */
+"In Warehouse" = "Ve skladu";
+
+/* No comment provided by engineer. */
+"In-stock Date" = "Datum skladem";
+
+/* No comment provided by engineer. */
+"In-stock Products" = "Produkty skladem";
+
+/* No comment provided by engineer. */
+"Inner" = "Vnitřní balení";
+
+/* No comment provided by engineer. */
+"Inner: " = "Vnitřní balení:";
+
+/* No comment provided by engineer. */
+"Invalid E-mail Address" = "Neplatná emailová adresa";
+
+/* No comment provided by engineer. */
+"Invalid E-mail Address!" = "Neplatná emailová adresa!";
+
+/* No comment provided by engineer. */
+"Invalid Feed" = "Neplatný kanál";
+
+/* No comment provided by engineer. */
+"Invalid Feed Name" = "Neplatné jméno kanálu";
+
+/* No comment provided by engineer. */
+"Invalid Feed Number" = "Neplatné číslo kanálu";
+
+/* No comment provided by engineer. */
+"Invalid Name!" = "Neplatné jméno!";
+
+/* No comment provided by engineer. */
+"Invoice" = "Faktura";
+
+/* No comment provided by engineer. */
+"Invoice Address" = "Fakturační adresa";
+
+/* No comment provided by engineer. */
+"Invoices" = "Faktury";
+
+/* No comment provided by engineer. */
+"Just tap here or press the + button." = "Klikněte sem nebo zmáčkněte tlačítko \"+\"";
+
+/* No comment provided by engineer. */
+"Large Product Images" = "Velké fotky produktu";
+
+/* No comment provided by engineer. */
+"Last Name" = "Příjmení";
+
+/* No comment provided by engineer. */
+"Last received" = "Naposledy naskladněno";
+
+/* No comment provided by engineer. */
+"LCP" = "LCP";
+
+/* No comment provided by engineer. */
+"Loading" = "Nahrávám";
+
+/* No comment provided by engineer. */
+"Make sure you type a valid e-mail address." = "Ujistěte se, že zadáváte platnou emailovou adresu.";
+
+/* No comment provided by engineer. */
+"Make sure you type your first and last name!" = "Ujistěte se, že vyplníte jméno a příjmení!";
+
+/* No comment provided by engineer. */
+"Manage Feeds" = "Spravovat kanály";
+
+/* No comment provided by engineer. */
+"Manifest" = "Manifest";
+
+/* No comment provided by engineer. */
+"Material" = "Materiál";
+
+/* No comment provided by engineer. */
+"Maximum Price (optional)" = "Maximální cena (volitelné)";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"Method of Payment" = "Způsob platby";
+
+/* No comment provided by engineer. */
+"Minimal Price (optional)" = "Minimální cena (volitelné)";
+
+/* No comment provided by engineer. */
+"Missing Name" = "Chybějící jméno";
+
+/* No comment provided by engineer. */
+"Mobile" = "Mobil";
+
+/* No comment provided by engineer. */
+"Mobile Number" = "Číslo mobilního telefonu";
+
+/* No comment provided by engineer. */
+"Most Popular First" = "Zobrazit Oblíbené jako první";
+
+/* No comment provided by engineer. */
+"Move" = "Přesunout";
+
+/* No comment provided by engineer. */
+"MTS" = "MTS";
+
+/* No comment provided by engineer. */
+"Must be at least three characters" = "Musí obsahovat nejméně 3 znaky";
+
+/* No comment provided by engineer. */
+"My Feeds" = "Moje kanály";
+
+/* No comment provided by engineer. */
+"My Recent Customers" = "Moji nedávní zákazníci";
+
+/* No comment provided by engineer. */
+"N/A" = "Nenalezeno";
+
+/* No comment provided by engineer. */
+"Name" = "Jméno";
+
+/* No comment provided by engineer. */
+"Need help finding your Feed Number?  Contact Puckator Support." = "Potřebujete pomoct s nalezením čísla kanálu? Kontaktujte Podporu Puckator.";
+
+/* No comment provided by engineer. */
+"Network is unreachable!" = "Síť není dostupná!";
+
+/* No comment provided by engineer. */
+"Never syncronised" = "Nebylo synchronizováno";
+
+/* No comment provided by engineer. */
+"New & Coming Soon" = "Novinky & Brzy v nabídce";
+
+/* No comment provided by engineer. */
+"New Order" = "Nová objednávka";
+
+/* No comment provided by engineer. */
+"New Products in stock" = "Nové produkty skladem";
+
+/* No comment provided by engineer. */
+"New Products in Stock" = "Nové produkty skladem";
+
+/* No comment provided by engineer. */
+"No" = "Ne";
+
+/* No comment provided by engineer. */
+"No active feed" = "Žádný aktivní kanál";
+
+/* No comment provided by engineer. */
+"No categories selected" = "Nebyla vybrána žádná kategorie";
+
+/* No comment provided by engineer. */
+"No E-mail Address" = "Žádná emailová adresa";
+
+/* No comment provided by engineer. */
+"No files were found in the zip archive" = "V zip archivu nebyly nelezeny žádné soubory";
+
+/* No comment provided by engineer. */
+"No graph data to display." = "Žádná data k zobrazení";
+
+/* No comment provided by engineer. */
+"No products found" = "Nebula nalezen žádný produkt";
+
+/* No comment provided by engineer. */
+"No Products Found" = "Žádné produkty nebyly nalezeny";
+
+/* No comment provided by engineer. */
+"None" = "Žádný";
+
+/* No comment provided by engineer. */
+"Not Authorised" = "Nebylo autorizováno";
+
+/* No comment provided by engineer. */
+"Not enough feeds!" = "Nedostatek kanálů!";
+
+/* No comment provided by engineer. */
+"Notes" = "Poznámky";
+
+/* No comment provided by engineer. */
+"Ok" = "OK";
+
+/* No comment provided by engineer. */
+"On back order" = "Objednáno, ale není skladem";
+
+/* No comment provided by engineer. */
+"One Moment..." = "Moment prosím...";
+
+/* No comment provided by engineer. */
+"Only show available products" = "Zobrazit pouze dostupné produkty";
+
+/* No comment provided by engineer. */
+"Open" = "Otevřít";
+
+/* No comment provided by engineer. */
+"Open Order" = "Otevřená objednávka";
+
+/* No comment provided by engineer. */
+"Open Orders" = "Otevřené objednávky";
+
+/* No comment provided by engineer. */
+"Open Orders (%d)" = "Otevřené objednávky  (%d)";
+
+/* The name of the item being downloaded (1$) and the number of remaining items ($2). E.g. 'Products remaining 450' */
+"Optimising %@: %d/%d" = "Optimalizuji %1$@: %2$d/%3$d ";
+
+/* No comment provided by engineer. */
+"Options" = "Možnosti";
+
+/* No comment provided by engineer. */
+"order" = "objednávka";
+
+/* No comment provided by engineer. */
+"Order" = "Objednávka";
+
+/* No comment provided by engineer. */
+"Order Complete" = "Objednávka dokončena";
+
+/* No comment provided by engineer. */
+"Order Date" = "Datum objednávky";
+
+/* No comment provided by engineer. */
+"Order Details" = "Detaily objednávky";
+
+/* No comment provided by engineer. */
+"Order Error" = "Chyba v objednávce";
+
+/* No comment provided by engineer. */
+"Order Found" = "Objednávka nalezena";
+
+/* No comment provided by engineer. */
+"Order is missing" = "Objednávka chybí";
+
+/* No comment provided by engineer. */
+"Order notes can only be %d characters in length. Your notes have been cropped to this maximum length.\n\nPlease check your notes to make sure they are still informative before attempting to send this order again." = "Poznámky k objednávce mohou obsahovat pouze  %d znaků. Vaše poznámky byly tudíž zkráceny na maximální délku.\nZkontrolujte je prosím před odesláním této objednávky.";
+
+/* No comment provided by engineer. */
+"Order Warning" = "Varování";
+
+/* No comment provided by engineer. */
+"Orders" = "Objednávky";
+
+/* No comment provided by engineer. */
+"Orders / Quotes" = "Objednávky / Nabídky";
+
+/* No comment provided by engineer. */
+"Other" = "Jiné";
+
+/* No comment provided by engineer. */
+"Outstanding" = "Nevyřízený";
+
+/* No comment provided by engineer. */
+"Outstanding Order" = "Nevyřízená objednávka";
+
+/* Purchase Unit */
+"P / Unit" = "Minimální objednávka ks";
+
+/* No comment provided by engineer. */
+"Payload does not contain an XML document" = "Data neobsahují XML dokument";
+
+/* No comment provided by engineer. */
+"Payment Method" = "Způsob platby";
+
+/* No comment provided by engineer. */
+"Payment Method Not Agreed" = "Způsob platby nebyl stanoven";
+
+/* No comment provided by engineer. */
+"PDF Style" = "Styl PDF";
+
+/* No comment provided by engineer. */
+"PEC Email Address (IT)" = "PEC emailová adresa (IT)";
+
+/* Displayed on the large product view */
+"Photos" = "Fotografie";
+
+/* No comment provided by engineer. */
+"Please ensure you are connected to a Wi-Fi or Cellular Network." = "Prosím ujistěte se, že jste připojeni k internetu.";
+
+/* No comment provided by engineer. */
+"Please enter a place name or postcode:" = "Prosím zadejte město nebo PSČ:";
+
+/* No comment provided by engineer. */
+"Please enter a value!" = "Prosím zadejte hodnotu!";
+
+/* No comment provided by engineer. */
+"Please enter all information" = "Prosím zadejte všechny informace";
+
+/* No comment provided by engineer. */
+"Please enter the price range you would like to filter by." = "Zadejte prosím cenové rozmezí";
+
+/* No comment provided by engineer. */
+"Please provide at least one valid e-mail address before trying to submit the order." = "Prosím zadejte alespoň jednu platnou emailovou adresu před dokončením objednávky.";
+
+/* No comment provided by engineer. */
+"Postcode" = "PSČ";
+
+/* No comment provided by engineer. */
+"Price" = "Cena";
+
+/* No comment provided by engineer. */
+"Price Check" = "Kontrola ceny";
+
+/* Used when filtering by price (between) */
+"Priced between" = "Cena mezi";
+
+/* Used when filtering by price (greater than) */
+"Priced greater than" = "Cena vyšší než";
+
+/* Used when filtering by price (less than) */
+"Priced less than" = "Cena nižší než";
+
+/* Used when filtering by price (no selection) */
+"Priced..." = "Cena…";
+
+/* No comment provided by engineer. */
+"Prices" = "Ceny";
+
+/* No comment provided by engineer. */
+"Prior Year" = "Před rokem";
+
+/* No comment provided by engineer. */
+"Product code" = "Kód produktu";
+
+/* No comment provided by engineer. */
+"Product Code" = "Kód produktu";
+
+/* No comment provided by engineer. */
+"Product Code Only" = "Pouze kód produktu";
+
+/* No comment provided by engineer. */
+"Product Code, Title & Description" = "Kód produktu, název a popis";
+
+/* No comment provided by engineer. */
+"Product In-Stock" = "Produkt skladem";
+
+/* No comment provided by engineer. */
+"Product Information" = "Informace o produktu";
+
+/* No comment provided by engineer. */
+"Product Quick Filters" = "Rychlé filtry produktu";
+
+/* No comment provided by engineer. */
+"Product Title" = "Název produktu";
+
+/* No comment provided by engineer. */
+"Products" = "Produkty";
+
+/* Used during the sync process to inform the user how many products have been processed. */
+"Products processed %d..." = "Zpracováno %d... produktů";
+
+/* No comment provided by engineer. */
+"Proforma Agreed" = "Domluvena Proforma";
+
+/* No comment provided by engineer. */
+"Puckator" = "Puckator";
+
+/* No comment provided by engineer. */
+"Puckator provided Feed Number" = "Číslo kanálu dodáno Puckatorem";
+
+/* No comment provided by engineer. */
+"Purchase Order Number" = "Číslo objednávky";
+
+/* No comment provided by engineer. */
+"Purchase Unit" = "Nákupní jednotka";
+
+/* No comment provided by engineer. */
+"Purchase Unit: " = "Nákupní jednotka:";
+
+/* No comment provided by engineer. */
+"Queued" = "Ve frontě";
+
+/* No comment provided by engineer. */
+"Quick" = "Rychle";
+
+/* No comment provided by engineer. */
+"Quick Add" = "Rychlé přidání";
+
+/* No comment provided by engineer. */
+"Quick Search" = "Rychlé hledání";
+
+/* No comment provided by engineer. */
+"quote" = "nabídka";
+
+/* No comment provided by engineer. */
+"Quote / Not Sent" = "Nabídky / Neodesláno";
+
+/* No comment provided by engineer. */
+"Quote / Sent" = "Nabídky / Odesláno";
+
+/* No comment provided by engineer. */
+"Quote Details" = "Detaily nabídky";
+
+/* No comment provided by engineer. */
+"RE Tax (ES)" = "RE daň (ES)";
+
+/* No comment provided by engineer. */
+"Recent Orders" = "Nedávné objednávky";
+
+/* No comment provided by engineer. */
+"Recent Orders (%d)" = "Nedávné objednávky (%d) ";
+
+/* No comment provided by engineer. */
+"Remind Later" = "Připomenout později";
+
+/* No comment provided by engineer. */
+"Remove" = "Odstranit";
+
+/* No comment provided by engineer. */
+"Remove Items" = "Odstranit položky";
+
+/* No comment provided by engineer. */
+"Remove Products" = "Odstranit produkty";
+
+/* No comment provided by engineer. */
+"Rep Name" = "Jméno zástupce";
+
+/* No comment provided by engineer. */
+"Resend" = "Přeposlat";
+
+/* No comment provided by engineer. */
+"Reset" = "Resetovat";
+
+/* No comment provided by engineer. */
+"Retry" = "Zkusit znovu";
+
+/* No comment provided by engineer. */
+"Sage" = "Sage";
+
+/* No comment provided by engineer. */
+"Sales" = "Prodej";
+
+/* No comment provided by engineer. */
+"Save" = "Uložit";
+
+/* No comment provided by engineer. */
+"Save As Quote" = "Uložit jako nabídku";
+
+/* No comment provided by engineer. */
+"Save Feed" = "Uložit kanál";
+
+/* No comment provided by engineer. */
+"Save Order" = "Uložit objednávku";
+
+/* No comment provided by engineer. */
+"Saved Order" = "Uložená objednávka";
+
+/* No comment provided by engineer. */
+"Search" = "Hledat";
+
+/* No comment provided by engineer. */
+"Search By..." = "Hledat dle...";
+
+/* No comment provided by engineer. */
+"Search Error" = "Chyba hledání";
+
+/* No comment provided by engineer. */
+"Search for products" = "Vyhledat produkty";
+
+/* No comment provided by engineer. */
+"Search is too short!" = "Vyhledávání je příliš krátké!";
+
+/* No comment provided by engineer. */
+"Search Results" = "Hledat výsledky";
+
+/* No comment provided by engineer. */
+"Select" = "Vyberte";
+
+/* No comment provided by engineer. */
+"Select a feed to switch to..." = "Vyberte kanál, na který chcete přejít...";
+
+/* No comment provided by engineer. */
+"Select Address" = "Vyberte adresu";
+
+/* No comment provided by engineer. */
+"Select Category" = "Vyberte kategorii";
+
+/* No comment provided by engineer. */
+"Select Country" = "Vyberte zemi";
+
+/* No comment provided by engineer. */
+"Select Currency..." = "Vyberte měnu";
+
+/* No comment provided by engineer. */
+"Select Date" = "Vyberte datum";
+
+/* No comment provided by engineer. */
+"Select Language" = "Vyberte jazyk";
+
+/* Used to inform the user how many categories they have selected to filter by. E.g. 'Selected 5 categories' */
+"Selected %d categories" = "Vybráno %d kategorií";
+
+/* No comment provided by engineer. */
+"Send" = "Odeslat";
+
+/* No comment provided by engineer. */
+"Send Log" = "Protokol odeslání";
+
+/* No comment provided by engineer. */
+"Send Now" = "Odeslat nyní";
+
+/* No comment provided by engineer. */
+"Send Order" = "Odeslat objednávku";
+
+/* No comment provided by engineer. */
+"Send Quote" = "Odeslat nabídku";
+
+/* No comment provided by engineer. */
+"Sending Orders" = "Odesílám objednávky";
+
+/* No comment provided by engineer. */
+"Settings" = "Nastavení";
+
+/* No comment provided by engineer. */
+"Setup your first feed" = "Nastavit první kanál";
+
+/* No comment provided by engineer. */
+"Show sample products" = "Zobrazit vzorkové produkty";
+
+/* No comment provided by engineer. */
+"Sorry, '%@' is not a valid e-mail address, please fix this issue before trying to submit the order again." = "Je nám líto, ale '%@' není platná emailová adresa. Prosím opravte tuto chybu před tím, než budete pokračovat v objednávce.";
+
+/* No comment provided by engineer. */
+"Sorry, we were unable to find any customers for your search." = "Nepodařilo se nám najít žádné zákazníky dle Vašeho vyhledávání.";
+
+/* No comment provided by engineer. */
+"Sort By" = "Seřadit dle";
+
+/* No comment provided by engineer. */
+"Sorting isn't avaliable when viewing new products.\n\nProducts are automatically ordered by date added." = "Při prohlížení nových produktů seřazení není možné.\nProdukty jsou automaticky zobrazeny dle data přidání.";
+
+/* No comment provided by engineer. */
+"Standard Product List" = "Standartní seznam produktů";
+
+/* No comment provided by engineer. */
+"Start Sync" = "Začít synchronizaci";
+
+/* No comment provided by engineer. */
+"State" = "Stav";
+
+/* Informs the user which step they are in during the sync. E.g. Step 1/5: */
+"Step %d/%d:" = "Krok %1$d/%2$d: ";
+
+/* No comment provided by engineer. */
+"Stock" = "Skladem";
+
+/* No comment provided by engineer. */
+"Stock Available" = "Dostupné na skladě";
+
+/* Used during the order/quote submission process to inform the user how many orders/quotes were successful submitted. E.g. 'Succeeded: 5 order(s)/quote(s)' */
+"Succeeded: %d order(s)/quote(s)" = "Úspěšně odesláno: %d objednávek/nabídek";
+
+/* Used during the sync process to inform the user if a process was success during the sync process. E.g. 'Success importing Products' */
+"Success importing %@..." = "Úspěšně importováno %@...";
+
+/* No comment provided by engineer. */
+"Supplier" = "xxxxx";
+
+/* No comment provided by engineer. */
+"Suppliers" = "Dodavatelé";
+
+/* No comment provided by engineer. */
+"Switch Feeds" = "Změnit kanály";
+
+/* No comment provided by engineer. */
+"Switch to..." = "Přepnout na...";
+
+/* No comment provided by engineer. */
+"Sync" = "Synchronizovat";
+
+/* No comment provided by engineer. */
+"Sync Catalogue" = "Synchronizovat katalog";
+
+/* No comment provided by engineer. */
+"Sync Complete!" = "Synchronizace dokončena!";
+
+/* No comment provided by engineer. */
+"Sync Orders" = "Synchronizovat objednávky";
+
+/* No comment provided by engineer. */
+"Sync Orders & Quotes" = "Synchronizovat objednávky a nabídky";
+
+/* No comment provided by engineer. */
+"Syncronisation Error" = "Chyba synchronizace";
+
+/* No comment provided by engineer. */
+"Tap for options..." = "Klikněte pro zobrazení možností";
+
+/* No comment provided by engineer. */
+"TAP TO SWITCH" = "Klikněte pro přepnutí";
+
+/* No comment provided by engineer. */
+"TBC" = "K potvrzení";
+
+/* No comment provided by engineer. */
+"Telephone" = "Telefon";
+
+/* No comment provided by engineer. */
+"Telephone Number" = "Telefonní číslo";
+
+/* No comment provided by engineer. */
+"The app must be closed and relaunched in order to change the language." = "Pro změnu jazyka je nutné aplikaci zavřít a znovu spustit.";
+
+/* No comment provided by engineer. */
+"The app will now close, you can open it again by tapping the icon on your home screen." = "Aplikace bude nyní ukončena, znovu ji spustíte poklapáním na ikonu na vašem displeji.";
+
+/* No comment provided by engineer. */
+"The currency for this customer is not supported by your current feed.\n\nPlease either switch to a feed that supports %@ (%@) or setup a new customer using a supported currency." = "Měna pro tohoto zákazníka není podporována v současném kanále.\nProsím přepněte na kanál, který podporuje %1$@ (%2$@), nebo vytvořte nového zákazníka s touto měnou.";
+
+/* No comment provided by engineer. */
+"The feed number entered is invalid!" = "Zadané číslo kanálu je neplatné!";
+
+/* No comment provided by engineer. */
+"The products have been added." = "Produkty byly přidány.";
+
+/* No comment provided by engineer. */
+"The products have been removed." = "Produkty byly odstraněny.";
+
+/* No comment provided by engineer. */
+"The Puckator Server appears to be unavailable at this time!" = "Server Puckator se zdá být nedostupný!";
+
+/* No comment provided by engineer. */
+"The server rejected your order because you are using a version of the Puckator app that is no longer supported.  Please update the app and try again." = "Server zamítl vaši objednávku, protože používáte verzi aplikace Puckator, která již není podporována. Prosím aktualizujte aplikaci a zkuste to znovu.";
+
+/* No comment provided by engineer. */
+"The zip archive was extracted but did not contain a .xml file!" = "Zip archiv byl extrahován, ale neobsahuje žádný .xml soubor!";
+
+/* Used to inform the user how many items are in stock for a product. E.g. 'There are 1,203 unit(s) in stock. */
+"There are %@ unit(s) in stock" = "Skladem je %@ kusů produktu";
+
+/* No comment provided by engineer. */
+"This customer has two different VAT numbers associated with them, which one would you like to use?" = "U tohoto zákazníka evidujeme dvě rozdílná DIČ - které chcete použít?";
+
+/* No comment provided by engineer. */
+"This feed has never been syncronised, so it is not possible to switch to it right now." = "Tento kanál nebyl nikdy synchronizován, takže není možné na něj v tuto chvíli přejít.";
+
+/* No comment provided by engineer. */
+"This is a normal order" = "Toto je normální objednávka";
+
+/* No comment provided by engineer. */
+"This is a show order" = "Toto je objednávka z veletrhu";
+
+/* No comment provided by engineer. */
+"Title & Description Only" = "Pouze Název a Popis";
+
+/* No comment provided by engineer. */
+"Title Only" = "Pouze Název";
+
+/* No comment provided by engineer. */
+"To another account" = "K jinému účtu";
+
+/* No comment provided by engineer. */
+"To this account" = "K tomuto účtu";
+
+/* No comment provided by engineer. */
+"Today" = "Dnes";
+
+/* No comment provided by engineer. */
+"Tomorrow" = "Zítra";
+
+/* No comment provided by engineer. */
+"Top 100 Grossing" = "100 produktů s největším profitem";
+
+/* No comment provided by engineer. */
+"Top 100 Seller" = "100 nejprodávanějších produktů";
+
+/* No comment provided by engineer. */
+"Top 300 Grossing" = "300 produktů s největším profitem";
+
+/* No comment provided by engineer. */
+"Top 300 Seller" = "300 nejprodávanějších produktů";
+
+/* No comment provided by engineer. */
+"Top 500 Grossing" = "500 produktů s největším profitem";
+
+/* No comment provided by engineer. */
+"Top 500 Seller" = "500 nejprodávanějších produktů";
+
+/* No comment provided by engineer. */
+"Top Grossing" = "Produkty s největším profitem";
+
+/* No comment provided by engineer. */
+"Top Sellers" = "Nejprodávanější produkty";
+
+/* No comment provided by engineer. */
+"Top Sellers Globally" = "Nejprodávanější produkty globálně";
+
+/* No comment provided by engineer. */
+"Total" = "Celkem";
+
+/* No comment provided by engineer. */
+"Total Sold" = "Celkem prodáno";
+
+/* No comment provided by engineer. */
+"Total Value" = "Celková hodnota";
+
+/* No comment provided by engineer. */
+"Total YTD sold" = "Celkem prodáno (k dnešnímu dni)";
+
+/* No comment provided by engineer. */
+"Totals" = "Celkem";
+
+/* No comment provided by engineer. */
+"Town" = "Město";
+
+/* No comment provided by engineer. */
+"Trade Show Order" = "Objednávka z veletrhu";
+
+/* No comment provided by engineer. */
+"Try Later" = "Zkuste to, prosím, později";
+
+/* No comment provided by engineer. */
+"Unable to add feed!" = "Není možné přidat kanál!";
+
+/* No comment provided by engineer. */
+"Unable to create a new customer, please contact your support team." = "Není možné vytvořit nového zákazníka, prosím kontaktuje tým podpory.";
+
+/* No comment provided by engineer. */
+"Unable to find the customer" = "Zákazník nenalezen";
+
+/* No comment provided by engineer. */
+"Unavailable" = "Nedostupné";
+
+/* No comment provided by engineer. */
+"Unfortunately it was not possible to send all your order(s)/quote(s) to the server at this time, please check your Internet connection and try again." = "Bohužel se nepodařilo odeslat všechny vaše objednávky/nabídky na server, prosím zkontrolujte připojení k internetu a zkuste to znovu.";
+
+/* No comment provided by engineer. */
+"Unknown" = "Neznámé";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Neznámý status";
+
+/* Used to inform the user how many order they have to send. E.g. 'Unsent orders: 5' */
+"Unsent orders: %d" = "Neodeslané objednávky: %d";
+
+/* No comment provided by engineer. */
+"Update" = "Aktualizovat";
+
+/* No comment provided by engineer. */
+"Update E-mail Address" = "Aktualizovat emailovou adresu";
+
+/* No comment provided by engineer. */
+"Updating..." = "Aktualizuji...";
+
+/* No comment provided by engineer. */
+"Upgrade Required" = "Vyžadována aktualizace";
+
+/* No comment provided by engineer. */
+"VAT" = "DPH";
+
+/* No comment provided by engineer. */
+"VAT Number" = "DIČ";
+
+/* Used to inform the user their app is up to date. E.g. 'Version 1.0 Your app is up to date' */
+"Version: %@\nYour app is up to date." = "Verze: %@\nVaše aplikace je aktualizovaná.";
+
+/* No comment provided by engineer. */
+"View Customers" = "Zobrazit zákazníky";
+
+/* No comment provided by engineer. */
+"View Order" = "Zobrazit objednávku";
+
+/* No comment provided by engineer. */
+"Warning" = "Upozornění";
+
+/* No comment provided by engineer. */
+"We were unable to find your location.\n\nPlease check you've given us access to your location in the settings app." = "Nemůžeme najít Vaši polohu. \n\t\t\n\t\tProsím zkontrolujte, zda jste nám v aplikaci umožnili přístup k Vaší poloze.";
+
+/* No comment provided by engineer. */
+"We're not authorised to use your location. Please enable location services in your device settings." = "Nemáme přístup k Vaší poloze. Prosím, umožněte lokaci v nastavení Vašeho zařízení.";
+
+/* No comment provided by engineer. */
+"Welcome" = "Vítejte";
+
+/* No comment provided by engineer. */
+"Which style of PDF would you like to send to the customer?" = "Který styl PDF si přejete zaslat zákazníkovi?";
+
+/* No comment provided by engineer. */
+"Which VAT number?" = "Které DIČ?";
+
+/* No comment provided by engineer. */
+"Who are you?" = "Kdo jste?";
+
+/* No comment provided by engineer. */
+"Would you like to copy this order to this account or to another account?" = "Přejete si zkopírovat tuto objednávku do tohoto nebo jiného účtu?";
+
+/* Informs the user of which version of the app they're running. E.g. 'You are using version: 1.0' */
+"You are using version: %@" = "Používáte verzi: %@";
+
+/* No comment provided by engineer. */
+"You can not change your language while an order is in progress.\n\nPlease finish your current order before attempting to change the language." = "Během zpracování objednávky není možné změnit jazyk.\nProsím dokončete současnou objednávku a poté zkuste změnu jazyka.";
+
+/* No comment provided by engineer. */
+"You can not delete your active feed.\n\nIn order to delete this feed you must first activate another feed." = "Váš aktivní kanál nemůže být smazán.\nPro smazání tohoto kanálu musíte nejprve aktivovat jiný.";
+
+/* No comment provided by engineer. */
+"You can't access the menu when editing a custom category." = "Editujete-li vlastní kategorii, není možný přístup k menu.";
+
+/* No comment provided by engineer. */
+"You can't access this option when editing a custom category." = "Editujete-li vlastní kategorii, není možný přístup k této volbě.";
+
+/* No comment provided by engineer. */
+"You can't add a custom category while you have an open order." = "Máte-li otevřenou objednávku, nejde přidat vlastní kategorie.";
+
+/* No comment provided by engineer. */
+"You can't edit this e-mail address because it isn't custom." = "Tuto emailovou adresu nemůžete upravit, není vlastní.";
+
+/* No comment provided by engineer. */
+"You can't start an order when editing a custom category." = "Když upravujete vlastní kategorii, nejde začít objednávku.";
+
+/* No comment provided by engineer. */
+"You have already added this Feed Number!" = "Toto číslo kanálu už jste přidali.";
+
+/* No comment provided by engineer. */
+"You have entered a price greater than the top tier price.\n\nAre you sure you want to apply this price?" = "Zadali jste cenu vyšší než základní VO.\n\nOpravdu chcete použít tuto cenu?";
+
+/* No comment provided by engineer. */
+"You have orders in your outbox that have not been sent yet" = "Ve vaší schránce máte objednávky, které ještě nebyly odeslány.";
+
+/* No comment provided by engineer. */
+"You must have at least one feed to continue." = "Pro pokračování musíte mít alespoň jeden kanál.";
+
+/* No comment provided by engineer. */
+"You must tap the Settings icon to configure feeds!" = "Pro konfiguraci kanálu klikněte na ikonu Nastavení!";
+
+/* Used to inform the user they haven't been authenicated yet. JWT stand for JSON Web Token; and does not require translation. */
+"Your client has not been issued a JWT token yet!" = "Váš klient ještě nezískal JWT!";
+
+/* No comment provided by engineer. */
+"Your custom category has been created." = "Vaše vlastní kategorie byla vytvořena.";
+
+/* No comment provided by engineer. */
+"Your custom category has been deleted." = "Vaše vlastní kategorie byla smazána.";
+
+/* No comment provided by engineer. */
+"Your e-mail address" = "Vaše emailová adresa";
+
+/* No comment provided by engineer. */
+"Your E-mail Addresses" = "Vaše emailové adresy";
+
+/* No comment provided by engineer. */
+"Your feeds..." = "Vaše kanály...";
+
+/* No comment provided by engineer. */
+"Your first name" = "Vaše jméno";
+
+/* No comment provided by engineer. */
+"Your last name" = "Vaše příjmení";
+
+/* No comment provided by engineer. */
+"Your order(s)/quote(s) have been sent to the server!" = "Vaše objednávky/nabídky byly odeslány na server!";
+
+/* No comment provided by engineer. */
+"YTD" = "K dnešnímu dni";
+

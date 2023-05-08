@@ -1,0 +1,1 @@
+../../../WCFastCell/Classes/ios/WCFastCellDrawingLayerDelegate.h
