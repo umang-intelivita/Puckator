@@ -1,6 +1,0 @@
-module Pods_Puckator {
-  umbrella header "Pods-Puckator-umbrella.h"
-
-  export *
-  module * { export * }
-}
